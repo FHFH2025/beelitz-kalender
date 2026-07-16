@@ -344,7 +344,34 @@ async def main() -> None:
 
         for month_index in range(MONTHS_AHEAD):
             await page.wait_for_timeout(800)
-            for event in await extract_events(page):
+            month_events = await extract_events(page)
+            if month_index == 0 and not month_events:
+                first_raw_event = page.locator(
+                    ".ajde_evcal_calendar .eventon_list_event"
+                ).first
+                if await first_raw_event.count():
+                    diagnostic = await first_raw_event.evaluate(
+                        """(e) => ({
+                            outerHTML: e.outerHTML.slice(0, 20000),
+                            attributedNodes: [e, ...e.querySelectorAll("*")]
+                                .filter(node => [...node.attributes].some(attr =>
+                                    /(^data-|time|date|start|end)/i.test(attr.name)
+                                ))
+                                .slice(0, 30)
+                                .map(node => ({
+                                    tag: node.tagName,
+                                    classes: node.className || "",
+                                    attrs: Object.fromEntries(
+                                        [...node.attributes].map(attr => [attr.name, attr.value])
+                                    )
+                                }))
+                        })"""
+                    )
+                    print("EVENTON_DIAGNOSTIC_BEGIN")
+                    print(diagnostic)
+                    print("EVENTON_DIAGNOSTIC_END")
+
+            for event in month_events:
                 all_events[event.uid_source] = event
 
             if month_index == MONTHS_AHEAD - 1:
