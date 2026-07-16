@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Veranstaltungen Beelitz</title>
+  <style>
+    body { font: 17px system-ui, sans-serif; max-width: 720px; margin: 3rem auto; padding: 0 1rem; line-height: 1.5; }
+    a.button { display: inline-block; padding: .8rem 1.1rem; border: 1px solid #333; border-radius: .6rem; text-decoration: none; }
+    code { overflow-wrap: anywhere; }
+  </style>
+</head>
+<body>
+  <h1>Veranstaltungen Beelitz</h1>
+  <p>Automatisch erzeugter Kalender aus der Veranstaltungsseite der Stadt Beelitz.</p>
+  <p><a class="button" href="beelitz.ics">Kalenderdatei öffnen</a></p>
+  <p>Für automatische Aktualisierungen diese Adresse als Kalenderabonnement verwenden:</p>
+  <p><code id="url"></code></p>
+  <script>
+    const url = new URL("beelitz.ics", window.location.href).href;
+    document.getElementById("url").textContent = url;
+  </script>
+</body>
+</html>

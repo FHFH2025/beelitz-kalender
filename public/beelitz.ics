@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Beelitz Veranstaltungen//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Veranstaltungen Beelitz
+X-WR-CALDESC:Veranstaltungen aus der Monatsübersicht der Stadt Beelitz
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+SOURCE:https://beelitz.de/veranstaltungen/
+BEGIN:VEVENT
+UID:0c196c1cafbe91467a123e3c@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Route65 – Das Musical
+CATEGORIES:Musical
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:96d6d2ce07b984ce61b88678@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Cocktail- & Weinabend am Cocktailschiff
+CATEGORIES:Fest
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19b420cbbbd5c89c6cff1ce9@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Johnny Logan & Band
+CATEGORIES:Konzert
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1055a24b6da15c72fb1a3640@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Route65 – Das Musical
+CATEGORIES:Musical
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8b346fec85b890fb8e443854@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Route65 – Das Musical
+CATEGORIES:Musical
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6605ce866870ede22dd6c2e3@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Führung des Fördervereins Heiz-Kraft-Werk
+CATEGORIES:Führung
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d55e3ce0487da5969d3ddd81@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Sommergarten
+CATEGORIES:Konzert
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:43c84d8b816e3097c2870099@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Beelitzer Museumssonntag
+CATEGORIES:Museum
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc79140e2d38447bb31ce3a@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Route65 – Das Musical
+CATEGORIES:Musical
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a62a4451046146b1cca33d49@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Treffen Selbsthilfegruppe Parkinson
+CATEGORIES:Gruppentreffen
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb403dc21f6ce0ef8bb8a6e@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:„Erzähl - Treff für Trauernde“
+CATEGORIES:Treffen
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a4d02980d9cb3465ffc93b7e@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
+CATEGORIES:Theater
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1705f4aaa5f4bd8717bfd8f1@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:Route65 – Das Musical
+CATEGORIES:Musical
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8126561bb3e1650971cd5de4@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
+CATEGORIES:Theater
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:03bab7efb508ff99e752c1af@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Route65 – Das Musical
+CATEGORIES:Musical
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0af9fba1272dda4e3e9ebb17@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260727
+SUMMARY:Kunst- & Handwerkermarkt
+CATEGORIES:Kunst & Ausstellung
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9a0f8403240d7b9c329e346d@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Weinfest im Stadtpark Bistro
+CATEGORIES:Fest
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:110024ecff350136bba3f3f6@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Cocktail- & Weinabend am Cocktailschiff
+CATEGORIES:Fest
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:100030a78360db0881d04f34@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
+CATEGORIES:Theater
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:32ab7e7b93fe55eeac85e1b3@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Route65 – Das Musical
+CATEGORIES:Musical
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1fec096d4d5d7dd0f75073c7@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Weinfest im Stadtpark Bistro
+CATEGORIES:Fest
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3d5a8e260a86f6a943cd890f@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
+CATEGORIES:Theater
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:110b0530261d5664c298af43@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Promenadenkonzert
+CATEGORIES:Fest\, Konzert
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:efb640021d6faaf23b1913b3@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Route65 – Das Musical
+CATEGORIES:Musical
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97b09631186ee5ea7dff0bce@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Treffen der Selbsthilfegruppe Schlaganfall
+CATEGORIES:Gruppentreffen
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:94f27bba317b43efc169f30a@beelitz-calendar
+DTSTAMP:20260716T210000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
+CATEGORIES:Theater
+DESCRIPTION:Aus der Veranstaltungsübersicht der Stadt Beelitz. Die öffent
+ lich sichtbare Monatsliste enthält nicht bei allen Einträgen eine zuverl
+ ässig auslesbare Uhrzeit. Bitte Uhrzeit\, Ort und mögliche Änderungen au
+ f der Quellseite prüfen: https://beelitz.de/veranstaltungen/
+URL:https://beelitz.de/veranstaltungen/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
