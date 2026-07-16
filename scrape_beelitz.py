@@ -278,7 +278,7 @@ async def click_next_month(page) -> bool:
     if button is None:
         return False
 
-    await button.click()
+    await button.click(force=True)
     try:
         await page.wait_for_function(
             """({title, firstStart}) => {
