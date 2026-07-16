@@ -166,6 +166,15 @@ async def extract_events(page) -> list[Event]:
                         const value = e.getAttribute(name);
                         if (value !== null && value !== "") return value;
                     }
+                    // EventON legt Zeit- und Wiederholungsdaten je nach
+                    // Version nicht am äußeren Ereignis, sondern z. B. am
+                    // inneren Auslöser (.evcal_list_a) ab.
+                    for (const name of names) {
+                        const node = e.querySelector(`[${name}]`);
+                        if (!node) continue;
+                        const value = node.getAttribute(name);
+                        if (value !== null && value !== "") return value;
+                    }
                     return "";
                 };
                 const text = (...selectors) => {
@@ -175,7 +184,7 @@ async def extract_events(page) -> list[Event]:
                     }
                     return "";
                 };
-                const link = e.querySelector("a[href]");
+                const link = e.querySelector(".evcal_list_a[href], a[href]");
                 return {
                     id: attr("data-event_id", "data-event-id") || e.id || "",
                     ri: attr("data-ri", "data-repeat-instance") || "0",
