@@ -290,7 +290,7 @@ async def click_next_month(page) -> bool:
                 const newStart = first ? (first.getAttribute("data-s") || "") : "";
                 return (newTitle && newTitle !== title) || (newStart && newStart !== firstStart);
             }""",
-            {"title": title, "firstStart": first_start},
+            arg={"title": title, "firstStart": first_start},
             timeout=15000,
         )
     except PlaywrightTimeoutError:
