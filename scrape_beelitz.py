@@ -301,7 +301,18 @@ async def click_next_month(page) -> bool:
     if button is None:
         return False
 
-    await button.click(force=True)
+    # Ein eventuell noch vorhandener Borlabs-Hintergrund fängt echte
+    # Mausereignisse ab. Nach dem Entfernen kann EventON seinen normalen
+    # Click-Handler ausführen und den Folgemonat per AJAX laden.
+    await page.evaluate(
+        """() => {
+            document.querySelector("#BorlabsDialogBackdrop")?.remove();
+            document.querySelector("#BorlabsCookieBox")?.remove();
+            document.documentElement.style.overflow = "";
+            document.body.style.overflow = "";
+        }"""
+    )
+    await button.click()
     try:
         await page.wait_for_function(
             """({title, firstStart}) => {
@@ -316,8 +327,10 @@ async def click_next_month(page) -> bool:
             arg={"title": title, "firstStart": first_start},
             timeout=15000,
         )
-    except PlaywrightTimeoutError:
-        await page.wait_for_timeout(2500)
+    except PlaywrightTimeoutError as exc:
+        raise RuntimeError(
+            f"Der Monatswechsel nach '{title or 'unbekannt'}' ist fehlgeschlagen."
+        ) from exc
     return True
 
 
@@ -339,6 +352,8 @@ async def main() -> None:
             "button:has-text('Akzeptieren')",
             "button:has-text('Nur notwendige')",
             ".borlabs-cookie-btn-accept-all",
+            "[data-borlabs-cookie-accept-all]",
+            ".brlbs-cmpnt-btn-accept-all",
         ]:
             button = page.locator(selector).first
             if await button.count() and await button.is_visible():
@@ -347,6 +362,18 @@ async def main() -> None:
                 except Exception:
                     pass
                 break
+
+        # Der aktuelle Borlabs-Dialog kann trotz fehlendem sichtbaren Knopf
+        # einen Backdrop behalten. Für das reine Lesen der öffentlichen
+        # Veranstaltungsliste wird die blockierende Oberfläche entfernt.
+        await page.evaluate(
+            """() => {
+                document.querySelector("#BorlabsDialogBackdrop")?.remove();
+                document.querySelector("#BorlabsCookieBox")?.remove();
+                document.documentElement.style.overflow = "";
+                document.body.style.overflow = "";
+            }"""
+        )
 
         try:
             await page.wait_for_selector(
