@@ -254,9 +254,10 @@ async def fetch_native_ics(request_context, events: list[Event]) -> dict[str, st
 
                 export_url = urljoin(event.url, html.unescape(match.group(1)))
                 ics_response = await request_context.get(export_url, timeout=30000)
-                if not ics_response.ok:
-                    return event.uid_source, None
                 content = await ics_response.text()
+                # Die Beelitz-Installation liefert den gültigen EventON-
+                # Kalenderdownload derzeit teilweise mit HTTP 400 aus.
+                # Deshalb entscheidet der ICS-Inhalt, nicht response.ok.
                 if "BEGIN:VEVENT" not in content or "END:VEVENT" not in content:
                     return event.uid_source, None
                 return event.uid_source, content
