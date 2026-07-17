@@ -69,15 +69,27 @@ def ics_escape(value: str) -> str:
 
 
 def fold(line: str, limit: int = 73) -> list[str]:
-    if len(line) <= limit:
+    """Faltet ICS-Zeilen nach UTF-8-Bytes statt nach Unicode-Zeichen."""
+    if len(line.encode("utf-8")) <= limit:
         return [line]
     result: list[str] = []
     first = True
     rest = line
     while rest:
-        width = limit if first else limit - 1
-        chunk, rest = rest[:width], rest[width:]
-        result.append(chunk if first else " " + chunk)
+        prefix = "" if first else " "
+        budget = limit - len(prefix.encode("utf-8"))
+        used = 0
+        split_at = 0
+        for index, character in enumerate(rest, start=1):
+            size = len(character.encode("utf-8"))
+            if used + size > budget:
+                break
+            used += size
+            split_at = index
+        if split_at == 0:
+            split_at = 1
+        chunk, rest = rest[:split_at], rest[split_at:]
+        result.append(prefix + chunk)
         first = False
     return result
 
@@ -90,6 +102,16 @@ def ics_unescape(value: str) -> str:
         .replace("\\;", ";")
         .replace("\\\\", "\\")
     )
+
+
+def clean_description(value: str) -> str:
+    """Bereinigt HTML-Entitäten und einfache HTML-Reste aus EventON-Texten."""
+    value = html.unescape(ics_unescape(value)).replace("\xa0", " ")
+    value = re.sub(r"<br\s*/?>", "\n", value, flags=re.IGNORECASE)
+    value = re.sub(r"</(?:p|div)\s*>", "\n", value, flags=re.IGNORECASE)
+    value = re.sub(r"<[^>]+>", "", value)
+    cleaned_lines = [clean(line) for line in value.splitlines()]
+    return "\n".join(line for line in cleaned_lines if line)
 
 
 def unfold_ics(content: str) -> list[str]:
@@ -141,7 +163,9 @@ def native_vevent_lines(
         property_name = name.split(";", 1)[0].upper()
         if property_name in {"UID", "DTSTAMP", "URL", "DESCRIPTION"}:
             if property_name == "DESCRIPTION":
-                native_description = ics_unescape(value)
+                native_description = clean_description(value)
+            continue
+        if property_name == "LOCATION" and not clean_description(value):
             continue
         kept.append(line)
 
@@ -254,6 +278,80 @@ def render_ics(
     for line in lines:
         output.extend(fold(line))
     return "\r\n".join(output) + "\r\n"
+
+
+def validate_ics(
+    content: str,
+    expected_event_count: int,
+    previous_content: str = "",
+) -> None:
+    """Verhindert die Veröffentlichung einer leeren oder beschädigten ICS."""
+    errors: list[str] = []
+    if not content.startswith("BEGIN:VCALENDAR\r\n"):
+        errors.append("VCALENDAR-Anfang fehlt")
+    if not content.rstrip().endswith("END:VCALENDAR"):
+        errors.append("VCALENDAR-Ende fehlt")
+    if "BEGIN:VALARM" in content:
+        errors.append("unerwartete VALARM-Einträge vorhanden")
+    if re.search(r"^LOCATION:\s*$", content, re.MULTILINE):
+        errors.append("leere LOCATION-Eigenschaften vorhanden")
+    if "&nbsp;" in content.lower():
+        errors.append("nicht bereinigte &nbsp;-Entitäten vorhanden")
+
+    event_blocks = re.findall(
+        r"BEGIN:VEVENT\r?\n(.*?)\r?\nEND:VEVENT",
+        content,
+        flags=re.DOTALL,
+    )
+    if len(event_blocks) != expected_event_count:
+        errors.append(
+            f"VEVENT-Anzahl {len(event_blocks)} statt {expected_event_count}"
+        )
+    if expected_event_count < 10:
+        errors.append(f"unplausibel wenige Veranstaltungen: {expected_event_count}")
+
+    previous_count = previous_content.count("BEGIN:VEVENT")
+    if previous_count >= 20 and expected_event_count < previous_count / 2:
+        errors.append(
+            f"starker Rückgang von {previous_count} auf {expected_event_count} Termine"
+        )
+
+    uids: list[str] = []
+    for index, block in enumerate(event_blocks, start=1):
+        lines = unfold_ics(block)
+        properties = [line.split(":", 1)[0].split(";", 1)[0].upper() for line in lines if ":" in line]
+        for required in ("UID", "DTSTART", "SUMMARY", "DESCRIPTION", "URL"):
+            if properties.count(required) != 1:
+                errors.append(
+                    f"Termin {index}: {required} kommt {properties.count(required)}-mal vor"
+                )
+        uid_line = next((line for line in lines if line.startswith("UID:")), "")
+        if uid_line:
+            uids.append(uid_line[4:])
+        url_line = next((line for line in lines if line.startswith("URL:")), "")
+        if url_line and not url_line.startswith("URL:https://beelitz.de/events/"):
+            errors.append(f"Termin {index}: unerwartete URL")
+        description_line = next(
+            (line for line in lines if line.startswith("DESCRIPTION:")), ""
+        )
+        if "Zuletzt mit beelitz.de abgeglichen:" not in description_line:
+            errors.append(f"Termin {index}: Abgleichvermerk fehlt")
+
+    if len(uids) != len(set(uids)):
+        errors.append("doppelte UIDs vorhanden")
+
+    long_lines = [
+        number
+        for number, line in enumerate(content.split("\r\n"), start=1)
+        if len(line.encode("utf-8")) > 75
+    ]
+    if long_lines:
+        errors.append(f"{len(long_lines)} ICS-Zeilen länger als 75 Byte")
+
+    if errors:
+        preview = "\n- ".join(errors[:20])
+        raise RuntimeError(f"ICS-Validierung fehlgeschlagen:\n- {preview}")
+    print(f"ICS-Validierung erfolgreich: {expected_event_count} Termine")
 
 
 async def fetch_native_ics(request_context, events: list[Event]) -> dict[str, str]:
@@ -553,6 +651,7 @@ async def main() -> None:
     )
     new_content = render_ics(events, native_ics, sync_note)
     old_content = OUTPUT.read_text(encoding="utf-8") if OUTPUT.exists() else ""
+    validate_ics(new_content, len(events), old_content)
     if new_content != old_content:
         OUTPUT.write_text(new_content, encoding="utf-8", newline="")
         print(f"{len(events)} Veranstaltungen geschrieben: {OUTPUT}")
