@@ -184,12 +184,15 @@ async def extract_events(page) -> list[Event]:
                     }
                     return "";
                 };
-                const link = e.querySelector(".evcal_list_a[href], a[href]");
+                const link = e.querySelector(
+                    ".evo_event_schema a[itemprop='url'][href], a[itemprop='url'][href], .evcal_list_a[href], a[href]"
+                );
                 return {
                     id: attr("data-event_id", "data-event-id") || e.id || "",
                     ri: attr("data-ri", "data-repeat-instance") || "0",
                     start: attr("data-s", "data-start", "data-start-time"),
                     end: attr("data-e", "data-end", "data-end-time"),
+                    timeRange: attr("data-time"),
                     allDay: attr("data-allday", "data-all-day", "data-all_day"),
                     classes: e.className || "",
                     title: text(
@@ -219,6 +222,17 @@ async def extract_events(page) -> list[Event]:
         title = clean(raw.get("title"))
         start = parse_epoch(raw.get("start"))
         end = parse_epoch(raw.get("end"))
+
+        # Neuere EventON-Versionen speichern Start und Ende gemeinsam als
+        # "START_EPOCH-END_EPOCH" im Attribut data-time.
+        time_range = clean(raw.get("timeRange"))
+        if time_range:
+            range_match = re.fullmatch(r"\s*(\d+(?:\.\d+)?)\s*-\s*(\d+(?:\.\d+)?)\s*", time_range)
+            if range_match:
+                if start is None:
+                    start = parse_epoch(range_match.group(1))
+                if end is None:
+                    end = parse_epoch(range_match.group(2))
 
         if not title or start is None:
             continue
@@ -345,32 +359,6 @@ async def main() -> None:
         for month_index in range(MONTHS_AHEAD):
             await page.wait_for_timeout(800)
             month_events = await extract_events(page)
-            if month_index == 0 and not month_events:
-                first_raw_event = page.locator(
-                    ".ajde_evcal_calendar .eventon_list_event"
-                ).first
-                if await first_raw_event.count():
-                    diagnostic = await first_raw_event.evaluate(
-                        """(e) => ({
-                            outerHTML: e.outerHTML.slice(0, 20000),
-                            attributedNodes: [e, ...e.querySelectorAll("*")]
-                                .filter(node => [...node.attributes].some(attr =>
-                                    /(^data-|time|date|start|end)/i.test(attr.name)
-                                ))
-                                .slice(0, 30)
-                                .map(node => ({
-                                    tag: node.tagName,
-                                    classes: node.className || "",
-                                    attrs: Object.fromEntries(
-                                        [...node.attributes].map(attr => [attr.name, attr.value])
-                                    )
-                                }))
-                        })"""
-                    )
-                    print("EVENTON_DIAGNOSTIC_BEGIN")
-                    print(diagnostic)
-                    print("EVENTON_DIAGNOSTIC_END")
-
             for event in month_events:
                 all_events[event.uid_source] = event
 
