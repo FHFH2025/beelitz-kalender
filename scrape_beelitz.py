@@ -362,20 +362,41 @@ async def fetch_native_ics(request_context, events: list[Event]) -> dict[str, st
         re.IGNORECASE,
     )
 
+    async def response_text(response) -> str:
+        """Dekodiert auch Beelitz-Antworten mit falsch deklariertem Charset."""
+        body = await response.body()
+        content_type = response.headers.get("content-type", "")
+        charset_match = re.search(
+            r"charset\s*=\s*[\"']?([^;\s\"']+)",
+            content_type,
+            flags=re.IGNORECASE,
+        )
+        candidates: list[str] = []
+        if charset_match:
+            candidates.append(charset_match.group(1))
+        candidates.extend(["utf-8-sig", "cp1252", "latin-1"])
+
+        for encoding in dict.fromkeys(candidates):
+            try:
+                return body.decode(encoding)
+            except (UnicodeDecodeError, LookupError):
+                continue
+        return body.decode("utf-8", errors="replace")
+
     async def fetch_one(event: Event) -> tuple[str, str | None]:
         async with semaphore:
             try:
                 event_response = await request_context.get(event.url, timeout=30000)
                 if not event_response.ok:
                     return event.uid_source, None
-                event_html = await event_response.text()
+                event_html = await response_text(event_response)
                 match = export_pattern.search(event_html)
                 if not match:
                     return event.uid_source, None
 
                 export_url = urljoin(event.url, html.unescape(match.group(1)))
                 ics_response = await request_context.get(export_url, timeout=30000)
-                content = await ics_response.text()
+                content = await response_text(ics_response)
                 # Die Beelitz-Installation liefert den gültigen EventON-
                 # Kalenderdownload derzeit teilweise mit HTTP 400 aus.
                 # Deshalb entscheidet der ICS-Inhalt, nicht response.ok.
