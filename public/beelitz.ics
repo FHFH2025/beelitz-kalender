@@ -32,12 +32,11 @@ UID:b8d4a6698b63c07b0f7c4da4b2c3@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260717T150000Z
 DTEND:20260717T215900Z
-LOCATION:
 SUMMARY:Cocktail- & Weinabend am Cocktailschiff
-DESCRIPTION:\nhttps://beelitz.de/events/cocktail-weinabend-am-cocktailsch
- iff/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/cocktail-weinaben
- d-am-cocktailschiff/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
- 7.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/cocktail-weinabend-am-cocktailschif
+ f/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/cocktail-weinabend-
+ am-cocktailschiff/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.
+ 07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/cocktail-weinabend-am-cocktailschiff/var/ri
  -1.l-L1
 END:VEVENT
@@ -46,15 +45,14 @@ UID:cd36760a40c6c84bb0f39d8acb47@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260717T180000Z
 DTEND:20260717T215900Z
-LOCATION:
 SUMMARY:Johnny Logan & Band
-DESCRIPTION:&nbsp\; &nbsp\; Seine markante Stimme beherrscht romantische 
- Balladen ebenso wie die Volkslieder seiner Heimat Irland: Johnny Logan i
- st ein absolutes Ausnahmetalent. Gemeinsam mit seiner Band wird er am 17
- . Juli 2026 ab 20 Uhr auf der Beelitzer Freilichtbühne seine größten Hit
- s zum Besten geben. Karten für 75 Euro sind ab[..]\nhttps://beelitz.de/e
- vents/johnny-logan-band/\n\nQuelle: https://beelitz.de/events/johnny-log
- an-band/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Seine markante Stimme beherrscht romantische Balladen ebenso 
+ wie die Volkslieder seiner Heimat Irland: Johnny Logan ist ein absolutes
+  Ausnahmetalent. Gemeinsam mit seiner Band wird er am 17. Juli 2026 ab 2
+ 0 Uhr auf der Beelitzer Freilichtbühne seine größten Hits zum Besten 
+ geben. Karten für 75 Euro sind ab[..]\nhttps://beelitz.de/events/johnny
+ -logan-band/\n\nQuelle: https://beelitz.de/events/johnny-logan-band/\nZu
+ letzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/johnny-logan-band/
 END:VEVENT
 BEGIN:VEVENT
@@ -62,15 +60,14 @@ UID:9ba13464e6fa5af96d5fbd1b01f7@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260717T180000Z
 DTEND:20260717T215900Z
-LOCATION:
 SUMMARY:Route65 – Das Musical
-DESCRIPTION:Country Musical Route65\,  ein wilder Girls Trip voll Herz un
- d Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
- e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßigt:
-  50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 14547
-  Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-1.l-L1\n\
- nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-1.l-L1\nZu
- letzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Country Musical Route65\, ein wilder Girls Trip voll Herz und
+  Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
+ e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßi
+ gt: 50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 
+ 14547 Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-1.l-
+ L1\n\nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-1.l-L
+ 1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/route65-das-musical/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -78,15 +75,14 @@ UID:32b9842627ba5bda2e78910f67ad@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260718T180000Z
 DTEND:20260718T215900Z
-LOCATION:
 SUMMARY:Route65 – Das Musical
-DESCRIPTION:Country Musical Route65\,  ein wilder Girls Trip voll Herz un
- d Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
- e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßigt:
-  50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 14547
-  Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-2.l-L1\n\
- nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-2.l-L1\nZu
- letzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Country Musical Route65\, ein wilder Girls Trip voll Herz und
+  Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
+ e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßi
+ gt: 50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 
+ 14547 Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-2.l-
+ L1\n\nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-2.l-L
+ 1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/route65-das-musical/var/ri-2.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -94,17 +90,17 @@ UID:bb6cc8728ba13cc534d667dd3981@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260719T080000Z
 DTEND:20260719T215900Z
-LOCATION:Beelitz-Heilstätten Straße nach Fichtenwalde 3\,  14547 Beelitz 
- Heilstätten
+LOCATION:Beelitz-Heilstätten Straße nach Fichtenwalde 3\,  14547 Beelit
+ z Heilstätten
 SUMMARY:Führung des Fördervereins Heiz-Kraft-Werk
-DESCRIPTION:Im Jahr 2026 finden wieder regelmäßige Führungen statt\,  und
-  zwar erwarten wir Sie von März bis November\,  jeweils am 3. Sonntag de
- s Monats um 10.00 Uhr. Wir beginnen am 15.03.2026 um 10.00 Uhr am Eingan
- g zum Maschinensaal (Friedenspfahl und Schaukasten sind die Anhaltspunkt
- e).  Wir haben in diesem Jahr viel vor[..]\nhttps://beelitz.de/events/fu
- ehrung-des-foerdervereins-heiz-kraft-werk/var/ri-4.l-L1\n\nQuelle: https
- ://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk/var/ri-
- 4.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Im Jahr 2026 finden wieder regelmäßige Führungen statt\, u
+ nd zwar erwarten wir Sie von März bis November\, jeweils am 3. Sonntag 
+ des Monats um 10.00 Uhr. Wir beginnen am 15.03.2026 um 10.00 Uhr am Eing
+ ang zum Maschinensaal (Friedenspfahl und Schaukasten sind die Anhaltspun
+ kte). Wir haben in diesem Jahr viel vor[..]\nhttps://beelitz.de/events/f
+ uehrung-des-foerdervereins-heiz-kraft-werk/var/ri-4.l-L1\n\nQuelle: http
+ s://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk/var/ri
+ -4.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk
  /var/ri-4.l-L1
 END:VEVENT
@@ -113,17 +109,16 @@ UID:950cbf7d4f5ecb351ab73eef33da@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260719T090000Z
 DTEND:20260719T150000Z
-LOCATION:
 SUMMARY:Beelitzer Museumssonntag
-DESCRIPTION:Jeden dritten Sonntag im Monat öffnen unsere drei Museen ihre
-  Türen für alle Interessierten. In der ehemaligen Wassermühle Ernst Voge
- l stellt die Maus Mika unseren jungen Besucherinnen und Besuchern Rätsel
- aufgaben. Werden alle Rätsel gelöst\,  wartet am Ende eine kleine Überra
- schung. Die schönsten Kleider der ehemaligen Spargelköniginnen gibt es i
- m Beelitzer[..]\nhttps://beelitz.de/events/beelitzer-museumssonntag/var/
- ri-3.l-L1\n\nQuelle: https://beelitz.de/events/beelitzer-museumssonntag/
- var/ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uh
- r
+DESCRIPTION:Jeden dritten Sonntag im Monat öffnen unsere drei Museen ihr
+ e Türen für alle Interessierten. In der ehemaligen Wassermühle Ernst 
+ Vogel stellt die Maus Mika unseren jungen Besucherinnen und Besuchern R
+ ätselaufgaben. Werden alle Rätsel gelöst\, wartet am Ende eine kleine
+  Überraschung. Die schönsten Kleider der ehemaligen Spargelköniginnen
+  gibt es im Beelitzer[..]\nhttps://beelitz.de/events/beelitzer-museumsso
+ nntag/var/ri-3.l-L1\n\nQuelle: https://beelitz.de/events/beelitzer-museu
+ mssonntag/var/ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\
+ , 10:15 Uhr
 URL:https://beelitz.de/events/beelitzer-museumssonntag/var/ri-3.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -133,9 +128,9 @@ DTSTART:20260719T090000Z
 DTEND:20260719T130000Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Sommergarten
-DESCRIPTION:\nhttps://beelitz.de/events/sommergarten-4/\n\nQuelle: https:
- //beelitz.de/events/sommergarten-4/\nZuletzt mit beelitz.de abgeglichen:
-  17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/sommergarten-4/\n\nQuelle: https://
+ beelitz.de/events/sommergarten-4/\nZuletzt mit beelitz.de abgeglichen: 1
+ 7.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/sommergarten-4/
 END:VEVENT
 BEGIN:VEVENT
@@ -143,15 +138,14 @@ UID:4cb2a9aff3a6bf78acb8340be686@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260719T170000Z
 DTEND:20260719T215900Z
-LOCATION:
 SUMMARY:Route65 – Das Musical
-DESCRIPTION:Country Musical Route65\,  ein wilder Girls Trip voll Herz un
- d Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
- e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßigt:
-  50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 14547
-  Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-3.l-L1\n\
- nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-3.l-L1\nZu
- letzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Country Musical Route65\, ein wilder Girls Trip voll Herz und
+  Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
+ e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßi
+ gt: 50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 
+ 14547 Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-3.l-
+ L1\n\nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-3.l-L
+ 1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/route65-das-musical/var/ri-3.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -159,19 +153,19 @@ UID:8969cd17780c0c2d628b13aac31c@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260721T123000Z
 DTEND:20260721T215900Z
-LOCATION:Neurologisches Fachkrankenhaus für Bewegungsstörungen / Parkinso
- n Straße nach Fichtenwalde 16
+LOCATION:Neurologisches Fachkrankenhaus für Bewegungsstörungen / Parkin
+ son Straße nach Fichtenwalde 16
 SUMMARY:Treffen Selbsthilfegruppe Parkinson
-DESCRIPTION:Wir sind eine Gruppe von Parkinson-Patienten und deren Angehö
- rige. Unsere Treffen finden jeden 3. Dienstag in der Bibliothek der Park
- insonklinik statt. Unseren aktuellen Flyer\,  den Ansprechpartner und we
- itere Informationen zum Thema Parkinson finden Sie auf der Homepage &nbs
- p\; &#8211\;&gt\; Neurologisches Fachkrankenhaus für Bewegungsstörungen 
- / ParkinsonStandort: ParkinsonklinikStraße nach Fichtenwalde 1614547 Bee
- litz-Heilstätten\nhttps://beelitz.de/events/treffen-selbsthilfegruppe-pa
- rkinson/var/ri-10.l-L1\n\nQuelle: https://beelitz.de/events/treffen-selb
- sthilfegruppe-parkinson/var/ri-10.l-L1\nZuletzt mit beelitz.de abgeglich
- en: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Wir sind eine Gruppe von Parkinson-Patienten und deren Angeh
+ örige. Unsere Treffen finden jeden 3. Dienstag in der Bibliothek der Pa
+ rkinsonklinik statt. Unseren aktuellen Flyer\, den Ansprechpartner und w
+ eitere Informationen zum Thema Parkinson finden Sie auf der Homepage –
+ > Neurologisches Fachkrankenhaus für Bewegungsstörungen / ParkinsonSta
+ ndort: ParkinsonklinikStraße nach Fichtenwalde 1614547 Beelitz-Heilstä
+ tten\nhttps://beelitz.de/events/treffen-selbsthilfegruppe-parkinson/var/
+ ri-10.l-L1\n\nQuelle: https://beelitz.de/events/treffen-selbsthilfegrupp
+ e-parkinson/var/ri-10.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.20
+ 26\, 10:15 Uhr
 URL:https://beelitz.de/events/treffen-selbsthilfegruppe-parkinson/var/ri-
  10.l-L1
 END:VEVENT
@@ -180,16 +174,15 @@ UID:6f6c268aa3fa1a6fb7ee17e35bf8@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260722T143000Z
 DTEND:20260722T215900Z
-LOCATION:
 SUMMARY:„Erzähl - Treff für Trauernde“
-DESCRIPTION:Im „Erzähl &#8211\; Treff für Trauernde“ treffen sich regelmä
- ßig Menschen aller Altersgruppen ab 18 Jahre\,  die ihre Trauer verarbei
- ten wollen. In unserer Gruppe geht es vor allem darum\,  dass man in sei
- ner Trauer nicht allein ist. Viele Fragen\,  die uns beschäftigen\,  wer
- den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[..]
- \nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2/var/ri-6.l-L1
- \n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2/var
- /ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
+ äßig Menschen aller Altersgruppen ab 18 Jahre\, die ihre Trauer verarb
+ eiten wollen. In unserer Gruppe geht es vor allem darum\, dass man in se
+ iner Trauer nicht allein ist. Viele Fragen\, die uns beschäftigen\, wer
+ den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
+ .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2/var/ri-6.l-
+ L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2/v
+ ar/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2/var/ri-6.l-L
  1
 END:VEVENT
@@ -200,14 +193,14 @@ DTSTART:20260723T170000Z
 DTEND:20260723T215900Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
-DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Herth
- a Baumann! Beziehungsweise im Deutschen Haus in Beelitz\,  in dem das En
- semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorübergehendes 
- Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. Juli 2026
- \,  ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-baumann-2-k
- eine-ferien-fuer-max/\n\nQuelle: https://beelitz.de/events/maxe-baumann-
- 2-keine-ferien-fuer-max/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026
- \, 10:02 Uhr
+DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Hert
+ ha Baumann! Beziehungsweise im Deutschen Haus in Beelitz\, in dem das En
+ semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorüberg
+ ehendes Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. 
+ Juli 2026\, ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-bau
+ mann-2-keine-ferien-fuer-max/\n\nQuelle: https://beelitz.de/events/maxe-
+ baumann-2-keine-ferien-fuer-max/\nZuletzt mit beelitz.de abgeglichen: 17
+ .07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/maxe-baumann-2-keine-ferien-fuer-max/
 END:VEVENT
 BEGIN:VEVENT
@@ -215,15 +208,14 @@ UID:35873a35497d262fa556e53aba4a@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260723T180000Z
 DTEND:20260723T215900Z
-LOCATION:
 SUMMARY:Route65 – Das Musical
-DESCRIPTION:Country Musical Route65\,  ein wilder Girls Trip voll Herz un
- d Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
- e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßigt:
-  50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 14547
-  Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-4.l-L1\n\
- nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-4.l-L1\nZu
- letzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Country Musical Route65\, ein wilder Girls Trip voll Herz und
+  Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
+ e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßi
+ gt: 50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 
+ 14547 Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-4.l-
+ L1\n\nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-4.l-L
+ 1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/route65-das-musical/var/ri-4.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -233,14 +225,14 @@ DTSTART:20260724T170000Z
 DTEND:20260724T215900Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
-DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Herth
- a Baumann! Beziehungsweise im Deutschen Haus in Beelitz\,  in dem das En
- semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorübergehendes 
- Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. Juli 2026
- \,  ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-baumann-2-k
- eine-ferien-fuer-max/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/
- maxe-baumann-2-keine-ferien-fuer-max/var/ri-1.l-L1\nZuletzt mit beelitz.
- de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Hert
+ ha Baumann! Beziehungsweise im Deutschen Haus in Beelitz\, in dem das En
+ semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorüberg
+ ehendes Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. 
+ Juli 2026\, ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-bau
+ mann-2-keine-ferien-fuer-max/var/ri-1.l-L1\n\nQuelle: https://beelitz.de
+ /events/maxe-baumann-2-keine-ferien-fuer-max/var/ri-1.l-L1\nZuletzt mit 
+ beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/maxe-baumann-2-keine-ferien-fuer-max/var/ri
  -1.l-L1
 END:VEVENT
@@ -249,15 +241,14 @@ UID:d9b4134cbb375efdecefa684f128@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260724T180000Z
 DTEND:20260724T215900Z
-LOCATION:
 SUMMARY:Route65 – Das Musical
-DESCRIPTION:Country Musical Route65\,  ein wilder Girls Trip voll Herz un
- d Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
- e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßigt:
-  50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 14547
-  Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-5.l-L1\n\
- nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-5.l-L1\nZu
- letzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Country Musical Route65\, ein wilder Girls Trip voll Herz und
+  Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
+ e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßi
+ gt: 50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 
+ 14547 Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-5.l-
+ L1\n\nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-5.l-L
+ 1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/route65-das-musical/var/ri-5.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -267,14 +258,14 @@ DTSTART:20260725
 DTEND:20260726
 LOCATION:Beelitzer Stadtpark
 SUMMARY:Kunst- & Handwerkermarkt
-DESCRIPTION:Am letzten Juli-Wochenende kommen Künstler und Kunsthandwerke
- r in Beelitz zusammen\,  um ihre Kunstwerke zu präsentieren und lassen s
- ich bei der Arbeit von neugierigen Besuchern über die Schulter schauen. 
- Viele Händler machen den Mühlengarten zum größten Freiluftatelier der Re
- gion. Die Aussteller kommen aus Berlin und ganz Brandenburg sowie den be
- nachbarten Bundesländern.[..]\nhttps://beelitz.de/events/kunst-handwerke
- rmarkt/\n\nQuelle: https://beelitz.de/events/kunst-handwerkermarkt/\nZul
- etzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Am letzten Juli-Wochenende kommen Künstler und Kunsthandwerk
+ er in Beelitz zusammen\, um ihre Kunstwerke zu präsentieren und lassen 
+ sich bei der Arbeit von neugierigen Besuchern über die Schulter schauen
+ . Viele Händler machen den Mühlengarten zum größten Freiluftatelier 
+ der Region. Die Aussteller kommen aus Berlin und ganz Brandenburg sowie 
+ den benachbarten Bundesländern.[..]\nhttps://beelitz.de/events/kunst-ha
+ ndwerkermarkt/\n\nQuelle: https://beelitz.de/events/kunst-handwerkermark
+ t/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/kunst-handwerkermarkt/
 END:VEVENT
 BEGIN:VEVENT
@@ -282,11 +273,10 @@ UID:c6d8c50eb01609323a0358c0e035@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260725T100000Z
 DTEND:20260725T215900Z
-LOCATION:
 SUMMARY:Weinfest im Stadtpark Bistro
-DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/weinfest-im-stadtpark-bistro/\n
- \nQuelle: https://beelitz.de/events/weinfest-im-stadtpark-bistro/\nZulet
- zt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/weinfest-im-stadtpark-bistr
+ o/\n\nQuelle: https://beelitz.de/events/weinfest-im-stadtpark-bistro/\nZ
+ uletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/weinfest-im-stadtpark-bistro/
 END:VEVENT
 BEGIN:VEVENT
@@ -294,12 +284,11 @@ UID:0e646a6bfd9b3dc0b01f003754a6@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260725T120000Z
 DTEND:20260725T205900Z
-LOCATION:
 SUMMARY:Cocktail- & Weinabend am Cocktailschiff
-DESCRIPTION:\nhttps://beelitz.de/events/cocktail-weinabend-am-cocktailsch
- iff/var/ri-2.l-L1\n\nQuelle: https://beelitz.de/events/cocktail-weinaben
- d-am-cocktailschiff/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
- 7.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/cocktail-weinabend-am-cocktailschif
+ f/var/ri-2.l-L1\n\nQuelle: https://beelitz.de/events/cocktail-weinabend-
+ am-cocktailschiff/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.
+ 07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/cocktail-weinabend-am-cocktailschiff/var/ri
  -2.l-L1
 END:VEVENT
@@ -310,14 +299,14 @@ DTSTART:20260725T170000Z
 DTEND:20260725T215900Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
-DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Herth
- a Baumann! Beziehungsweise im Deutschen Haus in Beelitz\,  in dem das En
- semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorübergehendes 
- Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. Juli 2026
- \,  ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-baumann-2-k
- eine-ferien-fuer-max/var/ri-2.l-L1\n\nQuelle: https://beelitz.de/events/
- maxe-baumann-2-keine-ferien-fuer-max/var/ri-2.l-L1\nZuletzt mit beelitz.
- de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Hert
+ ha Baumann! Beziehungsweise im Deutschen Haus in Beelitz\, in dem das En
+ semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorüberg
+ ehendes Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. 
+ Juli 2026\, ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-bau
+ mann-2-keine-ferien-fuer-max/var/ri-2.l-L1\n\nQuelle: https://beelitz.de
+ /events/maxe-baumann-2-keine-ferien-fuer-max/var/ri-2.l-L1\nZuletzt mit 
+ beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/maxe-baumann-2-keine-ferien-fuer-max/var/ri
  -2.l-L1
 END:VEVENT
@@ -326,15 +315,14 @@ UID:20db7717ac536b10d7369139fb56@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260725T180000Z
 DTEND:20260725T215900Z
-LOCATION:
 SUMMARY:Route65 – Das Musical
-DESCRIPTION:Country Musical Route65\,  ein wilder Girls Trip voll Herz un
- d Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
- e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßigt:
-  50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 14547
-  Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-6.l-L1\n\
- nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-6.l-L1\nZu
- letzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Country Musical Route65\, ein wilder Girls Trip voll Herz und
+  Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
+ e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßi
+ gt: 50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 
+ 14547 Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-6.l-
+ L1\n\nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-6.l-L
+ 1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/route65-das-musical/var/ri-6.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -342,12 +330,11 @@ UID:ddfec1122de086fc755ee8a6740d@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260726T100000Z
 DTEND:20260726T180000Z
-LOCATION:
 SUMMARY:Weinfest im Stadtpark Bistro
-DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/weinfest-im-stadtpark-bistro/va
- r/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/weinfest-im-stadtpark-b
- istro/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10
- :02 Uhr
+DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/weinfest-im-stadtpark-bistr
+ o/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/weinfest-im-stadtpa
+ rk-bistro/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\
+ , 10:15 Uhr
 URL:https://beelitz.de/events/weinfest-im-stadtpark-bistro/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -357,14 +344,14 @@ DTSTART:20260726T130000Z
 DTEND:20260726T145900Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
-DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Herth
- a Baumann! Beziehungsweise im Deutschen Haus in Beelitz\,  in dem das En
- semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorübergehendes 
- Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. Juli 2026
- \,  ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-baumann-2-k
- eine-ferien-fuer-max/var/ri-3.l-L1\n\nQuelle: https://beelitz.de/events/
- maxe-baumann-2-keine-ferien-fuer-max/var/ri-3.l-L1\nZuletzt mit beelitz.
- de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Hert
+ ha Baumann! Beziehungsweise im Deutschen Haus in Beelitz\, in dem das En
+ semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorüberg
+ ehendes Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. 
+ Juli 2026\, ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-bau
+ mann-2-keine-ferien-fuer-max/var/ri-3.l-L1\n\nQuelle: https://beelitz.de
+ /events/maxe-baumann-2-keine-ferien-fuer-max/var/ri-3.l-L1\nZuletzt mit 
+ beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/maxe-baumann-2-keine-ferien-fuer-max/var/ri
  -3.l-L1
 END:VEVENT
@@ -375,9 +362,9 @@ DTSTART:20260726T130000Z
 DTEND:20260726T150000Z
 LOCATION:Beelitzer Stadtpark / Mühlengarten
 SUMMARY:Promenadenkonzert
-DESCRIPTION:mehr Informationen folgen in Kürze\nhttps://beelitz.de/events
- /promenadenkonzert-4/\n\nQuelle: https://beelitz.de/events/promenadenkon
- zert-4/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:mehr Informationen folgen in Kürze\nhttps://beelitz.de/event
+ s/promenadenkonzert-4/\n\nQuelle: https://beelitz.de/events/promenadenko
+ nzert-4/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/promenadenkonzert-4/
 END:VEVENT
 BEGIN:VEVENT
@@ -385,15 +372,14 @@ UID:77d42c5f50b17825c05022956331@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260726T170000Z
 DTEND:20260726T215900Z
-LOCATION:
 SUMMARY:Route65 – Das Musical
-DESCRIPTION:Country Musical Route65\,  ein wilder Girls Trip voll Herz un
- d Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
- e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßigt:
-  50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 14547
-  Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-7.l-L1\n\
- nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-7.l-L1\nZu
- letzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Country Musical Route65\, ein wilder Girls Trip voll Herz und
+  Witz mit Musik von Countrystar Jens Dammann. Gute Laune und mitreißend
+ e Countryklänge erwarten das Publikum. Eintritt: 60\, 40 EUR / ermäßi
+ gt: 50\, 40 EUR Kultur Beelitz-Heilstätten Straße nach Fichtenwalde 3 
+ 14547 Beelitz\nhttps://beelitz.de/events/route65-das-musical/var/ri-7.l-
+ L1\n\nQuelle: https://beelitz.de/events/route65-das-musical/var/ri-7.l-L
+ 1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/route65-das-musical/var/ri-7.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -403,16 +389,16 @@ DTSTART:20260728T150000Z
 DTEND:20260728T215900Z
 LOCATION:Neurologische Kliniken Paracelsusring 6a
 SUMMARY:Treffen der Selbsthilfegruppe Schlaganfall
-DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet. Zum 
- Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der Stiftung
-  Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst und ander
- en aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist in den Ne
- urologischen Kliniken\,  Paracelsusring 6a im Konferenzraum K2. Der Schl
- aganfall bedeutet eine schlagartige gravierende[..]\nhttps://beelitz.de/
- events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-6.l-L1\n\nQuell
- e: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
- var/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uh
- r
+DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet
+ . Zum Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der 
+ Stiftung Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst u
+ nd anderen aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist i
+ n den Neurologischen Kliniken\, Paracelsusring 6a im Konferenzraum K2. D
+ er Schlaganfall bedeutet eine schlagartige gravierende[..]\nhttps://beel
+ itz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-6.l-L1\n
+ \nQuelle: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlag
+ anfall/var/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 1
+ 0:15 Uhr
 URL:https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
  var/ri-6.l-L1
 END:VEVENT
@@ -423,14 +409,14 @@ DTSTART:20260731T170000Z
 DTEND:20260731T215900Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
-DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Herth
- a Baumann! Beziehungsweise im Deutschen Haus in Beelitz\,  in dem das En
- semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorübergehendes 
- Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. Juli 2026
- \,  ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-baumann-2-k
- eine-ferien-fuer-max/var/ri-4.l-L1\n\nQuelle: https://beelitz.de/events/
- maxe-baumann-2-keine-ferien-fuer-max/var/ri-4.l-L1\nZuletzt mit beelitz.
- de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Hert
+ ha Baumann! Beziehungsweise im Deutschen Haus in Beelitz\, in dem das En
+ semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorüberg
+ ehendes Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. 
+ Juli 2026\, ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-bau
+ mann-2-keine-ferien-fuer-max/var/ri-4.l-L1\n\nQuelle: https://beelitz.de
+ /events/maxe-baumann-2-keine-ferien-fuer-max/var/ri-4.l-L1\nZuletzt mit 
+ beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/maxe-baumann-2-keine-ferien-fuer-max/var/ri
  -4.l-L1
 END:VEVENT
@@ -439,11 +425,10 @@ UID:4ad3412b68e56d080edbaae2a1ec@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260801T070000Z
 DTEND:20260801T110000Z
-LOCATION:
 SUMMARY:Blutspende im Tiedemann-Haus
-DESCRIPTION:\nhttps://beelitz.de/events/blutspende-im-tiedemann-haus-3/\n
- \nQuelle: https://beelitz.de/events/blutspende-im-tiedemann-haus-3/\nZul
- etzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/blutspende-im-tiedemann-haus-3/\n\n
+ Quelle: https://beelitz.de/events/blutspende-im-tiedemann-haus-3/\nZulet
+ zt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/blutspende-im-tiedemann-haus-3/
 END:VEVENT
 BEGIN:VEVENT
@@ -453,14 +438,14 @@ DTSTART:20260801T170000Z
 DTEND:20260801T215900Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Maxe Baumann 2 - Keine Ferien für Max!
-DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Herth
- a Baumann! Beziehungsweise im Deutschen Haus in Beelitz\,  in dem das En
- semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorübergehendes 
- Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. Juli 2026
- \,  ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-baumann-2-k
- eine-ferien-fuer-max/var/ri-5.l-L1\n\nQuelle: https://beelitz.de/events/
- maxe-baumann-2-keine-ferien-fuer-max/var/ri-5.l-L1\nZuletzt mit beelitz.
- de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Es geht wieder drunter und drüber im Hause von Maxe und Hert
+ ha Baumann! Beziehungsweise im Deutschen Haus in Beelitz\, in dem das En
+ semble von „Maxe Baumann 2 – Keine Ferien für Max“ sein vorüberg
+ ehendes Zuhause für die Beelitzer Festspiele 2026 gefunden hat. Am 23. 
+ Juli 2026\, ist die Premiere auf[..]\nhttps://beelitz.de/events/maxe-bau
+ mann-2-keine-ferien-fuer-max/var/ri-5.l-L1\n\nQuelle: https://beelitz.de
+ /events/maxe-baumann-2-keine-ferien-fuer-max/var/ri-5.l-L1\nZuletzt mit 
+ beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/maxe-baumann-2-keine-ferien-fuer-max/var/ri
  -5.l-L1
 END:VEVENT
@@ -469,17 +454,16 @@ UID:78e128d9953641cd19304052acbf@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260808T080000Z
 DTEND:20260808T215900Z
-LOCATION:
 SUMMARY:Frühstück mit Kasper: Pippi Langstrumpf kommt nach Klaistow
-DESCRIPTION:Am Samstag\,  den 8. August\,  heißt es auf dem Spargel- und 
- Erlebnishof Klaistow wieder: Frühstück mit Kasper! Von 9.30 bis 11.30 Uh
- r erwartet Familien ein gemütlicher Vormittag mit üppigem Frühstücksbuff
- et und Puppentheater in der Festhalle. Um 10 Uhr kommt Pippi Langstrumpf
-  auf die Bühne und sorgt mit viel Witz für[..]\nhttps://beelitz.de/event
- s/fruehstueck-mit-kasper-pippi-langstrumpf-kommt-nach-klaistow/\n\nQuell
- e: https://beelitz.de/events/fruehstueck-mit-kasper-pippi-langstrumpf-ko
- mmt-nach-klaistow/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:
- 02 Uhr
+DESCRIPTION:Am Samstag\, den 8. August\, heißt es auf dem Spargel- und E
+ rlebnishof Klaistow wieder: Frühstück mit Kasper! Von 9.30 bis 11.30 U
+ hr erwartet Familien ein gemütlicher Vormittag mit üppigem Frühstück
+ sbuffet und Puppentheater in der Festhalle. Um 10 Uhr kommt Pippi Langst
+ rumpf auf die Bühne und sorgt mit viel Witz für[..]\nhttps://beelitz.d
+ e/events/fruehstueck-mit-kasper-pippi-langstrumpf-kommt-nach-klaistow/\n
+ \nQuelle: https://beelitz.de/events/fruehstueck-mit-kasper-pippi-langstr
+ umpf-kommt-nach-klaistow/\nZuletzt mit beelitz.de abgeglichen: 17.07.202
+ 6\, 10:15 Uhr
 URL:https://beelitz.de/events/fruehstueck-mit-kasper-pippi-langstrumpf-ko
  mmt-nach-klaistow/
 END:VEVENT
@@ -488,11 +472,10 @@ UID:bc8684d758a7cf8526fd7e546366@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260808T080000Z
 DTEND:20260808T130000Z
-LOCATION:
 SUMMARY:Trödelmarkt Jacke wie Hose
-DESCRIPTION:\nhttps://beelitz.de/events/troedelmarkt-jacke-wie-hose/\n\nQ
- uelle: https://beelitz.de/events/troedelmarkt-jacke-wie-hose/\nZuletzt m
- it beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/troedelmarkt-jacke-wie-hose/\n\nQue
+ lle: https://beelitz.de/events/troedelmarkt-jacke-wie-hose/\nZuletzt mit
+  beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/troedelmarkt-jacke-wie-hose/
 END:VEVENT
 BEGIN:VEVENT
@@ -500,17 +483,16 @@ UID:f1d69d06caa824eef4e545f54065@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260808T170000Z
 DTEND:20260808T215900Z
-LOCATION:
 SUMMARY:„Servus Peter – 100 Jahre Peter Alexander“
-DESCRIPTION:&nbsp\; 260.000 Menschen hat der Entertainer Peter Grimberg b
- ereits mit seiner Show „Servus Peter“ begeistert. Auch an der Beelitzer 
- Freilichtbühne gab es viele Appauswogen für die Show des charismatischen
-  Österreichers. Anlässlich des 100. Geburtstages von Peter Alexander im 
- kommenden Jahr bringt Peter Grimberg nun die große Jubiläumsshow „100 Ja
- hre Peter[..]\nhttps://beelitz.de/events/servus-peter-100-jahre-peter-al
- exander/\n\nQuelle: https://beelitz.de/events/servus-peter-100-jahre-pet
- er-alexander/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uh
- r
+DESCRIPTION:260.000 Menschen hat der Entertainer Peter Grimberg bereits m
+ it seiner Show „Servus Peter“ begeistert. Auch an der Beelitzer Frei
+ lichtbühne gab es viele Appauswogen für die Show des charismatischen 
+ Österreichers. Anlässlich des 100. Geburtstages von Peter Alexander im
+  kommenden Jahr bringt Peter Grimberg nun die große Jubiläumsshow „1
+ 00 Jahre Peter[..]\nhttps://beelitz.de/events/servus-peter-100-jahre-pet
+ er-alexander/\n\nQuelle: https://beelitz.de/events/servus-peter-100-jahr
+ e-peter-alexander/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:
+ 15 Uhr
 URL:https://beelitz.de/events/servus-peter-100-jahre-peter-alexander/
 END:VEVENT
 BEGIN:VEVENT
@@ -521,14 +503,14 @@ DTEND:20260809T215900Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:„Servus Peter – 100 Jahre Peter Alexander“
 DESCRIPTION:260.000 Menschen hat der Entertainer Peter Grimberg bereits m
- it seiner Show „Servus Peter“ begeistert. Auch an der Beelitzer Freilich
- tbühne gab es viele Appauswogen für die Show des charismatischen Österre
- ichers. Anlässlich des 100. Geburtstages von Peter Alexander im kommende
- n Jahr bringt Peter Grimberg nun die große Jubiläumsshow „100 Jahre Pete
- r Alexander[..]\nhttps://beelitz.de/events/servus-peter-100-jahre-peter-
- alexander-2/\n\nQuelle: https://beelitz.de/events/servus-peter-100-jahre
- -peter-alexander-2/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10
- :02 Uhr
+ it seiner Show „Servus Peter“ begeistert. Auch an der Beelitzer Frei
+ lichtbühne gab es viele Appauswogen für die Show des charismatischen 
+ Österreichers. Anlässlich des 100. Geburtstages von Peter Alexander im
+  kommenden Jahr bringt Peter Grimberg nun die große Jubiläumsshow „1
+ 00 Jahre Peter Alexander[..]\nhttps://beelitz.de/events/servus-peter-100
+ -jahre-peter-alexander-2/\n\nQuelle: https://beelitz.de/events/servus-pe
+ ter-100-jahre-peter-alexander-2/\nZuletzt mit beelitz.de abgeglichen: 17
+ .07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/servus-peter-100-jahre-peter-alexander-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -536,11 +518,10 @@ UID:c3120346cf973763d3a9a392ddbe@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260815
 DTEND:20260816
-LOCATION:
 SUMMARY:Fichtenwalder Ausflugsfahrten
-DESCRIPTION:\nhttps://beelitz.de/events/fichtenwalder-ausflugsfahrten/\n\
- nQuelle: https://beelitz.de/events/fichtenwalder-ausflugsfahrten/\nZulet
- zt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/fichtenwalder-ausflugsfahrten/\n\nQ
+ uelle: https://beelitz.de/events/fichtenwalder-ausflugsfahrten/\nZuletzt
+  mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fichtenwalder-ausflugsfahrten/
 END:VEVENT
 BEGIN:VEVENT
@@ -548,16 +529,15 @@ UID:066b5c387985a7718f3fe7020e4e@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260815T130000Z
 DTEND:20260815T215900Z
-LOCATION:
 SUMMARY:Vernissage zur Ausstellung #13 drei x drei
-DESCRIPTION:Wir freuen uns auf Kunstwerke von drei unterschiedlichen Küns
- tlern: Matthias Seldte (Fotografie)\,  Manfred Pietsch (Collagen) und Jo
+DESCRIPTION:Wir freuen uns auf Kunstwerke von drei unterschiedlichen Kün
+ stlern: Matthias Seldte (Fotografie)\, Manfred Pietsch (Collagen) und Jo
  se Nuevo (Skulpturen)! Der Titel der Ausstellung #13 drei x drei nimmt a
- uf die Zahl 3 Bezug. Das ist einerseits die Anzahl der gezeigten Künstle
- r\,  andererseits auch die ihrer Techniken und Arbeitsweisen. Es ist[..]
+ uf die Zahl 3 Bezug. Das ist einerseits die Anzahl der gezeigten Künstl
+ er\, andererseits auch die ihrer Techniken und Arbeitsweisen. Es ist[..]
  \nhttps://beelitz.de/events/vernissage-zur-ausstellung-13-drei-x-drei/\n
  \nQuelle: https://beelitz.de/events/vernissage-zur-ausstellung-13-drei-x
- -drei/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ -drei/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/vernissage-zur-ausstellung-13-drei-x-drei/
 END:VEVENT
 BEGIN:VEVENT
@@ -565,17 +545,17 @@ UID:4fcc93565b0227ddf046e8cc9127@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260816T080000Z
 DTEND:20260816T215900Z
-LOCATION:Beelitz-Heilstätten Straße nach Fichtenwalde 3\,  14547 Beelitz 
- Heilstätten
+LOCATION:Beelitz-Heilstätten Straße nach Fichtenwalde 3\,  14547 Beelit
+ z Heilstätten
 SUMMARY:Führung des Fördervereins Heiz-Kraft-Werk
-DESCRIPTION:Im Jahr 2026 finden wieder regelmäßige Führungen statt\,  und
-  zwar erwarten wir Sie von März bis November\,  jeweils am 3. Sonntag de
- s Monats um 10.00 Uhr. Wir beginnen am 15.03.2026 um 10.00 Uhr am Eingan
- g zum Maschinensaal (Friedenspfahl und Schaukasten sind die Anhaltspunkt
- e).  Wir haben in diesem Jahr viel vor[..]\nhttps://beelitz.de/events/fu
- ehrung-des-foerdervereins-heiz-kraft-werk/var/ri-5.l-L1\n\nQuelle: https
- ://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk/var/ri-
- 5.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Im Jahr 2026 finden wieder regelmäßige Führungen statt\, u
+ nd zwar erwarten wir Sie von März bis November\, jeweils am 3. Sonntag 
+ des Monats um 10.00 Uhr. Wir beginnen am 15.03.2026 um 10.00 Uhr am Eing
+ ang zum Maschinensaal (Friedenspfahl und Schaukasten sind die Anhaltspun
+ kte). Wir haben in diesem Jahr viel vor[..]\nhttps://beelitz.de/events/f
+ uehrung-des-foerdervereins-heiz-kraft-werk/var/ri-5.l-L1\n\nQuelle: http
+ s://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk/var/ri
+ -5.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk
  /var/ri-5.l-L1
 END:VEVENT
@@ -584,17 +564,16 @@ UID:aabbf22fdc2d7d65256d40155575@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260816T090000Z
 DTEND:20260816T150000Z
-LOCATION:
 SUMMARY:Beelitzer Museumssonntag
-DESCRIPTION:Jeden dritten Sonntag im Monat öffnen unsere drei Museen ihre
-  Türen für alle Interessierten. In der ehemaligen Wassermühle Ernst Voge
- l stellt die Maus Mika unseren jungen Besucherinnen und Besuchern Rätsel
- aufgaben. Werden alle Rätsel gelöst\,  wartet am Ende eine kleine Überra
- schung. Die schönsten Kleider der ehemaligen Spargelköniginnen gibt es i
- m Beelitzer[..]\nhttps://beelitz.de/events/beelitzer-museumssonntag/var/
- ri-4.l-L1\n\nQuelle: https://beelitz.de/events/beelitzer-museumssonntag/
- var/ri-4.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uh
- r
+DESCRIPTION:Jeden dritten Sonntag im Monat öffnen unsere drei Museen ihr
+ e Türen für alle Interessierten. In der ehemaligen Wassermühle Ernst 
+ Vogel stellt die Maus Mika unseren jungen Besucherinnen und Besuchern R
+ ätselaufgaben. Werden alle Rätsel gelöst\, wartet am Ende eine kleine
+  Überraschung. Die schönsten Kleider der ehemaligen Spargelköniginnen
+  gibt es im Beelitzer[..]\nhttps://beelitz.de/events/beelitzer-museumsso
+ nntag/var/ri-4.l-L1\n\nQuelle: https://beelitz.de/events/beelitzer-museu
+ mssonntag/var/ri-4.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\
+ , 10:15 Uhr
 URL:https://beelitz.de/events/beelitzer-museumssonntag/var/ri-4.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -604,9 +583,9 @@ DTSTART:20260816T090000Z
 DTEND:20260816T130000Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Sommergarten
-DESCRIPTION:mehr Informationen folgen in Kürze\nhttps://beelitz.de/events
- /sommergarten-6/\n\nQuelle: https://beelitz.de/events/sommergarten-6/\nZ
- uletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:mehr Informationen folgen in Kürze\nhttps://beelitz.de/event
+ s/sommergarten-6/\n\nQuelle: https://beelitz.de/events/sommergarten-6/\n
+ Zuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/sommergarten-6/
 END:VEVENT
 BEGIN:VEVENT
@@ -617,15 +596,15 @@ DTEND:20260816T215900Z
 LOCATION:Wiesencafe im Stadtpark Beelitz
 SUMMARY:"Auf Ferienreisen" mit dem Brandenburgischen Konzertorchester Ebe
  rswalde
-DESCRIPTION:Urlaub und Musik sind die perfekte Kombination für die Seele:
-  Ein bisschen Sonne\,  gute Musik und der Rest ist Magie. Das Brandenbur
- gische Konzertorchester Eberswalde lässt am Sonntag\,  den 16. 08. 2026 
- um 15:00 Uhr Open Air am Wiesencafé im Stadtpark Beelitz das Publikum mi
- t seinem Programm „Auf Ferienreisen“ rund um[..]\nhttps://beelitz.de/eve
- nts/auf-ferienreisen-mit-dem-brandenburgischen-konzertorchester-eberswal
- de/\n\nQuelle: https://beelitz.de/events/auf-ferienreisen-mit-dem-brande
- nburgischen-konzertorchester-eberswalde/\nZuletzt mit beelitz.de abgegli
- chen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Urlaub und Musik sind die perfekte Kombination für die Seele
+ : Ein bisschen Sonne\, gute Musik und der Rest ist Magie. Das Brandenbur
+ gische Konzertorchester Eberswalde lässt am Sonntag\, den 16. 08. 2026 
+ um 15:00 Uhr Open Air am Wiesencafé im Stadtpark Beelitz das Publikum m
+ it seinem Programm „Auf Ferienreisen“ rund um[..]\nhttps://beelitz.d
+ e/events/auf-ferienreisen-mit-dem-brandenburgischen-konzertorchester-ebe
+ rswalde/\n\nQuelle: https://beelitz.de/events/auf-ferienreisen-mit-dem-b
+ randenburgischen-konzertorchester-eberswalde/\nZuletzt mit beelitz.de ab
+ geglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/auf-ferienreisen-mit-dem-brandenburgischen-
  konzertorchester-eberswalde/
 END:VEVENT
@@ -638,7 +617,7 @@ LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Promenadenkonzert
 DESCRIPTION:Mehr Informationen folgen\nhttps://beelitz.de/events/promenad
  enkonzert-3/\n\nQuelle: https://beelitz.de/events/promenadenkonzert-3/\n
- Zuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ Zuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/promenadenkonzert-3/
 END:VEVENT
 BEGIN:VEVENT
@@ -646,19 +625,19 @@ UID:cb6b1f3c8dd5c642fb3a3832082f@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260818T123000Z
 DTEND:20260818T215900Z
-LOCATION:Neurologisches Fachkrankenhaus für Bewegungsstörungen / Parkinso
- n Straße nach Fichtenwalde 16
+LOCATION:Neurologisches Fachkrankenhaus für Bewegungsstörungen / Parkin
+ son Straße nach Fichtenwalde 16
 SUMMARY:Treffen Selbsthilfegruppe Parkinson
-DESCRIPTION:Wir sind eine Gruppe von Parkinson-Patienten und deren Angehö
- rige. Unsere Treffen finden jeden 3. Dienstag in der Bibliothek der Park
- insonklinik statt. Unseren aktuellen Flyer\,  den Ansprechpartner und we
- itere Informationen zum Thema Parkinson finden Sie auf der Homepage &nbs
- p\; &#8211\;&gt\; Neurologisches Fachkrankenhaus für Bewegungsstörungen 
- / ParkinsonStandort: ParkinsonklinikStraße nach Fichtenwalde 1614547 Bee
- litz-Heilstätten\nhttps://beelitz.de/events/treffen-selbsthilfegruppe-pa
- rkinson/var/ri-11.l-L1\n\nQuelle: https://beelitz.de/events/treffen-selb
- sthilfegruppe-parkinson/var/ri-11.l-L1\nZuletzt mit beelitz.de abgeglich
- en: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Wir sind eine Gruppe von Parkinson-Patienten und deren Angeh
+ örige. Unsere Treffen finden jeden 3. Dienstag in der Bibliothek der Pa
+ rkinsonklinik statt. Unseren aktuellen Flyer\, den Ansprechpartner und w
+ eitere Informationen zum Thema Parkinson finden Sie auf der Homepage –
+ > Neurologisches Fachkrankenhaus für Bewegungsstörungen / ParkinsonSta
+ ndort: ParkinsonklinikStraße nach Fichtenwalde 1614547 Beelitz-Heilstä
+ tten\nhttps://beelitz.de/events/treffen-selbsthilfegruppe-parkinson/var/
+ ri-11.l-L1\n\nQuelle: https://beelitz.de/events/treffen-selbsthilfegrupp
+ e-parkinson/var/ri-11.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.20
+ 26\, 10:15 Uhr
 URL:https://beelitz.de/events/treffen-selbsthilfegruppe-parkinson/var/ri-
  11.l-L1
 END:VEVENT
@@ -669,14 +648,14 @@ DTSTART:20260819T140000Z
 DTEND:20260819T160000Z
 LOCATION:Hans-Grade-Haus Am Markt 1\,  14547 Beelitz
 SUMMARY:Fichtenwalder helfen
-DESCRIPTION:Haben auch Sie einige Fragen\,  die Ihnen bisher keiner beant
- worten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg gef
- unden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informati
- onen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\,  1
- 8. Februar\,  18. März\,  15. April\,  13. Mai\, [..]\nhttps://beelitz.d
- e/events/fichtenwalder-helfen/var/ri-7.l-L1\n\nQuelle: https://beelitz.d
- e/events/fichtenwalder-helfen/var/ri-7.l-L1\nZuletzt mit beelitz.de abge
- glichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
+ orten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg ge
+ funden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informat
+ ionen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\, 
+ 18. Februar\, 18. März\, 15. April\, 13. Mai\, [..]\nhttps://beelitz.de
+ /events/fichtenwalder-helfen/var/ri-7.l-L1\n\nQuelle: https://beelitz.de
+ /events/fichtenwalder-helfen/var/ri-7.l-L1\nZuletzt mit beelitz.de abgeg
+ lichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen/var/ri-7.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -684,12 +663,11 @@ UID:3aa311c98e299524fd194ead98d3@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260822
 DTEND:20260823
-LOCATION:
 SUMMARY:Veranstaltung auf den Jakobs-Höfen
-DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakobs-ho
- efen/var/ri-4.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-au
- f-den-jakobs-hoefen/var/ri-4.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
- 7.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
+ s-hoefen/var/ri-4.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
+ g-auf-den-jakobs-hoefen/var/ri-4.l-L1\nZuletzt mit beelitz.de abgegliche
+ n: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  4.l-L1
 END:VEVENT
@@ -698,12 +676,11 @@ UID:5291edce5d9bafc5dc40e4222a7b@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260822
 DTEND:20260823
-LOCATION:
 SUMMARY:Veranstaltung auf den Jakobs-Höfen
-DESCRIPTION:\nhttps://beelitz.de/events/veranstaltung-auf-den-jakobs-hoef
- en-2/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-au
- f-den-jakobs-hoefen-2/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen:
-  17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen
+ -2/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-auf-
+ den-jakobs-hoefen-2/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
+ 7.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen-2/var/r
  i-1.l-L1
 END:VEVENT
@@ -714,7 +691,7 @@ DTSTART;TZID=Europe/Berlin:20260822T120000
 DTEND;TZID=Europe/Berlin:20260822T150000
 SUMMARY:Brandenburger Zuckertütenfest
 DESCRIPTION:Quelle: https://beelitz.de/events/brandenburger-zuckertuetenf
- est/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ est/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/brandenburger-zuckertuetenfest/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -724,16 +701,15 @@ UID:bcda802e5975a0e5e3f5b7627043@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260822T173000Z
 DTEND:20260822T215900Z
-LOCATION:
 SUMMARY:Heilstätten Slam
-DESCRIPTION:Der Kiezpoeten Poetry Slam in Beelitz-Heilstätten ist nicht e
- infach nur ein weiterer neuer Slam in Brandenburg. Es ist Live-Kultur im
-  herrlich hübsch renovierten grünen Saal\,  eine Bühne für Locals und Ne
- wcomer ebenso wie weitgereiste Profis. Es ist Comedy und tiefe Lyrik vor
-  der schönsten Kulisse\,  die man sich nur vorstellen[..]\nhttps://beeli
- tz.de/events/heilstaetten-slam-3/\n\nQuelle: https://beelitz.de/events/h
- eilstaetten-slam-3/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10
- :02 Uhr
+DESCRIPTION:Der Kiezpoeten Poetry Slam in Beelitz-Heilstätten ist nicht 
+ einfach nur ein weiterer neuer Slam in Brandenburg. Es ist Live-Kultur i
+ m herrlich hübsch renovierten grünen Saal\, eine Bühne für Locals un
+ d Newcomer ebenso wie weitgereiste Profis. Es ist Comedy und tiefe Lyrik
+  vor der schönsten Kulisse\, die man sich nur vorstellen[..]\nhttps://b
+ eelitz.de/events/heilstaetten-slam-3/\n\nQuelle: https://beelitz.de/even
+ ts/heilstaetten-slam-3/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\
+ , 10:15 Uhr
 URL:https://beelitz.de/events/heilstaetten-slam-3/
 END:VEVENT
 BEGIN:VEVENT
@@ -741,12 +717,11 @@ UID:0d9e59a4bd23de72f5d5c4b51bfd@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260822T190000Z
 DTEND:20260822T215900Z
-LOCATION:
 SUMMARY:Frank Liebe liest in den Beelitzer Heilstätten
-DESCRIPTION:\nhttps://beelitz.de/events/frank-liebe-liest-in-den-beelitze
- r-heilstaetten/\n\nQuelle: https://beelitz.de/events/frank-liebe-liest-i
- n-den-beelitzer-heilstaetten/\nZuletzt mit beelitz.de abgeglichen: 17.07
- .2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/frank-liebe-liest-in-den-beelitzer-
+ heilstaetten/\n\nQuelle: https://beelitz.de/events/frank-liebe-liest-in-
+ den-beelitzer-heilstaetten/\nZuletzt mit beelitz.de abgeglichen: 17.07.2
+ 026\, 10:15 Uhr
 URL:https://beelitz.de/events/frank-liebe-liest-in-den-beelitzer-heilstae
  tten/
 END:VEVENT
@@ -757,16 +732,16 @@ DTSTART:20260825T150000Z
 DTEND:20260825T215900Z
 LOCATION:Neurologische Kliniken Paracelsusring 6a
 SUMMARY:Treffen der Selbsthilfegruppe Schlaganfall
-DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet. Zum 
- Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der Stiftung
-  Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst und ander
- en aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist in den Ne
- urologischen Kliniken\,  Paracelsusring 6a im Konferenzraum K2. Der Schl
- aganfall bedeutet eine schlagartige gravierende[..]\nhttps://beelitz.de/
- events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-7.l-L1\n\nQuell
- e: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
- var/ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uh
- r
+DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet
+ . Zum Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der 
+ Stiftung Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst u
+ nd anderen aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist i
+ n den Neurologischen Kliniken\, Paracelsusring 6a im Konferenzraum K2. D
+ er Schlaganfall bedeutet eine schlagartige gravierende[..]\nhttps://beel
+ itz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-7.l-L1\n
+ \nQuelle: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlag
+ anfall/var/ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 1
+ 0:15 Uhr
 URL:https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
  var/ri-7.l-L1
 END:VEVENT
@@ -775,16 +750,15 @@ UID:b086d8513a774a989bc29448634f@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260828T143000Z
 DTEND:20260828T163000Z
-LOCATION:
 SUMMARY:“Sinnliche Frauenkräuter”
-DESCRIPTION:Sinnliche Frauenkräuter &#8211\; Workshop in der Heilstätte a
- m 28. August 2026: Verbinde dich neu mit deinem Körper und der Natur. Le
- rne\,  wie dich unsere heimischen Frauenkräuter in jeder weiblichen Lebe
- nsphase natürlich unterstützen können. Wir stellen eigene Produkte her (
- z.B. einen kraftvollen Räucherbündel &amp\; ein harmonisierendes Frauen-
- Oxymel) und entdecken in gemütlicher[..]\nhttps://beelitz.de/events/sinn
- liche-frauenkraeuter/\n\nQuelle: https://beelitz.de/events/sinnliche-fra
- uenkraeuter/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Sinnliche Frauenkräuter – Workshop in der Heilstätte am 2
+ 8. August 2026: Verbinde dich neu mit deinem Körper und der Natur. Lern
+ e\, wie dich unsere heimischen Frauenkräuter in jeder weiblichen Lebens
+ phase natürlich unterstützen können. Wir stellen eigene Produkte her 
+ (z.B. einen kraftvollen Räucherbündel & ein harmonisierendes Frauen-Ox
+ ymel) und entdecken in gemütlicher[..]\nhttps://beelitz.de/events/sinnl
+ iche-frauenkraeuter/\n\nQuelle: https://beelitz.de/events/sinnliche-frau
+ enkraeuter/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/sinnliche-frauenkraeuter/
 END:VEVENT
 BEGIN:VEVENT
@@ -792,19 +766,18 @@ UID:61f981a481c4ae4bbb83984f00d3@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260828T170000Z
 DTEND:20260828T215900Z
-LOCATION:
-SUMMARY:Leslie Malton & Felix von Manteuffel – „Ich will lieber schweigen
- “
-DESCRIPTION:Die renommierten Schauspieler Leslie Malton und Felix von Man
- teuffel bringen mit der Lesung „Ich will lieber schweigen“ einen bewegen
- den literarischen Dialog auf die Bühne. Im Mittelpunkt steht das Tagebuc
- h des berühmten Schauspielers Will Quadflieg\,  das die letzten Monate d
- es Zweiten Weltkriegs und die unmittelbare Nachkriegszeit beschreibt. Qu
- adflieg hielt darin seine Gedanken\,  Ängste und Hoffnungen fest\,  währ
- end sich[..]\nhttps://beelitz.de/events/leslie-malton-felix-von-manteuff
- el-ich-will-lieber-schweigen/\n\nQuelle: https://beelitz.de/events/lesli
- e-malton-felix-von-manteuffel-ich-will-lieber-schweigen/\nZuletzt mit be
- elitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+SUMMARY:Leslie Malton & Felix von Manteuffel – „Ich will lieber schwe
+ igen“
+DESCRIPTION:Die renommierten Schauspieler Leslie Malton und Felix von Man
+ teuffel bringen mit der Lesung „Ich will lieber schweigen“ einen bew
+ egenden literarischen Dialog auf die Bühne. Im Mittelpunkt steht das Ta
+ gebuch des berühmten Schauspielers Will Quadflieg\, das die letzten Mon
+ ate des Zweiten Weltkriegs und die unmittelbare Nachkriegszeit beschreib
+ t. Quadflieg hielt darin seine Gedanken\, Ängste und Hoffnungen fest\, 
+ während sich[..]\nhttps://beelitz.de/events/leslie-malton-felix-von-man
+ teuffel-ich-will-lieber-schweigen/\n\nQuelle: https://beelitz.de/events/
+ leslie-malton-felix-von-manteuffel-ich-will-lieber-schweigen/\nZuletzt m
+ it beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/leslie-malton-felix-von-manteuffel-ich-will
  -lieber-schweigen/
 END:VEVENT
@@ -813,11 +786,10 @@ UID:b28a048e83a3e23b237b18fc6074@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260829
 DTEND:20260830
-LOCATION:
 SUMMARY:Dorffest Busendorf
 DESCRIPTION:Dorffest Busendorf\nhttps://beelitz.de/events/dorffest-busend
  orf-2/\n\nQuelle: https://beelitz.de/events/dorffest-busendorf-2/\nZulet
- zt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ zt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/dorffest-busendorf-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -829,7 +801,7 @@ LOCATION:Beelitzer Stadtpark
 SUMMARY:MBS Sommerkino
 DESCRIPTION:Mehr Informationen folgen\nhttps://beelitz.de/events/mbs-somm
  erkino/\n\nQuelle: https://beelitz.de/events/mbs-sommerkino/\nZuletzt mi
- t beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ t beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/mbs-sommerkino/
 END:VEVENT
 BEGIN:VEVENT
@@ -837,19 +809,18 @@ UID:11723e6bd28e277dd57c9a14a51d@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260829
 DTEND:20260830
-LOCATION:
 SUMMARY:Tough Mudder Berlin-Brandenburg auf dem Spargel- und Erlebnishof 
  Klaistow
-DESCRIPTION:Schlamm\,  Teamgeist und jede Menge Adrenalin: Am Samstag\,  
- den 29. August\,  macht Tough Mudder Berlin-Brandenburg wieder Station a
- uf dem Spargel- und Erlebnishof Klaistow. Auf die Teilnehmerinnen und Te
- ilnehmer warten herausfordernde Hindernisstrecken durch die Brandenburge
- r Landschaft – mit Waldwegen\,  Wiesen\,  Wasser\,  Schlamm und jeder Me
- nge Team-Challenges. Zur Auswahl stehen verschiedene Formate\, [..]\nhtt
- ps://beelitz.de/events/tough-mudder-berlin-brandenburg-auf-dem-spargel-u
- nd-erlebnishof-klaistow/\n\nQuelle: https://beelitz.de/events/tough-mudd
- er-berlin-brandenburg-auf-dem-spargel-und-erlebnishof-klaistow/\nZuletzt
-  mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Schlamm\, Teamgeist und jede Menge Adrenalin: Am Samstag\, de
+ n 29. August\, macht Tough Mudder Berlin-Brandenburg wieder Station auf 
+ dem Spargel- und Erlebnishof Klaistow. Auf die Teilnehmerinnen und Teiln
+ ehmer warten herausfordernde Hindernisstrecken durch die Brandenburger L
+ andschaft – mit Waldwegen\, Wiesen\, Wasser\, Schlamm und jeder Menge 
+ Team-Challenges. Zur Auswahl stehen verschiedene Formate\, [..]\nhttps:/
+ /beelitz.de/events/tough-mudder-berlin-brandenburg-auf-dem-spargel-und-e
+ rlebnishof-klaistow/\n\nQuelle: https://beelitz.de/events/tough-mudder-b
+ erlin-brandenburg-auf-dem-spargel-und-erlebnishof-klaistow/\nZuletzt mit
+  beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/tough-mudder-berlin-brandenburg-auf-dem-spa
  rgel-und-erlebnishof-klaistow/
 END:VEVENT
@@ -858,14 +829,12 @@ UID:d3c3985c5fd04103637432d3d200@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260829T073000Z
 DTEND:20260829T093000Z
-LOCATION:
 SUMMARY:Pilates Sommer Special
-DESCRIPTION:29.08.2026\,  09.30 &#8211\; 11.30 Uhr Pilates Sommer Special
-   Kraftvolles Pilates mit Ring &#8211\; Detox\,  Strength\,  Energy\,  F
- low. Mehr Informationen unter www.manari.studio/workshops &nbsp\;\nhttps
- ://beelitz.de/events/pilates-sommer-special/\n\nQuelle: https://beelitz.
- de/events/pilates-sommer-special/\nZuletzt mit beelitz.de abgeglichen: 1
- 7.07.2026\, 10:02 Uhr
+DESCRIPTION:29.08.2026\, 09.30 – 11.30 Uhr Pilates Sommer Special Kraft
+ volles Pilates mit Ring – Detox\, Strength\, Energy\, Flow. Mehr Infor
+ mationen unter www.manari.studio/workshops\nhttps://beelitz.de/events/pi
+ lates-sommer-special/\n\nQuelle: https://beelitz.de/events/pilates-somme
+ r-special/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/pilates-sommer-special/
 END:VEVENT
 BEGIN:VEVENT
@@ -873,11 +842,10 @@ UID:de968b176b41cb6b03660fd58df8@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260829T120000Z
 DTEND:20260829T200000Z
-LOCATION:
 SUMMARY:Heilstätter Sommerfest
-DESCRIPTION:\nhttps://beelitz.de/events/heilstaetter-sommerfest/\n\nQuell
- e: https://beelitz.de/events/heilstaetter-sommerfest/\nZuletzt mit beeli
- tz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/heilstaetter-sommerfest/\n\nQuelle:
+  https://beelitz.de/events/heilstaetter-sommerfest/\nZuletzt mit beelitz
+ .de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/heilstaetter-sommerfest/
 END:VEVENT
 BEGIN:VEVENT
@@ -885,11 +853,10 @@ UID:8bbae17454f6bb7283a29e215f66@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260829T123000Z
 DTEND:20260830T000000Z
-LOCATION:
 SUMMARY:Dorffest Busendorf
-DESCRIPTION:\nhttps://beelitz.de/events/dorffest-busendorf-4/\n\nQuelle: 
- https://beelitz.de/events/dorffest-busendorf-4/\nZuletzt mit beelitz.de 
- abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/dorffest-busendorf-4/\n\nQuelle: ht
+ tps://beelitz.de/events/dorffest-busendorf-4/\nZuletzt mit beelitz.de ab
+ geglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/dorffest-busendorf-4/
 END:VEVENT
 BEGIN:VEVENT
@@ -897,11 +864,10 @@ UID:91d4431aa7995c9bbd3a22c11d2c@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260829T193000Z
 DTEND:20260829T215900Z
-LOCATION:
 SUMMARY:MBS Kinosommer - Der Teufel trägt Prada
-DESCRIPTION:\nhttps://beelitz.de/events/mbs-kinosommer-der-teufel-traegt-
- prada/\n\nQuelle: https://beelitz.de/events/mbs-kinosommer-der-teufel-tr
- aegt-prada/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/mbs-kinosommer-der-teufel-traegt-pr
+ ada/\n\nQuelle: https://beelitz.de/events/mbs-kinosommer-der-teufel-trae
+ gt-prada/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/mbs-kinosommer-der-teufel-traegt-prada/
 END:VEVENT
 BEGIN:VEVENT
@@ -909,17 +875,16 @@ UID:9a0913bd64bd4784fec938c6043d@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260830
 DTEND:20260831
-LOCATION:
 SUMMARY:Spartan Berlin auf dem Spargelhof Klaistow
-DESCRIPTION:Kraft\,  Ausdauer und Teamgeist sind gefragt: Am Sonntag\,  d
- en 30. August\,  macht Spartan Berlin Station auf dem Spargel- und Erleb
- nishof Klaistow. Auf die Teilnehmerinnen und Teilnehmer wartet ein sport
- liches Hindernis-Abenteuer mitten in der Brandenburger Natur. Der schnel
- le\,  flache Kurs führt über das Hofgelände\,  durch Wald und Wiesen und
-  bietet Herausforderungen[..]\nhttps://beelitz.de/events/spartan-berlin-
- auf-dem-spargelhof-klaistow/\n\nQuelle: https://beelitz.de/events/sparta
- n-berlin-auf-dem-spargelhof-klaistow/\nZuletzt mit beelitz.de abgegliche
- n: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Kraft\, Ausdauer und Teamgeist sind gefragt: Am Sonntag\, den
+  30. August\, macht Spartan Berlin Station auf dem Spargel- und Erlebnis
+ hof Klaistow. Auf die Teilnehmerinnen und Teilnehmer wartet ein sportlic
+ hes Hindernis-Abenteuer mitten in der Brandenburger Natur. Der schnelle\
+ , flache Kurs führt über das Hofgelände\, durch Wald und Wiesen und b
+ ietet Herausforderungen[..]\nhttps://beelitz.de/events/spartan-berlin-au
+ f-dem-spargelhof-klaistow/\n\nQuelle: https://beelitz.de/events/spartan-
+ berlin-auf-dem-spargelhof-klaistow/\nZuletzt mit beelitz.de abgeglichen:
+  17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/spartan-berlin-auf-dem-spargelhof-klaistow/
 END:VEVENT
 BEGIN:VEVENT
@@ -929,14 +894,14 @@ DTSTART:20260830T130000Z
 DTEND:20260830T215900Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Andrea & Wilfried Peetz präsentieren „Eine Welt voll Musik“
-DESCRIPTION:Andrea &#038\; Wilfried Peetz sind in Beelitz alles andere al
- s Unbekannte. Ob auf Spargelfesten\,  bei Sommergärten oder Feiern in de
- r Beelitzer Altstadt: Das erfolgreiche Duo versammelt in Beelitz inzwisc
- hen eine große Fangemeinde hinter sich. Und die kann sich auf ein Highli
- ght in diesem Sommer freuen: Erstmals geben Andrea &#038\; Wilfried[..]\
- nhttps://beelitz.de/events/andrea-wilfried-peetz/\n\nQuelle: https://bee
- litz.de/events/andrea-wilfried-peetz/\nZuletzt mit beelitz.de abgegliche
- n: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Andrea & Wilfried Peetz sind in Beelitz alles andere als Unbe
+ kannte. Ob auf Spargelfesten\, bei Sommergärten oder Feiern in der Beel
+ itzer Altstadt: Das erfolgreiche Duo versammelt in Beelitz inzwischen ei
+ ne große Fangemeinde hinter sich. Und die kann sich auf ein Highlight i
+ n diesem Sommer freuen: Erstmals geben Andrea & Wilfried[..]\nhttps://be
+ elitz.de/events/andrea-wilfried-peetz/\n\nQuelle: https://beelitz.de/eve
+ nts/andrea-wilfried-peetz/\nZuletzt mit beelitz.de abgeglichen: 17.07.20
+ 26\, 10:15 Uhr
 URL:https://beelitz.de/events/andrea-wilfried-peetz/
 END:VEVENT
 BEGIN:VEVENT
@@ -944,16 +909,15 @@ UID:5f03da74decf1155f635a487ede6@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260831T160000Z
 DTEND:20260831T215900Z
-LOCATION:
 SUMMARY:Stadtgeschichte für alle
 DESCRIPTION:Einen kleinen Teil der reichhaltigen Geschichte unserer Stadt
-  möchten wir allen\,  die sich dafür interessierten\,  nahebringen. Dahe
+  möchten wir allen\, die sich dafür interessierten\, nahebringen. Dahe
  r veranstalten wir wieder einen kleinen Stadtrundgang. Dazu treffen wir 
- uns am Montag\,  den 31. August 2026 um 18.00 Uhr zwischen dem Haupteing
- ang der Stadtpfarrkirche und dem Spargelbrunnen. Verschiedene Themen wie
-  die Wallfahrtskapelle\,  die[..]\nhttps://beelitz.de/events/stadtgeschi
- chte-fuer-alle/\n\nQuelle: https://beelitz.de/events/stadtgeschichte-fue
- r-alle/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ uns am Montag\, den 31. August 2026 um 18.00 Uhr zwischen dem Haupteinga
+ ng der Stadtpfarrkirche und dem Spargelbrunnen. Verschiedene Themen wie 
+ die Wallfahrtskapelle\, die[..]\nhttps://beelitz.de/events/stadtgeschich
+ te-fuer-alle/\n\nQuelle: https://beelitz.de/events/stadtgeschichte-fuer-
+ alle/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/stadtgeschichte-fuer-alle/
 END:VEVENT
 BEGIN:VEVENT
@@ -961,16 +925,15 @@ UID:ce3a763aa6284fcbb7902a9fee37@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260902T143000Z
 DTEND:20260902T215900Z
-LOCATION:
 SUMMARY:„Erzähl - Treff für Trauernde“
-DESCRIPTION:Im „Erzähl &#8211\; Treff für Trauernde“ treffen sich regelmä
- ßig Menschen aller Altersgruppen ab 18 Jahre\,  die ihre Trauer verarbei
- ten wollen. In unserer Gruppe geht es vor allem darum\,  dass man in sei
- ner Trauer nicht allein ist. Viele Fragen\,  die uns beschäftigen\,  wer
- den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[..]
- \nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/\n\nQuelle: h
- ttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/\nZuletzt mit be
- elitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
+ äßig Menschen aller Altersgruppen ab 18 Jahre\, die ihre Trauer verarb
+ eiten wollen. In unserer Gruppe geht es vor allem darum\, dass man in se
+ iner Trauer nicht allein ist. Viele Fragen\, die uns beschäftigen\, wer
+ den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
+ .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/\n\nQuelle:
+  https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/\nZuletzt mit 
+ beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/
 END:VEVENT
 BEGIN:VEVENT
@@ -980,15 +943,15 @@ DTSTART:20260903T160000Z
 DTEND:20260903T215900Z
 LOCATION:Wiesencafe im Stadtpark Beelitz
 SUMMARY:Theater 89: Der eingebildete Kranke von Molière
-DESCRIPTION:Die Arbeitsgemeinschaft Städte mit historischen Stadtkernen d
- es Landes Brandenburg und theater 89 laden auch 2026 wieder zu einem bes
- onderen Kulturerlebnis unter freiem Himmel ein: Im Rahmen des Jahresthem
- as »Altstadt von morgen« geht die beliebte Sommertheatertournee mit der 
- Komödie »Der eingebildete Kranke« von Molière auf die Reise durch 26 his
- torische Stadtkerne.[..]\nhttps://beelitz.de/events/theater-89-der-einge
- bildete-kranke-von-moliere/\n\nQuelle: https://beelitz.de/events/theater
- -89-der-eingebildete-kranke-von-moliere/\nZuletzt mit beelitz.de abgegli
- chen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Die Arbeitsgemeinschaft Städte mit historischen Stadtkernen 
+ des Landes Brandenburg und theater 89 laden auch 2026 wieder zu einem be
+ sonderen Kulturerlebnis unter freiem Himmel ein: Im Rahmen des Jahresthe
+ mas »Altstadt von morgen« geht die beliebte Sommertheatertournee mit d
+ er Komödie »Der eingebildete Kranke« von Molière auf die Reise durch
+  26 historische Stadtkerne.[..]\nhttps://beelitz.de/events/theater-89-de
+ r-eingebildete-kranke-von-moliere/\n\nQuelle: https://beelitz.de/events/
+ theater-89-der-eingebildete-kranke-von-moliere/\nZuletzt mit beelitz.de 
+ abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/theater-89-der-eingebildete-kranke-von-moli
  ere/
 END:VEVENT
@@ -997,12 +960,11 @@ UID:89b06d2f77e5c52fa36a4d13404f@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260905
 DTEND:20260906
-LOCATION:
 SUMMARY:Fichtenwalder Ausflugsfahrten
-DESCRIPTION:\nhttps://beelitz.de/events/fichtenwalder-ausflugsfahrten/var
- /ri-1.l-L1\n\nQuelle: https://beelitz.de/events/fichtenwalder-ausflugsfa
- hrten/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10
- :02 Uhr
+DESCRIPTION:https://beelitz.de/events/fichtenwalder-ausflugsfahrten/var/r
+ i-1.l-L1\n\nQuelle: https://beelitz.de/events/fichtenwalder-ausflugsfahr
+ ten/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:1
+ 5 Uhr
 URL:https://beelitz.de/events/fichtenwalder-ausflugsfahrten/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1010,18 +972,18 @@ UID:3ab439c84ceefeeff7dbbbbbfaec@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260905T070000Z
 DTEND:20260905T160000Z
-LOCATION:
 SUMMARY:Eröffnung der Kürbisausstellung „Kürbis goes to Hollywood“
-DESCRIPTION:﻿Ab Samstag\,  den 5. September\,  wird der Spargel- und Erle
- bnishof Klaistow wieder zum großen Kürbishof. Die größte Kürbisausstellu
- ng Berlin/Brandenburgs steht 2026 unter dem Motto „Kürbis goes to Hollyw
- ood“. Über 100.000 Kürbisse\,  riesige Kürbisfiguren\,  eine große Sorte
- nschau\,  die beliebte Kürbispyramide\,  Kürbisschnitzereien\,  Kürbiske
- rn-Rösterei\,  Kürbisspezialitäten im Hofladen und herbstliche Köstlichk
- eiten in der Hofgastronomie[..]\nhttps://beelitz.de/events/eroeffnung-de
- r-kuerbisausstellung-kuerbis-goes-to-hollywood/\n\nQuelle: https://beeli
- tz.de/events/eroeffnung-der-kuerbisausstellung-kuerbis-goes-to-hollywood
- /\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿Ab Samstag\, den 5. September\, wird der Spargel- und Erle
+ bnishof Klaistow wieder zum großen Kürbishof. Die größte Kürbisauss
+ tellung Berlin/Brandenburgs steht 2026 unter dem Motto „Kürbis goes t
+ o Hollywood“. Über 100.000 Kürbisse\, riesige Kürbisfiguren\, eine 
+ große Sortenschau\, die beliebte Kürbispyramide\, Kürbisschnitzereien
+ \, Kürbiskern-Rösterei\, Kürbisspezialitäten im Hofladen und herbstl
+ iche Köstlichkeiten in der Hofgastronomie[..]\nhttps://beelitz.de/event
+ s/eroeffnung-der-kuerbisausstellung-kuerbis-goes-to-hollywood/\n\nQuelle
+ : https://beelitz.de/events/eroeffnung-der-kuerbisausstellung-kuerbis-go
+ es-to-hollywood/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15
+  Uhr
 URL:https://beelitz.de/events/eroeffnung-der-kuerbisausstellung-kuerbis-g
  oes-to-hollywood/
 END:VEVENT
@@ -1035,7 +997,7 @@ SUMMARY:Rock am alten Klärwerk 2026
 DESCRIPTION:U.a. mit den Smoking Thompsons und Herzblut\nhttps://beelitz.
  de/events/rock-am-alten-klaerwerk-2026/\n\nQuelle: https://beelitz.de/ev
  ents/rock-am-alten-klaerwerk-2026/\nZuletzt mit beelitz.de abgeglichen: 
- 17.07.2026\, 10:02 Uhr
+ 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/rock-am-alten-klaerwerk-2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -1043,17 +1005,16 @@ UID:e59ad519e3129c70102918657e22@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260906
 DTEND:20260907
-LOCATION:
 SUMMARY:Deutsche Riesengemüse-Meisterschaft in Klaistow
-DESCRIPTION:Am Sonntag\,  den 6. September\,  dreht sich auf dem Spargel-
-  und Erlebnishof Klaistow alles um Gemüse in XXL. Bei der Deutschen Ries
- engemüse-Meisterschaft präsentieren Hobbygärtnerinnen und Hobbygärtner i
- hre beeindruckenden Gartenriesen &#8211\; von gigantischen Zucchini über
-  schwere Karotten und übergroße Rote Bete bis hin zu mächtigen Kohlköpfe
- n. Die Gemüsegiganten werden vermessen\,  gewogen[..]\nhttps://beelitz.d
- e/events/deutsche-riesengemuese-meisterschaft-in-klaistow/\n\nQuelle: ht
- tps://beelitz.de/events/deutsche-riesengemuese-meisterschaft-in-klaistow
- /\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Am Sonntag\, den 6. September\, dreht sich auf dem Spargel- u
+ nd Erlebnishof Klaistow alles um Gemüse in XXL. Bei der Deutschen Riese
+ ngemüse-Meisterschaft präsentieren Hobbygärtnerinnen und Hobbygärtne
+ r ihre beeindruckenden Gartenriesen – von gigantischen Zucchini über 
+ schwere Karotten und übergroße Rote Bete bis hin zu mächtigen Kohlkö
+ pfen. Die Gemüsegiganten werden vermessen\, gewogen[..]\nhttps://beelit
+ z.de/events/deutsche-riesengemuese-meisterschaft-in-klaistow/\n\nQuelle:
+  https://beelitz.de/events/deutsche-riesengemuese-meisterschaft-in-klais
+ tow/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/deutsche-riesengemuese-meisterschaft-in-kla
  istow/
 END:VEVENT
@@ -1064,15 +1025,15 @@ DTSTART:20260906T130000Z
 DTEND:20260906T215900Z
 LOCATION:Freilichtbühne im Stadtpark
 SUMMARY:Alexander Wurz & Die Egerländer Musikanten – Das Original
-DESCRIPTION:Alexander Wurz &amp\; Die Egerländer Musikanten – Das Origina
- l feiern 2026 ihr 70-jähriges Bestehen – und kommen mit ihrem Jubiläumsp
- rogramm am 6. September ab 15 Uhr auf die Freilichtbühne Beelitz. Dabei 
- haben sie nicht nur jahrzehntelange Musikgeschichte im Gepäck – sondern 
- auch einen neuen musikalischen Leiter\,  der die Tradition von[..]\nhttp
- s://beelitz.de/events/alexander-wurz-die-egerlaender-musikanten-das-orig
- inal/\n\nQuelle: https://beelitz.de/events/alexander-wurz-die-egerlaende
- r-musikanten-das-original/\nZuletzt mit beelitz.de abgeglichen: 17.07.20
- 26\, 10:02 Uhr
+DESCRIPTION:Alexander Wurz & Die Egerländer Musikanten – Das Original 
+ feiern 2026 ihr 70-jähriges Bestehen – und kommen mit ihrem Jubiläum
+ sprogramm am 6. September ab 15 Uhr auf die Freilichtbühne Beelitz. Dab
+ ei haben sie nicht nur jahrzehntelange Musikgeschichte im Gepäck – so
+ ndern auch einen neuen musikalischen Leiter\, der die Tradition von[..]\
+ nhttps://beelitz.de/events/alexander-wurz-die-egerlaender-musikanten-das
+ -original/\n\nQuelle: https://beelitz.de/events/alexander-wurz-die-egerl
+ aender-musikanten-das-original/\nZuletzt mit beelitz.de abgeglichen: 17.
+ 07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/alexander-wurz-die-egerlaender-musikanten-d
  as-original/
 END:VEVENT
@@ -1083,14 +1044,14 @@ DTSTART:20260908T150000Z
 DTEND:20260908T173000Z
 LOCATION:Clubraum des Deutschen Hauses Berliner Straße 18
 SUMMARY:Selbsthilfegruppe Tinnitus
-DESCRIPTION:Neue Termine für 2026 der SHG &#8222\;Tinnitus&#8220\; Beelit
- z  Clubraum im Deutschen Haus Beelitz Berliner Str. 18 14547 Beelitz jew
- eils Dienstag ab 17:00 Uhr bis ca. 19:30 Uhr 12. Mai 09. Juni 08. Septem
- ber 13. Oktober 10. November 08. Dezember Im Juli und August Sommerpause
-  Auskünfte und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/event
- s/selbsthilfegruppe-tinnitus/var/ri-2.l-L1\n\nQuelle: https://beelitz.de
- /events/selbsthilfegruppe-tinnitus/var/ri-2.l-L1\nZuletzt mit beelitz.de
-  abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Neue Termine für 2026 der SHG „Tinnitus“ Beelitz Clubrau
+ m im Deutschen Haus Beelitz Berliner Str. 18 14547 Beelitz jeweils Diens
+ tag ab 17:00 Uhr bis ca. 19:30 Uhr 12. Mai 09. Juni 08. September 13. Ok
+ tober 10. November 08. Dezember Im Juli und August Sommerpause Auskünft
+ e und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/events/selbst
+ hilfegruppe-tinnitus/var/ri-2.l-L1\n\nQuelle: https://beelitz.de/events/
+ selbsthilfegruppe-tinnitus/var/ri-2.l-L1\nZuletzt mit beelitz.de abgegli
+ chen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/selbsthilfegruppe-tinnitus/var/ri-2.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1098,11 +1059,10 @@ UID:2b496e88239dea6100ec5e33a586@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260911T160000Z
 DTEND:20260911T215900Z
-LOCATION:
 SUMMARY:Wittbrietzener Jubiläums-Dorffest
-DESCRIPTION:\nhttps://beelitz.de/events/dorffest-wittbrietzen/\n\nQuelle:
-  https://beelitz.de/events/dorffest-wittbrietzen/\nZuletzt mit beelitz.d
- e abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/dorffest-wittbrietzen/\n\nQuelle: h
+ ttps://beelitz.de/events/dorffest-wittbrietzen/\nZuletzt mit beelitz.de 
+ abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/dorffest-wittbrietzen/
 END:VEVENT
 BEGIN:VEVENT
@@ -1115,7 +1075,7 @@ SUMMARY:Oktoberfest mit Münchener Zwietracht und Oberlimtaler Trachtler
 DESCRIPTION:Mehr Informationen folgen\nhttps://beelitz.de/events/oktoberf
  est-mit-muenchener-zwietracht-und-oberlimtaler-trachtler/\n\nQuelle: htt
  ps://beelitz.de/events/oktoberfest-mit-muenchener-zwietracht-und-oberlim
- taler-trachtler/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02
+ taler-trachtler/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15
   Uhr
 URL:https://beelitz.de/events/oktoberfest-mit-muenchener-zwietracht-und-o
  berlimtaler-trachtler/
@@ -1125,11 +1085,10 @@ UID:d5e13314231d010d93972ce06d84@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260912T080000Z
 DTEND:20260912T121500Z
-LOCATION:
 SUMMARY:Wittbrietzener Jubiläums-Dorffest
-DESCRIPTION:\nhttps://beelitz.de/events/dorffest-wittbrietzen/var/ri-1.l-
- L1\n\nQuelle: https://beelitz.de/events/dorffest-wittbrietzen/var/ri-1.l
- -L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/dorffest-wittbrietzen/var/ri-1.l-L1
+ \n\nQuelle: https://beelitz.de/events/dorffest-wittbrietzen/var/ri-1.l-L
+ 1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/dorffest-wittbrietzen/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1139,13 +1098,12 @@ DTSTART:20260912T130000Z
 DTEND:20260912T215900Z
 LOCATION:Hans-Grade-Haus Am Markt 1\,  14547 Beelitz
 SUMMARY:Malerei trifft Fotografie
-DESCRIPTION:&#8222\;Malerei trifft Fotografie&#8220\; Vernissage am 12.09
- .2026 um 15.00 Uhr im Hans-Grade-Haus Fichtenwalde\,  Am Markt 1 Steffi 
- John und Barbara Berndt stellen ihre neuesten Arbeiten vor. Zwei Kunstri
- chtungen treffen sich zu einer Ausstellung.\nhttps://beelitz.de/events/m
- alerei-trifft-fotografie/\n\nQuelle: https://beelitz.de/events/malerei-t
- rifft-fotografie/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:0
- 2 Uhr
+DESCRIPTION:„Malerei trifft Fotografie“ Vernissage am 12.09.2026 um 1
+ 5.00 Uhr im Hans-Grade-Haus Fichtenwalde\, Am Markt 1 Steffi John und Ba
+ rbara Berndt stellen ihre neuesten Arbeiten vor. Zwei Kunstrichtungen tr
+ effen sich zu einer Ausstellung.\nhttps://beelitz.de/events/malerei-trif
+ ft-fotografie/\n\nQuelle: https://beelitz.de/events/malerei-trifft-fotog
+ rafie/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/malerei-trifft-fotografie/
 END:VEVENT
 BEGIN:VEVENT
@@ -1153,11 +1111,10 @@ UID:7959b28d45e4a52576b06805a3e2@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260912T130000Z
 DTEND:20260912T215900Z
-LOCATION:
 SUMMARY:Malerei trifft Fotografie
-DESCRIPTION:\nhttps://beelitz.de/events/malerei-trifft-fotografie-2/\n\nQ
- uelle: https://beelitz.de/events/malerei-trifft-fotografie-2/\nZuletzt m
- it beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/malerei-trifft-fotografie-2/\n\nQue
+ lle: https://beelitz.de/events/malerei-trifft-fotografie-2/\nZuletzt mit
+  beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/malerei-trifft-fotografie-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -1165,12 +1122,11 @@ UID:e5f0922a039ce4172497b73df1f9@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260913
 DTEND:20260914
-LOCATION:
 SUMMARY:Veranstaltung auf den Jakobs-Höfen
-DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakobs-ho
- efen/var/ri-5.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-au
- f-den-jakobs-hoefen/var/ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
- 7.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
+ s-hoefen/var/ri-5.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
+ g-auf-den-jakobs-hoefen/var/ri-5.l-L1\nZuletzt mit beelitz.de abgegliche
+ n: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  5.l-L1
 END:VEVENT
@@ -1181,11 +1137,11 @@ DTSTART:20260913T080000Z
 DTEND:20260913T150000Z
 LOCATION:Beelitzer Stadtpark
 SUMMARY:Beelitzer Familientag
-DESCRIPTION:Familienfreundlichkeit wird in Beelitz großgeschrieben. Daher
-  laden wir in diesem September Jung und Alt zu Spiel und Spaß in unseren
-  Stadtpark ein.\nhttps://beelitz.de/events/beelitzer-familientag/\n\nQue
- lle: https://beelitz.de/events/beelitzer-familientag/\nZuletzt mit beeli
- tz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Familienfreundlichkeit wird in Beelitz großgeschrieben. Dahe
+ r laden wir in diesem September Jung und Alt zu Spiel und Spaß in unser
+ en Stadtpark ein.\nhttps://beelitz.de/events/beelitzer-familientag/\n\nQ
+ uelle: https://beelitz.de/events/beelitzer-familientag/\nZuletzt mit bee
+ litz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/beelitzer-familientag/
 END:VEVENT
 BEGIN:VEVENT
@@ -1193,12 +1149,11 @@ UID:f9c5e4346618675098afca9fc54d@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260913T080000Z
 DTEND:20260913T140000Z
-LOCATION:
 SUMMARY:Tag des Offenen Denkmals in Reesdorf
-DESCRIPTION:Ehrenamtliche Bürger öffnen die Dorfkirche in Reesdorf.\nhttp
- s://beelitz.de/events/tag-des-offenen-denkmals-in-reesdorf-2/\n\nQuelle:
-  https://beelitz.de/events/tag-des-offenen-denkmals-in-reesdorf-2/\nZule
- tzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Ehrenamtliche Bürger öffnen die Dorfkirche in Reesdorf.\nht
+ tps://beelitz.de/events/tag-des-offenen-denkmals-in-reesdorf-2/\n\nQuell
+ e: https://beelitz.de/events/tag-des-offenen-denkmals-in-reesdorf-2/\nZu
+ letzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/tag-des-offenen-denkmals-in-reesdorf-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -1206,11 +1161,10 @@ UID:68fc52725b09bb685026a049c692@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260913T090000Z
 DTEND:20260913T215900Z
-LOCATION:
 SUMMARY:Wittbrietzener Jubiläums-Dorffest
-DESCRIPTION:\nhttps://beelitz.de/events/dorffest-wittbrietzen/var/ri-2.l-
- L1\n\nQuelle: https://beelitz.de/events/dorffest-wittbrietzen/var/ri-2.l
- -L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/dorffest-wittbrietzen/var/ri-2.l-L1
+ \n\nQuelle: https://beelitz.de/events/dorffest-wittbrietzen/var/ri-2.l-L
+ 1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/dorffest-wittbrietzen/var/ri-2.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1218,18 +1172,17 @@ UID:85c6580e0e2d146ac09fa5f41ac6@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260913T120000Z
 DTEND:20260913T215900Z
-LOCATION:
-SUMMARY:Die Kleine Wiegemeisterschaft: Kürbis-Wiegen für Schulklassen und
-  Vereine
-DESCRIPTION:Am Sonntag\,  den 13. September\,  sind Schulklassen und Vere
- ine bei der Kleinen Wiegemeisterschaft auf dem Spargel- und Erlebnishof 
- Klaistow gefragt. Ab 14 Uhr werden Kürbisse ab 50 Kilogramm gewogen und 
- prämiert. Wer mit einem richtig großen Exemplar antritt\,  kann nicht nu
- r zeigen\,  was im eigenen Garten oder auf dem Schulacker[..]\nhttps://b
- eelitz.de/events/die-kleine-wiegemeisterschaft-kuerbis-wiegen-fuer-schul
- klassen-und-vereine/\n\nQuelle: https://beelitz.de/events/die-kleine-wie
- gemeisterschaft-kuerbis-wiegen-fuer-schulklassen-und-vereine/\nZuletzt m
- it beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+SUMMARY:Die Kleine Wiegemeisterschaft: Kürbis-Wiegen für Schulklassen u
+ nd Vereine
+DESCRIPTION:Am Sonntag\, den 13. September\, sind Schulklassen und Verein
+ e bei der Kleinen Wiegemeisterschaft auf dem Spargel- und Erlebnishof Kl
+ aistow gefragt. Ab 14 Uhr werden Kürbisse ab 50 Kilogramm gewogen und p
+ rämiert. Wer mit einem richtig großen Exemplar antritt\, kann nicht nu
+ r zeigen\, was im eigenen Garten oder auf dem Schulacker[..]\nhttps://be
+ elitz.de/events/die-kleine-wiegemeisterschaft-kuerbis-wiegen-fuer-schulk
+ lassen-und-vereine/\n\nQuelle: https://beelitz.de/events/die-kleine-wieg
+ emeisterschaft-kuerbis-wiegen-fuer-schulklassen-und-vereine/\nZuletzt mi
+ t beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/die-kleine-wiegemeisterschaft-kuerbis-wiege
  n-fuer-schulklassen-und-vereine/
 END:VEVENT
@@ -1238,13 +1191,13 @@ UID:60bb6547fcd87a7a7119f14c7a11@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260913T130000Z
 DTEND:20260913T160000Z
-LOCATION:
 SUMMARY:Tanz in den Goldenen Herbst
-DESCRIPTION:﻿﻿Andrea und Wilfried Peetz laden zum Tanz in den Goldenen He
- rbst auf dem Jakobs-Hof Beelitz. Karten für 15 Euro gibt es vor Ort und 
- in der Tourist-Info Beelitz ﻿\nhttps://beelitz.de/events/tanz-in-den-gol
- denen-herbst-2/\n\nQuelle: https://beelitz.de/events/tanz-in-den-goldene
- n-herbst-2/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿﻿Andrea und Wilfried Peetz laden zum Tanz in den Goldene
+ n Herbst auf dem Jakobs-Hof Beelitz. Karten für 15 Euro gibt es vor Ort
+  und in der Tourist-Info Beelitz ﻿\nhttps://beelitz.de/events/tanz-in-
+ den-goldenen-herbst-2/\n\nQuelle: https://beelitz.de/events/tanz-in-den-
+ goldenen-herbst-2/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:
+ 15 Uhr
 URL:https://beelitz.de/events/tanz-in-den-goldenen-herbst-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -1254,16 +1207,16 @@ DTSTART:20260915T150000Z
 DTEND:20260915T215900Z
 LOCATION:Neurologische Kliniken Paracelsusring 6a
 SUMMARY:Treffen der Selbsthilfegruppe Schlaganfall
-DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet. Zum 
- Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der Stiftung
-  Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst und ander
- en aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist in den Ne
- urologischen Kliniken\,  Paracelsusring 6a im Konferenzraum K2. Der Schl
- aganfall bedeutet eine schlagartige gravierende[..]\nhttps://beelitz.de/
- events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-8.l-L1\n\nQuell
- e: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
- var/ri-8.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uh
- r
+DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet
+ . Zum Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der 
+ Stiftung Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst u
+ nd anderen aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist i
+ n den Neurologischen Kliniken\, Paracelsusring 6a im Konferenzraum K2. D
+ er Schlaganfall bedeutet eine schlagartige gravierende[..]\nhttps://beel
+ itz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-8.l-L1\n
+ \nQuelle: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlag
+ anfall/var/ri-8.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 1
+ 0:15 Uhr
 URL:https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
  var/ri-8.l-L1
 END:VEVENT
@@ -1274,14 +1227,14 @@ DTSTART:20260916T140000Z
 DTEND:20260916T160000Z
 LOCATION:Hans-Grade-Haus Am Markt 1\,  14547 Beelitz
 SUMMARY:Fichtenwalder helfen
-DESCRIPTION:Haben auch Sie einige Fragen\,  die Ihnen bisher keiner beant
- worten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg gef
- unden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informati
- onen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\,  1
- 8. Februar\,  18. März\,  15. April\,  13. Mai\, [..]\nhttps://beelitz.d
- e/events/fichtenwalder-helfen/var/ri-8.l-L1\n\nQuelle: https://beelitz.d
- e/events/fichtenwalder-helfen/var/ri-8.l-L1\nZuletzt mit beelitz.de abge
- glichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
+ orten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg ge
+ funden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informat
+ ionen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\, 
+ 18. Februar\, 18. März\, 15. April\, 13. Mai\, [..]\nhttps://beelitz.de
+ /events/fichtenwalder-helfen/var/ri-8.l-L1\n\nQuelle: https://beelitz.de
+ /events/fichtenwalder-helfen/var/ri-8.l-L1\nZuletzt mit beelitz.de abgeg
+ lichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen/var/ri-8.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1289,16 +1242,15 @@ UID:69db193a8ba57cc4f398636260f3@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260916T143000Z
 DTEND:20260916T215900Z
-LOCATION:
 SUMMARY:„Erzähl - Treff für Trauernde“
-DESCRIPTION:Im „Erzähl &#8211\; Treff für Trauernde“ treffen sich regelmä
- ßig Menschen aller Altersgruppen ab 18 Jahre\,  die ihre Trauer verarbei
- ten wollen. In unserer Gruppe geht es vor allem darum\,  dass man in sei
- ner Trauer nicht allein ist. Viele Fragen\,  die uns beschäftigen\,  wer
- den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[..]
- \nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var/ri-1.l-L1
- \n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var
- /ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
+ äßig Menschen aller Altersgruppen ab 18 Jahre\, die ihre Trauer verarb
+ eiten wollen. In unserer Gruppe geht es vor allem darum\, dass man in se
+ iner Trauer nicht allein ist. Viele Fragen\, die uns beschäftigen\, wer
+ den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
+ .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var/ri-1.l-
+ L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/v
+ ar/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var/ri-1.l-L
  1
 END:VEVENT
@@ -1307,16 +1259,15 @@ UID:f9acd58d9ea5008a334ec06400ce@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260918T143000Z
 DTEND:20260918T163000Z
-LOCATION:
 SUMMARY:“Heimische Superfoods”
-DESCRIPTION:Heimische Superfoods- Workshop in der Heilstätte am 18. Septe
- mber 2026: Komme mit auf Entdeckerreise und lerne unsere regionalen Powe
- r-Pakete kennen. Erfahre\,  wie dich unsere heimischen Superfoods in dei
- nem Alltag natürlich unterstützen können. Wir stellen eigene Produkte he
- r (z.B. einen powervollen Energiesnack &amp\; ein kraftvolles Wildfrücht
- e-Oxymel) und entdecken in gemütlicher Runde[..]\nhttps://beelitz.de/eve
+DESCRIPTION:Heimische Superfoods- Workshop in der Heilstätte am 18. Sept
+ ember 2026: Komme mit auf Entdeckerreise und lerne unsere regionalen Pow
+ er-Pakete kennen. Erfahre\, wie dich unsere heimischen Superfoods in dei
+ nem Alltag natürlich unterstützen können. Wir stellen eigene Produkte
+  her (z.B. einen powervollen Energiesnack & ein kraftvolles Wildfrüchte
+ -Oxymel) und entdecken in gemütlicher Runde[..]\nhttps://beelitz.de/eve
  nts/heimische-superfoods/\n\nQuelle: https://beelitz.de/events/heimische
- -superfoods/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ -superfoods/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/heimische-superfoods/
 END:VEVENT
 BEGIN:VEVENT
@@ -1324,11 +1275,10 @@ UID:2f3eefaf73e95012dfab579113f3@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260919T070000Z
 DTEND:20260919T120000Z
-LOCATION:
 SUMMARY:Trödelmarkt Fichtenwalde
-DESCRIPTION:\nhttps://beelitz.de/events/55300/\n\nQuelle: https://beelitz
- .de/events/55300/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:0
- 2 Uhr
+DESCRIPTION:https://beelitz.de/events/55300/\n\nQuelle: https://beelitz.d
+ e/events/55300/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 
+ Uhr
 URL:https://beelitz.de/events/55300/
 END:VEVENT
 BEGIN:VEVENT
@@ -1336,16 +1286,15 @@ UID:ae0ebe275ce9730623220e4a1e00@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260919T180000Z
 DTEND:20260919T215900Z
-LOCATION:
 SUMMARY:Beelitz Metalstätten
-DESCRIPTION:BEELITZ METALSTÄTTEN geht in die dritte Runde! Die Atmospheri
- c Metalband „December Night&#8220\; aus Potsdam legte den Grundstein für
-  ihre eigene\,  einmal im Jahr stattfindende Veranstaltungsreihe\,  in Z
- usammenarbeit mit Kultur BHS und LCC Productions. Die Idee dahinter? Mel
- odischen Metal in einer einzigartigen Kulisse zu performen und dabei zu 
- zeigen\,  dass Metal[..]\nhttps://beelitz.de/events/beelitz-metalstaette
- n-2/\n\nQuelle: https://beelitz.de/events/beelitz-metalstaetten-2/\nZule
- tzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:BEELITZ METALSTÄTTEN geht in die dritte Runde! Die Atmospher
+ ic Metalband „December Night“ aus Potsdam legte den Grundstein für 
+ ihre eigene\, einmal im Jahr stattfindende Veranstaltungsreihe\, in Zusa
+ mmenarbeit mit Kultur BHS und LCC Productions. Die Idee dahinter? Melodi
+ schen Metal in einer einzigartigen Kulisse zu performen und dabei zu zei
+ gen\, dass Metal[..]\nhttps://beelitz.de/events/beelitz-metalstaetten-2/
+ \n\nQuelle: https://beelitz.de/events/beelitz-metalstaetten-2/\nZuletzt 
+ mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/beelitz-metalstaetten-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -1353,17 +1302,17 @@ UID:9cf84dcf631c060e8997f85c46b8@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260920T080000Z
 DTEND:20260920T215900Z
-LOCATION:Beelitz-Heilstätten Straße nach Fichtenwalde 3\,  14547 Beelitz 
- Heilstätten
+LOCATION:Beelitz-Heilstätten Straße nach Fichtenwalde 3\,  14547 Beelit
+ z Heilstätten
 SUMMARY:Führung des Fördervereins Heiz-Kraft-Werk
-DESCRIPTION:Im Jahr 2026 finden wieder regelmäßige Führungen statt\,  und
-  zwar erwarten wir Sie von März bis November\,  jeweils am 3. Sonntag de
- s Monats um 10.00 Uhr. Wir beginnen am 15.03.2026 um 10.00 Uhr am Eingan
- g zum Maschinensaal (Friedenspfahl und Schaukasten sind die Anhaltspunkt
- e).  Wir haben in diesem Jahr viel vor[..]\nhttps://beelitz.de/events/fu
- ehrung-des-foerdervereins-heiz-kraft-werk/var/ri-6.l-L1\n\nQuelle: https
- ://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk/var/ri-
- 6.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Im Jahr 2026 finden wieder regelmäßige Führungen statt\, u
+ nd zwar erwarten wir Sie von März bis November\, jeweils am 3. Sonntag 
+ des Monats um 10.00 Uhr. Wir beginnen am 15.03.2026 um 10.00 Uhr am Eing
+ ang zum Maschinensaal (Friedenspfahl und Schaukasten sind die Anhaltspun
+ kte). Wir haben in diesem Jahr viel vor[..]\nhttps://beelitz.de/events/f
+ uehrung-des-foerdervereins-heiz-kraft-werk/var/ri-6.l-L1\n\nQuelle: http
+ s://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk/var/ri
+ -6.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk
  /var/ri-6.l-L1
 END:VEVENT
@@ -1372,17 +1321,16 @@ UID:c1575fd62ea88292c3f87177ca5b@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260920T090000Z
 DTEND:20260920T150000Z
-LOCATION:
 SUMMARY:Beelitzer Museumssonntag
-DESCRIPTION:Jeden dritten Sonntag im Monat öffnen unsere drei Museen ihre
-  Türen für alle Interessierten. In der ehemaligen Wassermühle Ernst Voge
- l stellt die Maus Mika unseren jungen Besucherinnen und Besuchern Rätsel
- aufgaben. Werden alle Rätsel gelöst\,  wartet am Ende eine kleine Überra
- schung. Die schönsten Kleider der ehemaligen Spargelköniginnen gibt es i
- m Beelitzer[..]\nhttps://beelitz.de/events/beelitzer-museumssonntag/var/
- ri-5.l-L1\n\nQuelle: https://beelitz.de/events/beelitzer-museumssonntag/
- var/ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uh
- r
+DESCRIPTION:Jeden dritten Sonntag im Monat öffnen unsere drei Museen ihr
+ e Türen für alle Interessierten. In der ehemaligen Wassermühle Ernst 
+ Vogel stellt die Maus Mika unseren jungen Besucherinnen und Besuchern R
+ ätselaufgaben. Werden alle Rätsel gelöst\, wartet am Ende eine kleine
+  Überraschung. Die schönsten Kleider der ehemaligen Spargelköniginnen
+  gibt es im Beelitzer[..]\nhttps://beelitz.de/events/beelitzer-museumsso
+ nntag/var/ri-5.l-L1\n\nQuelle: https://beelitz.de/events/beelitzer-museu
+ mssonntag/var/ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\
+ , 10:15 Uhr
 URL:https://beelitz.de/events/beelitzer-museumssonntag/var/ri-5.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1392,10 +1340,10 @@ DTSTART:20260921T130000Z
 DTEND:20260921T150000Z
 LOCATION:Bauhof Beelitz Berliner Str. 27
 SUMMARY:Veranstaltungen der Verkehrswacht 2026
-DESCRIPTION:\nhttps://beelitz.de/events/veranstaltungen-der-verkehrswacht
- -2026/var/ri-5.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen
- -der-verkehrswacht-2026/var/ri-5.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2
+ 026/var/ri-5.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen-d
+ er-verkehrswacht-2026/var/ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen:
+  17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2026/var/
  ri-5.l-L1
 END:VEVENT
@@ -1404,17 +1352,16 @@ UID:4e9383ff7fad666108fc005b318b@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260927T120000Z
 DTEND:20260927T215900Z
-LOCATION:
 SUMMARY:Die Große Kürbis-Wiegemeisterschaft
-DESCRIPTION:Am Sonntag\,  den 27. September\,  wird es wieder richtig sch
- wer auf dem Spargel- und Erlebnishof Klaistow: Bei der Großen Kürbis-Wie
- gemeisterschaft treten Züchterinnen\,  Züchter und Hobbygärtner mit ihre
- n Riesenkürbissen gegeneinander an. In den vergangenen Jahren gehörte da
- s Klaistower Kürbiswiegen regelmäßig zu den größten Veranstaltungen dies
- er Art weltweit. 2025 brachte der Siegerkürbis[..]\nhttps://beelitz.de/e
- vents/die-grosse-kuerbis-wiegemeisterschaft/\n\nQuelle: https://beelitz.
- de/events/die-grosse-kuerbis-wiegemeisterschaft/\nZuletzt mit beelitz.de
-  abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Am Sonntag\, den 27. September\, wird es wieder richtig schwe
+ r auf dem Spargel- und Erlebnishof Klaistow: Bei der Großen Kürbis-Wie
+ gemeisterschaft treten Züchterinnen\, Züchter und Hobbygärtner mit ih
+ ren Riesenkürbissen gegeneinander an. In den vergangenen Jahren gehört
+ e das Klaistower Kürbiswiegen regelmäßig zu den größten Veranstaltu
+ ngen dieser Art weltweit. 2025 brachte der Siegerkürbis[..]\nhttps://be
+ elitz.de/events/die-grosse-kuerbis-wiegemeisterschaft/\n\nQuelle: https:
+ //beelitz.de/events/die-grosse-kuerbis-wiegemeisterschaft/\nZuletzt mit 
+ beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/die-grosse-kuerbis-wiegemeisterschaft/
 END:VEVENT
 BEGIN:VEVENT
@@ -1422,16 +1369,15 @@ UID:cc42bf14e86f102784c98f1ad7fa@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20260930T143000Z
 DTEND:20260930T160000Z
-LOCATION:
 SUMMARY:„Erzähl - Treff für Trauernde“
-DESCRIPTION:Im „Erzähl &#8211\; Treff für Trauernde“ treffen sich regelmä
- ßig Menschen aller Altersgruppen ab 18 Jahre\,  die ihre Trauer verarbei
- ten wollen. In unserer Gruppe geht es vor allem darum\,  dass man in sei
- ner Trauer nicht allein ist. Viele Fragen\,  die uns beschäftigen\,  wer
- den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[..]
- \nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var/ri-2.l-L1
- \n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var
- /ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
+ äßig Menschen aller Altersgruppen ab 18 Jahre\, die ihre Trauer verarb
+ eiten wollen. In unserer Gruppe geht es vor allem darum\, dass man in se
+ iner Trauer nicht allein ist. Viele Fragen\, die uns beschäftigen\, wer
+ den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
+ .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var/ri-2.l-
+ L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/v
+ ar/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var/ri-2.l-L
  1
 END:VEVENT
@@ -1440,12 +1386,11 @@ UID:bd0665e1435d56223ff2e0be6d1d@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261003
 DTEND:20261004
-LOCATION:
 SUMMARY:Veranstaltung auf den Jakobs-Höfen
-DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakobs-ho
- efen/var/ri-6.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-au
- f-den-jakobs-hoefen/var/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
- 7.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
+ s-hoefen/var/ri-6.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
+ g-auf-den-jakobs-hoefen/var/ri-6.l-L1\nZuletzt mit beelitz.de abgegliche
+ n: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  6.l-L1
 END:VEVENT
@@ -1454,12 +1399,11 @@ UID:e62a6d8a5803b088dae8a36fed8e@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261003
 DTEND:20261004
-LOCATION:
 SUMMARY:Veranstaltung auf den Jakobs-Höfen
-DESCRIPTION:\nhttps://beelitz.de/events/veranstaltung-auf-den-jakobs-hoef
- en-2/var/ri-2.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-au
- f-den-jakobs-hoefen-2/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen:
-  17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen
+ -2/var/ri-2.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-auf-
+ den-jakobs-hoefen-2/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
+ 7.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen-2/var/r
  i-2.l-L1
 END:VEVENT
@@ -1470,14 +1414,14 @@ DTSTART:20261013T150000Z
 DTEND:20261013T173000Z
 LOCATION:Clubraum des Deutschen Hauses Berliner Straße 18
 SUMMARY:Selbsthilfegruppe Tinnitus
-DESCRIPTION:Neue Termine für 2026 der SHG &#8222\;Tinnitus&#8220\; Beelit
- z  Clubraum im Deutschen Haus Beelitz Berliner Str. 18 14547 Beelitz jew
- eils Dienstag ab 17:00 Uhr bis ca. 19:30 Uhr 12. Mai 09. Juni 08. Septem
- ber 13. Oktober 10. November 08. Dezember Im Juli und August Sommerpause
-  Auskünfte und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/event
- s/selbsthilfegruppe-tinnitus/var/ri-3.l-L1\n\nQuelle: https://beelitz.de
- /events/selbsthilfegruppe-tinnitus/var/ri-3.l-L1\nZuletzt mit beelitz.de
-  abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Neue Termine für 2026 der SHG „Tinnitus“ Beelitz Clubrau
+ m im Deutschen Haus Beelitz Berliner Str. 18 14547 Beelitz jeweils Diens
+ tag ab 17:00 Uhr bis ca. 19:30 Uhr 12. Mai 09. Juni 08. September 13. Ok
+ tober 10. November 08. Dezember Im Juli und August Sommerpause Auskünft
+ e und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/events/selbst
+ hilfegruppe-tinnitus/var/ri-3.l-L1\n\nQuelle: https://beelitz.de/events/
+ selbsthilfegruppe-tinnitus/var/ri-3.l-L1\nZuletzt mit beelitz.de abgegli
+ chen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/selbsthilfegruppe-tinnitus/var/ri-3.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1487,14 +1431,14 @@ DTSTART:20261014T140000Z
 DTEND:20261014T160000Z
 LOCATION:Hans-Grade-Haus Am Markt 1\,  14547 Beelitz
 SUMMARY:Fichtenwalder helfen
-DESCRIPTION:Haben auch Sie einige Fragen\,  die Ihnen bisher keiner beant
- worten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg gef
- unden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informati
- onen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\,  1
- 8. Februar\,  18. März\,  15. April\,  13. Mai\, [..]\nhttps://beelitz.d
- e/events/fichtenwalder-helfen/var/ri-9.l-L1\n\nQuelle: https://beelitz.d
- e/events/fichtenwalder-helfen/var/ri-9.l-L1\nZuletzt mit beelitz.de abge
- glichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
+ orten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg ge
+ funden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informat
+ ionen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\, 
+ 18. Februar\, 18. März\, 15. April\, 13. Mai\, [..]\nhttps://beelitz.de
+ /events/fichtenwalder-helfen/var/ri-9.l-L1\n\nQuelle: https://beelitz.de
+ /events/fichtenwalder-helfen/var/ri-9.l-L1\nZuletzt mit beelitz.de abgeg
+ lichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen/var/ri-9.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1502,16 +1446,15 @@ UID:86cf2e29f7113ef966c334e37d98@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261014T143000Z
 DTEND:20261014T215900Z
-LOCATION:
 SUMMARY:„Erzähl - Treff für Trauernde“
-DESCRIPTION:Im „Erzähl &#8211\; Treff für Trauernde“ treffen sich regelmä
- ßig Menschen aller Altersgruppen ab 18 Jahre\,  die ihre Trauer verarbei
- ten wollen. In unserer Gruppe geht es vor allem darum\,  dass man in sei
- ner Trauer nicht allein ist. Viele Fragen\,  die uns beschäftigen\,  wer
- den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[..]
- \nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/\n\nQuelle:
-  https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/\nZuletzt mi
- t beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
+ äßig Menschen aller Altersgruppen ab 18 Jahre\, die ihre Trauer verarb
+ eiten wollen. In unserer Gruppe geht es vor allem darum\, dass man in se
+ iner Trauer nicht allein ist. Viele Fragen\, die uns beschäftigen\, wer
+ den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
+ .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/\n\nQuell
+ e: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/\nZuletzt 
+ mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -1521,15 +1464,15 @@ DTSTART:20261016
 DTEND:20261017
 LOCATION:Jakobs-Hof Beelitz Kähnsdorfer Weg 1a\,  14547 Beelitz
 SUMMARY:53. PRS-HAVELLANDRALLYE "Durch den Fläming"
-DESCRIPTION:16. / 17. Oktober 2026 &#8211\; 53. PRS-HAVELLANDRALLYE &#822
- 2\;Durch den Fläming&#8220\; Automobil-Bestzeit-Rallye über ca. 180 KM i
- m Landkreis Potsdam-Mittelmark Wertung zum Deutschen Schotter Rallye Cup
- \,  Rallye-Meisterschaft Berlin-Brandenburg und zur ADMV Rallye Meisters
- chaft Rallyezentrum und Start und Ziel im JAKOBS-HOF\,  Kähnsdorfer Weg 
- 1 A\,  14 547 Beelitz\nhttps://beelitz.de/events/havellandrallye-auf-dem
- -jakobs-hof-beelitz/\n\nQuelle: https://beelitz.de/events/havellandrally
- e-auf-dem-jakobs-hof-beelitz/\nZuletzt mit beelitz.de abgeglichen: 17.07
- .2026\, 10:02 Uhr
+DESCRIPTION:16. / 17. Oktober 2026 – 53. PRS-HAVELLANDRALLYE „Durch d
+ en Fläming“ Automobil-Bestzeit-Rallye über ca. 180 KM im Landkreis P
+ otsdam-Mittelmark Wertung zum Deutschen Schotter Rallye Cup\, Rallye-Mei
+ sterschaft Berlin-Brandenburg und zur ADMV Rallye Meisterschaft Rallyeze
+ ntrum und Start und Ziel im JAKOBS-HOF\, Kähnsdorfer Weg 1 A\, 14 547 B
+ eelitz\nhttps://beelitz.de/events/havellandrallye-auf-dem-jakobs-hof-bee
+ litz/\n\nQuelle: https://beelitz.de/events/havellandrallye-auf-dem-jakob
+ s-hof-beelitz/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 U
+ hr
 URL:https://beelitz.de/events/havellandrallye-auf-dem-jakobs-hof-beelitz/
 END:VEVENT
 BEGIN:VEVENT
@@ -1537,17 +1480,16 @@ UID:c349ff7490db32b98ced98bdb1d0@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261016T143000Z
 DTEND:20261016T163000Z
-LOCATION:
 SUMMARY:ImmunBoost - Starkes Immunsystem im goldenen Oktober
-DESCRIPTION:Immunpower- Workshop in der Heilstätte am 16. Oktober 2026: E
- ntdecke die Kraft der wilden Wurzeln und lerne unseren heimischen Powers
- toff Propolis kennen. Erfahre\,  wie dich und dein Immunsystem im golden
- en Oktober natürlich und kraftvoll unterstützen kannst. Wir stellen eige
- ne Produkte her (z.B. einen vitalisierenden Immunhonig &amp\; eine kraft
- volle Immun-Tinktur) und[..]\nhttps://beelitz.de/events/immunboost-stark
- es-immunsystem-im-goldenen-oktober/\n\nQuelle: https://beelitz.de/events
- /immunboost-starkes-immunsystem-im-goldenen-oktober/\nZuletzt mit beelit
- z.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Immunpower- Workshop in der Heilstätte am 16. Oktober 2026: 
+ Entdecke die Kraft der wilden Wurzeln und lerne unseren heimischen Power
+ stoff Propolis kennen. Erfahre\, wie dich und dein Immunsystem im golden
+ en Oktober natürlich und kraftvoll unterstützen kannst. Wir stellen ei
+ gene Produkte her (z.B. einen vitalisierenden Immunhonig & eine kraftvol
+ le Immun-Tinktur) und[..]\nhttps://beelitz.de/events/immunboost-starkes-
+ immunsystem-im-goldenen-oktober/\n\nQuelle: https://beelitz.de/events/im
+ munboost-starkes-immunsystem-im-goldenen-oktober/\nZuletzt mit beelitz.d
+ e abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/immunboost-starkes-immunsystem-im-goldenen-
  oktober/
 END:VEVENT
@@ -1559,13 +1501,13 @@ DTEND:20261017T215900Z
 LOCATION:Elsholz Elsholzer Dorfstraße
 SUMMARY:Treckertreffen Elsholz
 DESCRIPTION:Am 17. Oktober ab 10 Uhr wird Elsholz vom rhythmischen Buller
- n historischer Zweitaktmotoren erfüllt. Lanz Bulldog\,  Aktivist\,  Deut
- z und Famulus sind dabei nur die bekanntesten Marken\,  die in den Garag
- en und Scheunen der Region gehütet werden und zu diesem Anlass zusammenk
- ommen. Mittlerweile sind es über hundert Ackerkönige\,  die – liebevoll[
- ..]\nhttps://beelitz.de/events/treckertreffen-elsholz-2/\n\nQuelle: http
- s://beelitz.de/events/treckertreffen-elsholz-2/\nZuletzt mit beelitz.de 
- abgeglichen: 17.07.2026\, 10:02 Uhr
+ n historischer Zweitaktmotoren erfüllt. Lanz Bulldog\, Aktivist\, Deutz
+  und Famulus sind dabei nur die bekanntesten Marken\, die in den Garagen
+  und Scheunen der Region gehütet werden und zu diesem Anlass zusammenko
+ mmen. Mittlerweile sind es über hundert Ackerkönige\, die – liebevol
+ l[..]\nhttps://beelitz.de/events/treckertreffen-elsholz-2/\n\nQuelle: ht
+ tps://beelitz.de/events/treckertreffen-elsholz-2/\nZuletzt mit beelitz.d
+ e abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/treckertreffen-elsholz-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -1573,17 +1515,17 @@ UID:fde97234dc752d72522a297440c9@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261018T080000Z
 DTEND:20261018T215900Z
-LOCATION:Beelitz-Heilstätten Straße nach Fichtenwalde 3\,  14547 Beelitz 
- Heilstätten
+LOCATION:Beelitz-Heilstätten Straße nach Fichtenwalde 3\,  14547 Beelit
+ z Heilstätten
 SUMMARY:Führung des Fördervereins Heiz-Kraft-Werk
-DESCRIPTION:Im Jahr 2026 finden wieder regelmäßige Führungen statt\,  und
-  zwar erwarten wir Sie von März bis November\,  jeweils am 3. Sonntag de
- s Monats um 10.00 Uhr. Wir beginnen am 15.03.2026 um 10.00 Uhr am Eingan
- g zum Maschinensaal (Friedenspfahl und Schaukasten sind die Anhaltspunkt
- e).  Wir haben in diesem Jahr viel vor[..]\nhttps://beelitz.de/events/fu
- ehrung-des-foerdervereins-heiz-kraft-werk/var/ri-7.l-L1\n\nQuelle: https
- ://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk/var/ri-
- 7.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Im Jahr 2026 finden wieder regelmäßige Führungen statt\, u
+ nd zwar erwarten wir Sie von März bis November\, jeweils am 3. Sonntag 
+ des Monats um 10.00 Uhr. Wir beginnen am 15.03.2026 um 10.00 Uhr am Eing
+ ang zum Maschinensaal (Friedenspfahl und Schaukasten sind die Anhaltspun
+ kte). Wir haben in diesem Jahr viel vor[..]\nhttps://beelitz.de/events/f
+ uehrung-des-foerdervereins-heiz-kraft-werk/var/ri-7.l-L1\n\nQuelle: http
+ s://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk/var/ri
+ -7.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk
  /var/ri-7.l-L1
 END:VEVENT
@@ -1592,14 +1534,13 @@ UID:20a396856e52566072d02cef159a@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261018T130000Z
 DTEND:20261018T160000Z
-LOCATION:
 SUMMARY:Tanz in den Goldenen Herbst
-DESCRIPTION:﻿﻿Andrea und Wilfried Peetz laden zum Tanz in den Goldenen He
- rbst auf dem Jakobs-Hof Beelitz. Karten für 15 Euro gibt es vor Ort und 
- in der Tourist-Info Beelitz ﻿\nhttps://beelitz.de/events/tanz-in-den-gol
- denen-herbst-2/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/tanz-i
- n-den-goldenen-herbst-2/var/ri-1.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿﻿Andrea und Wilfried Peetz laden zum Tanz in den Goldene
+ n Herbst auf dem Jakobs-Hof Beelitz. Karten für 15 Euro gibt es vor Ort
+  und in der Tourist-Info Beelitz ﻿\nhttps://beelitz.de/events/tanz-in-
+ den-goldenen-herbst-2/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events
+ /tanz-in-den-goldenen-herbst-2/var/ri-1.l-L1\nZuletzt mit beelitz.de abg
+ eglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/tanz-in-den-goldenen-herbst-2/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1609,10 +1550,10 @@ DTSTART:20261019T130000Z
 DTEND:20261019T150000Z
 LOCATION:Bauhof Beelitz Berliner Str. 27
 SUMMARY:Veranstaltungen der Verkehrswacht 2026
-DESCRIPTION:\nhttps://beelitz.de/events/veranstaltungen-der-verkehrswacht
- -2026/var/ri-6.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen
- -der-verkehrswacht-2026/var/ri-6.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2
+ 026/var/ri-6.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen-d
+ er-verkehrswacht-2026/var/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen:
+  17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2026/var/
  ri-6.l-L1
 END:VEVENT
@@ -1623,16 +1564,16 @@ DTSTART:20261027T160000Z
 DTEND:20261027T225900Z
 LOCATION:Neurologische Kliniken Paracelsusring 6a
 SUMMARY:Treffen der Selbsthilfegruppe Schlaganfall
-DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet. Zum 
- Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der Stiftung
-  Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst und ander
- en aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist in den Ne
- urologischen Kliniken\,  Paracelsusring 6a im Konferenzraum K2. Der Schl
- aganfall bedeutet eine schlagartige gravierende[..]\nhttps://beelitz.de/
- events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-9.l-L1\n\nQuell
- e: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
- var/ri-9.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uh
- r
+DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet
+ . Zum Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der 
+ Stiftung Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst u
+ nd anderen aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist i
+ n den Neurologischen Kliniken\, Paracelsusring 6a im Konferenzraum K2. D
+ er Schlaganfall bedeutet eine schlagartige gravierende[..]\nhttps://beel
+ itz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-9.l-L1\n
+ \nQuelle: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlag
+ anfall/var/ri-9.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 1
+ 0:15 Uhr
 URL:https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
  var/ri-9.l-L1
 END:VEVENT
@@ -1641,17 +1582,16 @@ UID:79e00a47674b1b6d0ab36daaf0f1@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261028T153000Z
 DTEND:20261028T225900Z
-LOCATION:
 SUMMARY:„Erzähl - Treff für Trauernde“
-DESCRIPTION:Im „Erzähl &#8211\; Treff für Trauernde“ treffen sich regelmä
- ßig Menschen aller Altersgruppen ab 18 Jahre\,  die ihre Trauer verarbei
- ten wollen. In unserer Gruppe geht es vor allem darum\,  dass man in sei
- ner Trauer nicht allein ist. Viele Fragen\,  die uns beschäftigen\,  wer
- den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[..]
- \nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-1.l-
- L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2
- /var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 U
- hr
+DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
+ äßig Menschen aller Altersgruppen ab 18 Jahre\, die ihre Trauer verarb
+ eiten wollen. In unserer Gruppe geht es vor allem darum\, dass man in se
+ iner Trauer nicht allein ist. Viele Fragen\, die uns beschäftigen\, wer
+ den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
+ .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-1.
+ l-L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2
+ -2/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15
+  Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-1.l
  -L1
 END:VEVENT
@@ -1660,16 +1600,15 @@ UID:6819af240eecf42c44a77633913f@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261030T183000Z
 DTEND:20261030T225900Z
-LOCATION:
 SUMMARY:Krimi-Dinner
-DESCRIPTION:2026 präsentieren wir das Debut eines neuen Falls! Der Kies k
- nirscht unter den Füßen\,  während man dem spärlich beleuchteten Pfad zw
- ischen den düster in den Himmel ragenden Gebäuden des ehemaligen Sanator
- iums entlang stapft. Im nahen Wald pfeift der Wind. Nur aus dem kreisrun
- den Fenster strömt kerzenflackerndes Licht. Drinnen scheint alles[..]\nh
- ttps://beelitz.de/events/krimi-dinner/\n\nQuelle: https://beelitz.de/eve
- nts/krimi-dinner/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:0
- 2 Uhr
+DESCRIPTION:2026 präsentieren wir das Debut eines neuen Falls! Der Kies 
+ knirscht unter den Füßen\, während man dem spärlich beleuchteten Pfa
+ d zwischen den düster in den Himmel ragenden Gebäuden des ehemaligen S
+ anatoriums entlang stapft. Im nahen Wald pfeift der Wind. Nur aus dem kr
+ eisrunden Fenster strömt kerzenflackerndes Licht. Drinnen scheint alles
+ [..]\nhttps://beelitz.de/events/krimi-dinner/\n\nQuelle: https://beelitz
+ .de/events/krimi-dinner/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026
+ \, 10:15 Uhr
 URL:https://beelitz.de/events/krimi-dinner/
 END:VEVENT
 BEGIN:VEVENT
@@ -1677,12 +1616,11 @@ UID:3d144da5ece1623a7c2fb27c25da@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261031
 DTEND:20261101
-LOCATION:
 SUMMARY:Fichtenwalder Ausflugsfahrten
-DESCRIPTION:\nhttps://beelitz.de/events/fichtenwalder-ausflugsfahrten/var
- /ri-2.l-L1\n\nQuelle: https://beelitz.de/events/fichtenwalder-ausflugsfa
- hrten/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10
- :02 Uhr
+DESCRIPTION:https://beelitz.de/events/fichtenwalder-ausflugsfahrten/var/r
+ i-2.l-L1\n\nQuelle: https://beelitz.de/events/fichtenwalder-ausflugsfahr
+ ten/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:1
+ 5 Uhr
 URL:https://beelitz.de/events/fichtenwalder-ausflugsfahrten/var/ri-2.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1690,16 +1628,15 @@ UID:b70e6045814d1d81bffcba720d42@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261031T183000Z
 DTEND:20261031T192400Z
-LOCATION:
 SUMMARY:Krimi-Dinner
-DESCRIPTION:2026 präsentieren wir das Debut eines neuen Falls! Der Kies k
- nirscht unter den Füßen\,  während man dem spärlich beleuchteten Pfad zw
- ischen den düster in den Himmel ragenden Gebäuden des ehemaligen Sanator
- iums entlang stapft. Im nahen Wald pfeift der Wind. Nur aus dem kreisrun
- den Fenster strömt kerzenflackerndes Licht. Drinnen scheint alles[..]\nh
- ttps://beelitz.de/events/krimi-dinner/var/ri-1.l-L1\n\nQuelle: https://b
- eelitz.de/events/krimi-dinner/var/ri-1.l-L1\nZuletzt mit beelitz.de abge
- glichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:2026 präsentieren wir das Debut eines neuen Falls! Der Kies 
+ knirscht unter den Füßen\, während man dem spärlich beleuchteten Pfa
+ d zwischen den düster in den Himmel ragenden Gebäuden des ehemaligen S
+ anatoriums entlang stapft. Im nahen Wald pfeift der Wind. Nur aus dem kr
+ eisrunden Fenster strömt kerzenflackerndes Licht. Drinnen scheint alles
+ [..]\nhttps://beelitz.de/events/krimi-dinner/var/ri-1.l-L1\n\nQuelle: ht
+ tps://beelitz.de/events/krimi-dinner/var/ri-1.l-L1\nZuletzt mit beelitz.
+ de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/krimi-dinner/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1707,12 +1644,11 @@ UID:5c2c8701a018352515d2337b9f79@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261101
 DTEND:20261102
-LOCATION:
 SUMMARY:Veranstaltung auf den Jakobs-Höfen
-DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakobs-ho
- efen/var/ri-7.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-au
- f-den-jakobs-hoefen/var/ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
- 7.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
+ s-hoefen/var/ri-7.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
+ g-auf-den-jakobs-hoefen/var/ri-7.l-L1\nZuletzt mit beelitz.de abgegliche
+ n: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  7.l-L1
 END:VEVENT
@@ -1723,14 +1659,14 @@ DTSTART:20261110T160000Z
 DTEND:20261110T183000Z
 LOCATION:Clubraum des Deutschen Hauses Berliner Straße 18
 SUMMARY:Selbsthilfegruppe Tinnitus
-DESCRIPTION:Neue Termine für 2026 der SHG &#8222\;Tinnitus&#8220\; Beelit
- z  Clubraum im Deutschen Haus Beelitz Berliner Str. 18 14547 Beelitz jew
- eils Dienstag ab 17:00 Uhr bis ca. 19:30 Uhr 12. Mai 09. Juni 08. Septem
- ber 13. Oktober 10. November 08. Dezember Im Juli und August Sommerpause
-  Auskünfte und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/event
- s/selbsthilfegruppe-tinnitus/var/ri-4.l-L1\n\nQuelle: https://beelitz.de
- /events/selbsthilfegruppe-tinnitus/var/ri-4.l-L1\nZuletzt mit beelitz.de
-  abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Neue Termine für 2026 der SHG „Tinnitus“ Beelitz Clubrau
+ m im Deutschen Haus Beelitz Berliner Str. 18 14547 Beelitz jeweils Diens
+ tag ab 17:00 Uhr bis ca. 19:30 Uhr 12. Mai 09. Juni 08. September 13. Ok
+ tober 10. November 08. Dezember Im Juli und August Sommerpause Auskünft
+ e und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/events/selbst
+ hilfegruppe-tinnitus/var/ri-4.l-L1\n\nQuelle: https://beelitz.de/events/
+ selbsthilfegruppe-tinnitus/var/ri-4.l-L1\nZuletzt mit beelitz.de abgegli
+ chen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/selbsthilfegruppe-tinnitus/var/ri-4.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1740,14 +1676,14 @@ DTSTART:20261111T150000Z
 DTEND:20261111T170000Z
 LOCATION:Hans-Grade-Haus Am Markt 1\,  14547 Beelitz
 SUMMARY:Fichtenwalder helfen
-DESCRIPTION:Haben auch Sie einige Fragen\,  die Ihnen bisher keiner beant
- worten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg gef
- unden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informati
- onen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\,  1
- 8. Februar\,  18. März\,  15. April\,  13. Mai\, [..]\nhttps://beelitz.d
- e/events/fichtenwalder-helfen/var/ri-10.l-L1\n\nQuelle: https://beelitz.
- de/events/fichtenwalder-helfen/var/ri-10.l-L1\nZuletzt mit beelitz.de ab
- geglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
+ orten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg ge
+ funden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informat
+ ionen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\, 
+ 18. Februar\, 18. März\, 15. April\, 13. Mai\, [..]\nhttps://beelitz.de
+ /events/fichtenwalder-helfen/var/ri-10.l-L1\n\nQuelle: https://beelitz.d
+ e/events/fichtenwalder-helfen/var/ri-10.l-L1\nZuletzt mit beelitz.de abg
+ eglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen/var/ri-10.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1755,17 +1691,16 @@ UID:e91ea8b54acb4166eebbbd4d6de5@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261111T153000Z
 DTEND:20261111T225900Z
-LOCATION:
 SUMMARY:„Erzähl - Treff für Trauernde“
-DESCRIPTION:Im „Erzähl &#8211\; Treff für Trauernde“ treffen sich regelmä
- ßig Menschen aller Altersgruppen ab 18 Jahre\,  die ihre Trauer verarbei
- ten wollen. In unserer Gruppe geht es vor allem darum\,  dass man in sei
- ner Trauer nicht allein ist. Viele Fragen\,  die uns beschäftigen\,  wer
- den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[..]
- \nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-2.l-
- L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2
- /var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 U
- hr
+DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
+ äßig Menschen aller Altersgruppen ab 18 Jahre\, die ihre Trauer verarb
+ eiten wollen. In unserer Gruppe geht es vor allem darum\, dass man in se
+ iner Trauer nicht allein ist. Viele Fragen\, die uns beschäftigen\, wer
+ den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
+ .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-2.
+ l-L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2
+ -2/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15
+  Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-2.l
  -L1
 END:VEVENT
@@ -1776,7 +1711,7 @@ DTSTART;TZID=Europe/Berlin:20261114T193000
 DTEND;TZID=Europe/Berlin:20261114T202700
 SUMMARY:True Crime Slam Heilstätten
 DESCRIPTION:Quelle: https://beelitz.de/events/true-crime-slam-heilstaette
- n/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ n/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/true-crime-slam-heilstaetten/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1788,10 +1723,10 @@ DTSTART:20261116T140000Z
 DTEND:20261116T160000Z
 LOCATION:Bauhof Beelitz Berliner Str. 27
 SUMMARY:Veranstaltungen der Verkehrswacht 2026
-DESCRIPTION:\nhttps://beelitz.de/events/veranstaltungen-der-verkehrswacht
- -2026/var/ri-7.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen
- -der-verkehrswacht-2026/var/ri-7.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2
+ 026/var/ri-7.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen-d
+ er-verkehrswacht-2026/var/ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen:
+  17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2026/var/
  ri-7.l-L1
 END:VEVENT
@@ -1802,16 +1737,16 @@ DTSTART:20261124T160000Z
 DTEND:20261124T225900Z
 LOCATION:Neurologische Kliniken Paracelsusring 6a
 SUMMARY:Treffen der Selbsthilfegruppe Schlaganfall
-DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet. Zum 
- Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der Stiftung
-  Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst und ander
- en aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist in den Ne
- urologischen Kliniken\,  Paracelsusring 6a im Konferenzraum K2. Der Schl
- aganfall bedeutet eine schlagartige gravierende[..]\nhttps://beelitz.de/
- events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-10.l-L1\n\nQuel
- le: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall
- /var/ri-10.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 
- Uhr
+DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet
+ . Zum Gruppentreffen kommen regelmäßig 12-15 Teilnehmer. Wir sind der 
+ Stiftung Deutsche Schlaganfall- Hilfe verbunden. Wir wollen uns selbst u
+ nd anderen aus unserer eigenen Erfahrung heraus helfen. Treffpunkt ist i
+ n den Neurologischen Kliniken\, Paracelsusring 6a im Konferenzraum K2. D
+ er Schlaganfall bedeutet eine schlagartige gravierende[..]\nhttps://beel
+ itz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-10.l-L1\
+ n\nQuelle: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schla
+ ganfall/var/ri-10.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\,
+  10:15 Uhr
 URL:https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
  var/ri-10.l-L1
 END:VEVENT
@@ -1820,17 +1755,16 @@ UID:66d48d2c06dea0497cc622acd996@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261125T153000Z
 DTEND:20261125T225900Z
-LOCATION:
 SUMMARY:„Erzähl - Treff für Trauernde“
-DESCRIPTION:Im „Erzähl &#8211\; Treff für Trauernde“ treffen sich regelmä
- ßig Menschen aller Altersgruppen ab 18 Jahre\,  die ihre Trauer verarbei
- ten wollen. In unserer Gruppe geht es vor allem darum\,  dass man in sei
- ner Trauer nicht allein ist. Viele Fragen\,  die uns beschäftigen\,  wer
- den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[..]
- \nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-3.l-
- L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2
- /var/ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 U
- hr
+DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
+ äßig Menschen aller Altersgruppen ab 18 Jahre\, die ihre Trauer verarb
+ eiten wollen. In unserer Gruppe geht es vor allem darum\, dass man in se
+ iner Trauer nicht allein ist. Viele Fragen\, die uns beschäftigen\, wer
+ den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
+ .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-3.
+ l-L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2
+ -2/var/ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15
+  Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-3.l
  -L1
 END:VEVENT
@@ -1839,16 +1773,15 @@ UID:e591b32dd9215d637455df1d1cbe@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261127T153000Z
 DTEND:20261127T173000Z
-LOCATION:
 SUMMARY:„Make a wish come true - Sinnliche Auszeit“
-DESCRIPTION:Sinnliche Auszeit &#8211\; Kreiere innere Balance und Erfüllu
- ng in der magischen Vorweihnachtszeit Sinnliche Auszeit- Workshop in der
-  Heilstätte am 27. November 2026: Entdecke die Magie der wilden Gewürze 
- und kreiere mit der Kraft deiner Sinne eine balsamische Auszeit. Erfahre
- \,  wie du die raue Jahreszeit für dich nutzen kannst um zur[..]\nhttps:
- //beelitz.de/events/make-a-wish-come-true-sinnliche-auszeit/\n\nQuelle: 
- https://beelitz.de/events/make-a-wish-come-true-sinnliche-auszeit/\nZule
- tzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Sinnliche Auszeit – Kreiere innere Balance und Erfüllung i
+ n der magischen Vorweihnachtszeit Sinnliche Auszeit- Workshop in der Hei
+ lstätte am 27. November 2026: Entdecke die Magie der wilden Gewürze un
+ d kreiere mit der Kraft deiner Sinne eine balsamische Auszeit. Erfahre\,
+  wie du die raue Jahreszeit für dich nutzen kannst um zur[..]\nhttps://
+ beelitz.de/events/make-a-wish-come-true-sinnliche-auszeit/\n\nQuelle: ht
+ tps://beelitz.de/events/make-a-wish-come-true-sinnliche-auszeit/\nZuletz
+ t mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/make-a-wish-come-true-sinnliche-auszeit/
 END:VEVENT
 BEGIN:VEVENT
@@ -1861,7 +1794,7 @@ SUMMARY:Wittbrietzener Anleuchten
 DESCRIPTION:ab 15:00 Uhr am Dorfgemeinschaftshaus\nhttps://beelitz.de/eve
  nts/wittbrietzener-anleuchten/\n\nQuelle: https://beelitz.de/events/witt
  brietzener-anleuchten/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\,
-  10:02 Uhr
+  10:15 Uhr
 URL:https://beelitz.de/events/wittbrietzener-anleuchten/
 END:VEVENT
 BEGIN:VEVENT
@@ -1873,7 +1806,7 @@ LOCATION:Fichtenwalde Marktplatz Eichenstraße
 SUMMARY:Fichtenwalder Zapfenmarkt
 DESCRIPTION:Fichtenwalder Zapfenmarkt\nhttps://beelitz.de/events/fichtenw
  alder-zapfenmarkt-3/\n\nQuelle: https://beelitz.de/events/fichtenwalder-
- zapfenmarkt-3/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 U
+ zapfenmarkt-3/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 U
  hr
 URL:https://beelitz.de/events/fichtenwalder-zapfenmarkt-3/
 END:VEVENT
@@ -1882,12 +1815,11 @@ UID:4f4a125137e4abfa1d9bb9ac570e@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261205T170000Z
 DTEND:20261205T225900Z
-LOCATION:
 SUMMARY:Country Weihnachten mit Real Treat
 DESCRIPTION:18 Uhr in der Wittbrietzener Dorfkirche\nhttps://beelitz.de/e
  vents/country-weihnachten-mit-real-treat/\n\nQuelle: https://beelitz.de/
  events/country-weihnachten-mit-real-treat/\nZuletzt mit beelitz.de abgeg
- lichen: 17.07.2026\, 10:02 Uhr
+ lichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/country-weihnachten-mit-real-treat/
 END:VEVENT
 BEGIN:VEVENT
@@ -1897,14 +1829,14 @@ DTSTART:20261208T160000Z
 DTEND:20261208T183000Z
 LOCATION:Clubraum des Deutschen Hauses Berliner Straße 18
 SUMMARY:Selbsthilfegruppe Tinnitus
-DESCRIPTION:Neue Termine für 2026 der SHG &#8222\;Tinnitus&#8220\; Beelit
- z  Clubraum im Deutschen Haus Beelitz Berliner Str. 18 14547 Beelitz jew
- eils Dienstag ab 17:00 Uhr bis ca. 19:30 Uhr 12. Mai 09. Juni 08. Septem
- ber 13. Oktober 10. November 08. Dezember Im Juli und August Sommerpause
-  Auskünfte und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/event
- s/selbsthilfegruppe-tinnitus/var/ri-5.l-L1\n\nQuelle: https://beelitz.de
- /events/selbsthilfegruppe-tinnitus/var/ri-5.l-L1\nZuletzt mit beelitz.de
-  abgeglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Neue Termine für 2026 der SHG „Tinnitus“ Beelitz Clubrau
+ m im Deutschen Haus Beelitz Berliner Str. 18 14547 Beelitz jeweils Diens
+ tag ab 17:00 Uhr bis ca. 19:30 Uhr 12. Mai 09. Juni 08. September 13. Ok
+ tober 10. November 08. Dezember Im Juli und August Sommerpause Auskünft
+ e und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/events/selbst
+ hilfegruppe-tinnitus/var/ri-5.l-L1\n\nQuelle: https://beelitz.de/events/
+ selbsthilfegruppe-tinnitus/var/ri-5.l-L1\nZuletzt mit beelitz.de abgegli
+ chen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/selbsthilfegruppe-tinnitus/var/ri-5.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1914,14 +1846,14 @@ DTSTART:20261209T150000Z
 DTEND:20261209T170000Z
 LOCATION:Hans-Grade-Haus Am Markt 1\,  14547 Beelitz
 SUMMARY:Fichtenwalder helfen
-DESCRIPTION:Haben auch Sie einige Fragen\,  die Ihnen bisher keiner beant
- worten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg gef
- unden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informati
- onen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\,  1
- 8. Februar\,  18. März\,  15. April\,  13. Mai\, [..]\nhttps://beelitz.d
- e/events/fichtenwalder-helfen/var/ri-11.l-L1\n\nQuelle: https://beelitz.
- de/events/fichtenwalder-helfen/var/ri-11.l-L1\nZuletzt mit beelitz.de ab
- geglichen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
+ orten konnte? Haben Sie Probleme für die Sie noch keinen Lösungsweg ge
+ funden haben? Haben Sie Lust sich kostenfrei und auf kurzem Weg Informat
+ ionen zur Lösung abzuholen? 2026 finden die Beratungen am 21. Januar\, 
+ 18. Februar\, 18. März\, 15. April\, 13. Mai\, [..]\nhttps://beelitz.de
+ /events/fichtenwalder-helfen/var/ri-11.l-L1\n\nQuelle: https://beelitz.d
+ e/events/fichtenwalder-helfen/var/ri-11.l-L1\nZuletzt mit beelitz.de abg
+ eglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen/var/ri-11.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1929,11 +1861,10 @@ UID:7e3151a6aa0148c3104dace4ce45@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261212
 DTEND:20261213
-LOCATION:
 SUMMARY:Lichterglanz Busendorf
 DESCRIPTION:Lichterglanz Busendorf\nhttps://beelitz.de/events/lichterglan
  z-busendorf/\n\nQuelle: https://beelitz.de/events/lichterglanz-busendorf
- /\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ /\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/lichterglanz-busendorf/
 END:VEVENT
 BEGIN:VEVENT
@@ -1941,17 +1872,16 @@ UID:d8c1fa2107ed44e6d64863d01a32@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261212T110000Z
 DTEND:20261212T180000Z
-LOCATION:
 SUMMARY:Heilstätter Weihnachtsmarkt
-DESCRIPTION:Der Heilstätter Weihnachtsmarkt lädt am 12. und 13. Dezember 
- 2026 von 12 bis 19 Uhr wieder zum Weihnachtszauber in einzigartiger Kuli
- sse ein. Mit Bastelspaß und Mitmachaktionen\,  darunter Ponyreiten und S
- tockbrotbacken\,  lassen wir Kinderaugen leuchten. Natürlich darf auch d
- er Weihnachtsmann nicht fehlen\,  der für viele unvergessliche Momente u
- nd strahlende Gesichter sorgen[..]\nhttps://beelitz.de/events/heilstaett
- er-weihnachtsmarkt/\n\nQuelle: https://beelitz.de/events/heilstaetter-we
- ihnachtsmarkt/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 U
- hr
+DESCRIPTION:Der Heilstätter Weihnachtsmarkt lädt am 12. und 13. Dezembe
+ r 2026 von 12 bis 19 Uhr wieder zum Weihnachtszauber in einzigartiger Ku
+ lisse ein. Mit Bastelspaß und Mitmachaktionen\, darunter Ponyreiten und
+  Stockbrotbacken\, lassen wir Kinderaugen leuchten. Natürlich darf auch
+  der Weihnachtsmann nicht fehlen\, der für viele unvergessliche Momente
+  und strahlende Gesichter sorgen[..]\nhttps://beelitz.de/events/heilstae
+ tter-weihnachtsmarkt/\n\nQuelle: https://beelitz.de/events/heilstaetter-
+ weihnachtsmarkt/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15
+  Uhr
 URL:https://beelitz.de/events/heilstaetter-weihnachtsmarkt/
 END:VEVENT
 BEGIN:VEVENT
@@ -1959,18 +1889,17 @@ UID:213f51301e8278c93286c9dac483@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261212T180000Z
 DTEND:20261212T225900Z
-LOCATION:
 SUMMARY:Weihnachtliche Erinnerungen an Manfred Krug 2026
-DESCRIPTION:Charles Brauer &amp\; Uschi Brüning mit Jazztrio Manfred Krug
- s einzigartige CD „Der Weihnachts-Krug“ inspirierte uns zu diesem Progra
- mm mit ausgewählten Weihnachtsliedern und -geschichten. Uschi Brüning\, 
-  2025 mit dem Deutschen Jazzpreis ausgezeichnet\,  verleiht den Liedern 
- mit ihrer warmen Stimme Tiefgang und Seele\,  Charles Brauer\,  Schauspi
- ellegende und genialer Hörbuchsprecher\,  liest Weihnachtliches in[..]\n
- https://beelitz.de/events/weihnachtliche-erinnerungen-an-manfred-krug-20
- 26/\n\nQuelle: https://beelitz.de/events/weihnachtliche-erinnerungen-an-
- manfred-krug-2026/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:
- 02 Uhr
+DESCRIPTION:Charles Brauer & Uschi Brüning mit Jazztrio Manfred Krugs ei
+ nzigartige CD „Der Weihnachts-Krug“ inspirierte uns zu diesem Progra
+ mm mit ausgewählten Weihnachtsliedern und -geschichten. Uschi Brüning\
+ , 2025 mit dem Deutschen Jazzpreis ausgezeichnet\, verleiht den Liedern 
+ mit ihrer warmen Stimme Tiefgang und Seele\, Charles Brauer\, Schauspiel
+ legende und genialer Hörbuchsprecher\, liest Weihnachtliches in[..]\nht
+ tps://beelitz.de/events/weihnachtliche-erinnerungen-an-manfred-krug-2026
+ /\n\nQuelle: https://beelitz.de/events/weihnachtliche-erinnerungen-an-ma
+ nfred-krug-2026/\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15
+  Uhr
 URL:https://beelitz.de/events/weihnachtliche-erinnerungen-an-manfred-krug
  -2026/
 END:VEVENT
@@ -1981,10 +1910,10 @@ DTSTART:20261214T140000Z
 DTEND:20261214T160000Z
 LOCATION:Bauhof Beelitz Berliner Str. 27
 SUMMARY:Veranstaltungen der Verkehrswacht 2026
-DESCRIPTION:\nhttps://beelitz.de/events/veranstaltungen-der-verkehrswacht
- -2026/var/ri-8.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen
- -der-verkehrswacht-2026/var/ri-8.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2
+ 026/var/ri-8.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen-d
+ er-verkehrswacht-2026/var/ri-8.l-L1\nZuletzt mit beelitz.de abgeglichen:
+  17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2026/var/
  ri-8.l-L1
 END:VEVENT
@@ -1993,17 +1922,16 @@ UID:fd7fccd7344bd9ad119233291728@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261219T110000Z
 DTEND:20261219T180000Z
-LOCATION:
 SUMMARY:Heilstätter Weihnachtsmarkt
-DESCRIPTION:Der Heilstätter Weihnachtsmarkt lädt am 12. und 13. Dezember 
- 2026 von 12 bis 19 Uhr wieder zum Weihnachtszauber in einzigartiger Kuli
- sse ein. Mit Bastelspaß und Mitmachaktionen\,  darunter Ponyreiten und S
- tockbrotbacken\,  lassen wir Kinderaugen leuchten. Natürlich darf auch d
- er Weihnachtsmann nicht fehlen\,  der für viele unvergessliche Momente u
- nd strahlende Gesichter sorgen[..]\nhttps://beelitz.de/events/heilstaett
- er-weihnachtsmarkt/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/he
- ilstaetter-weihnachtsmarkt/var/ri-1.l-L1\nZuletzt mit beelitz.de abgegli
- chen: 17.07.2026\, 10:02 Uhr
+DESCRIPTION:Der Heilstätter Weihnachtsmarkt lädt am 12. und 13. Dezembe
+ r 2026 von 12 bis 19 Uhr wieder zum Weihnachtszauber in einzigartiger Ku
+ lisse ein. Mit Bastelspaß und Mitmachaktionen\, darunter Ponyreiten und
+  Stockbrotbacken\, lassen wir Kinderaugen leuchten. Natürlich darf auch
+  der Weihnachtsmann nicht fehlen\, der für viele unvergessliche Momente
+  und strahlende Gesichter sorgen[..]\nhttps://beelitz.de/events/heilstae
+ tter-weihnachtsmarkt/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/
+ heilstaetter-weihnachtsmarkt/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeg
+ lichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/heilstaetter-weihnachtsmarkt/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -2011,13 +1939,12 @@ UID:7596c1d23e5c11b78c4f1881f42d@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261219T140000Z
 DTEND:20261219T170000Z
-LOCATION:
 SUMMARY:Weihnachten fängt im Herzen an
 DESCRIPTION:Die Weihnachtsgala mit Andrea und Wilfried Peetz auf dem Jako
- bs-Hof in Beelitz. Karten für 15 Euro gibt es vor Ort und in der Tourist
- -Info Beelitz.\nhttps://beelitz.de/events/weihnachten-faengt-im-herzen-a
- n/\n\nQuelle: https://beelitz.de/events/weihnachten-faengt-im-herzen-an/
- \nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+ bs-Hof in Beelitz. Karten für 15 Euro gibt es vor Ort und in der Touris
+ t-Info Beelitz.\nhttps://beelitz.de/events/weihnachten-faengt-im-herzen-
+ an/\n\nQuelle: https://beelitz.de/events/weihnachten-faengt-im-herzen-an
+ /\nZuletzt mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/weihnachten-faengt-im-herzen-an/
 END:VEVENT
 BEGIN:VEVENT
@@ -2025,15 +1952,15 @@ UID:af089843d58dec23d5557d7ac25a@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261219T150000Z
 DTEND:20261219T225900Z
-LOCATION:Dorfkirche Wittbrietzen Wittbritzener Dorfstraße 5\,  14547 Beel
- itz
+LOCATION:Dorfkirche Wittbrietzen Wittbritzener Dorfstraße 5\,  14547 Bee
+ litz
 SUMMARY:Konzert des Evangl. Posaunenchors Wittbrietzen mit dem Wittbrietz
  ener Frauenchor
 DESCRIPTION:16:00 Uhr in der Wittbrietzener Dorfkirche\nhttps://beelitz.d
  e/events/konzert-des-evangl-posaunenchors-wittbrietzen-mit-dem-wittbriet
  zener-frauenchor/\n\nQuelle: https://beelitz.de/events/konzert-des-evang
  l-posaunenchors-wittbrietzen-mit-dem-wittbrietzener-frauenchor/\nZuletzt
-  mit beelitz.de abgeglichen: 17.07.2026\, 10:02 Uhr
+  mit beelitz.de abgeglichen: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/konzert-des-evangl-posaunenchors-wittbrietz
  en-mit-dem-wittbrietzener-frauenchor/
 END:VEVENT
@@ -2042,12 +1969,11 @@ UID:38660f6a28c033c54041deaddc96@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261225
 DTEND:20261226
-LOCATION:
 SUMMARY:Veranstaltung auf den Jakobs-Höfen
-DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakobs-ho
- efen/var/ri-8.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-au
- f-den-jakobs-hoefen/var/ri-8.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
- 7.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
+ s-hoefen/var/ri-8.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
+ g-auf-den-jakobs-hoefen/var/ri-8.l-L1\nZuletzt mit beelitz.de abgegliche
+ n: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  8.l-L1
 END:VEVENT
@@ -2056,12 +1982,11 @@ UID:4394889923466c07dc6281e205ca@beelitz-calendar
 DTSTAMP:19700101T000000Z
 DTSTART:20261226
 DTEND:20261227
-LOCATION:
 SUMMARY:Veranstaltung auf den Jakobs-Höfen
-DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakobs-ho
- efen/var/ri-9.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-au
- f-den-jakobs-hoefen/var/ri-9.l-L1\nZuletzt mit beelitz.de abgeglichen: 1
- 7.07.2026\, 10:02 Uhr
+DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
+ s-hoefen/var/ri-9.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
+ g-auf-den-jakobs-hoefen/var/ri-9.l-L1\nZuletzt mit beelitz.de abgegliche
+ n: 17.07.2026\, 10:15 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  9.l-L1
 END:VEVENT
