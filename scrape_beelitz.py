@@ -120,8 +120,17 @@ def native_vevent_lines(content: str, event: Event) -> list[str] | None:
     body = unfolded[start_index + 1 : end_index]
     kept: list[str] = []
     native_description = ""
+    inside_alarm = False
 
     for line in body:
+        marker = line.strip().upper()
+        if marker == "BEGIN:VALARM":
+            inside_alarm = True
+            continue
+        if inside_alarm:
+            if marker == "END:VALARM":
+                inside_alarm = False
+            continue
         if ":" not in line:
             continue
         name, value = line.split(":", 1)
