@@ -10,11 +10,13 @@ Datenattribute bevorzugt; sichtbarer Text dient nur als Fallback.
 from __future__ import annotations
 
 import asyncio
+import html
 import hashlib
 import re
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 
 from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
@@ -80,7 +82,80 @@ def fold(line: str, limit: int = 73) -> list[str]:
     return result
 
 
-def render_ics(events: list[Event]) -> str:
+def ics_unescape(value: str) -> str:
+    return (
+        value.replace("\\N", "\n")
+        .replace("\\n", "\n")
+        .replace("\\,", ",")
+        .replace("\\;", ";")
+        .replace("\\\\", "\\")
+    )
+
+
+def unfold_ics(content: str) -> list[str]:
+    result: list[str] = []
+    for line in content.replace("\r\n", "\n").replace("\r", "\n").split("\n"):
+        if line.startswith((" ", "\t")) and result:
+            result[-1] += line[1:]
+        else:
+            result.append(line)
+    return result
+
+
+def native_vevent_lines(content: str, event: Event) -> list[str] | None:
+    """Übernimmt das VEVENT aus EventON und stabilisiert UID, DTSTAMP und URL."""
+    unfolded = unfold_ics(content)
+    try:
+        start_index = next(
+            index for index, line in enumerate(unfolded) if line.strip() == "BEGIN:VEVENT"
+        )
+        end_index = next(
+            index
+            for index in range(start_index + 1, len(unfolded))
+            if unfolded[index].strip() == "END:VEVENT"
+        )
+    except StopIteration:
+        return None
+
+    body = unfolded[start_index + 1 : end_index]
+    kept: list[str] = []
+    native_description = ""
+
+    for line in body:
+        if ":" not in line:
+            continue
+        name, value = line.split(":", 1)
+        property_name = name.split(";", 1)[0].upper()
+        if property_name in {"UID", "DTSTAMP", "URL", "DESCRIPTION"}:
+            if property_name == "DESCRIPTION":
+                native_description = ics_unescape(value)
+            continue
+        kept.append(line)
+
+    digest = hashlib.sha256(event.uid_source.encode("utf-8")).hexdigest()[:28]
+    source_note = f"Quelle: {event.url}"
+    description = (
+        f"{native_description.rstrip()}\n\n{source_note}"
+        if native_description.strip()
+        else source_note
+    )
+
+    result = [
+        "BEGIN:VEVENT",
+        f"UID:{digest}@beelitz-calendar",
+        "DTSTAMP:19700101T000000Z",
+        *kept,
+        f"DESCRIPTION:{ics_escape(description)}",
+        f"URL:{event.url}",
+        "END:VEVENT",
+    ]
+    folded: list[str] = []
+    for line in result:
+        folded.extend(fold(line))
+    return folded
+
+
+def render_ics(events: list[Event], native_ics: dict[str, str] | None = None) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -113,7 +188,13 @@ def render_ics(events: list[Event]) -> str:
         "END:VTIMEZONE",
     ]
 
+    native_ics = native_ics or {}
     for event in sorted(events, key=lambda item: (item.start, item.title.casefold())):
+        native_lines = native_vevent_lines(native_ics[event.uid_source], event) if event.uid_source in native_ics else None
+        if native_lines:
+            lines.extend(native_lines)
+            continue
+
         digest = hashlib.sha256(event.uid_source.encode("utf-8")).hexdigest()[:28]
         lines.extend(["BEGIN:VEVENT", f"UID:{digest}@beelitz-calendar"])
         # Konstant, damit die Datei nur bei echten Inhaltsänderungen geändert wird.
@@ -150,6 +231,41 @@ def render_ics(events: list[Event]) -> str:
     for line in lines:
         output.extend(fold(line))
     return "\r\n".join(output) + "\r\n"
+
+
+async def fetch_native_ics(request_context, events: list[Event]) -> dict[str, str]:
+    """Lädt EventONs offizielle Einzel-ICS-Dateien mit begrenzter Parallelität."""
+    semaphore = asyncio.Semaphore(8)
+    export_pattern = re.compile(
+        r'''href=["']([^"']*/export-events/[^"']+)["']''',
+        re.IGNORECASE,
+    )
+
+    async def fetch_one(event: Event) -> tuple[str, str | None]:
+        async with semaphore:
+            try:
+                event_response = await request_context.get(event.url, timeout=30000)
+                if not event_response.ok:
+                    return event.uid_source, None
+                event_html = await event_response.text()
+                match = export_pattern.search(event_html)
+                if not match:
+                    return event.uid_source, None
+
+                export_url = urljoin(event.url, html.unescape(match.group(1)))
+                ics_response = await request_context.get(export_url, timeout=30000)
+                if not ics_response.ok:
+                    return event.uid_source, None
+                content = await ics_response.text()
+                if "BEGIN:VEVENT" not in content or "END:VEVENT" not in content:
+                    return event.uid_source, None
+                return event.uid_source, content
+            except Exception as exc:
+                print(f"Native ICS nicht abrufbar für {event.url}: {exc}")
+                return event.uid_source, None
+
+    fetched = await asyncio.gather(*(fetch_one(event) for event in events))
+    return {uid: content for uid, content in fetched if content is not None}
 
 
 async def extract_events(page) -> list[Event]:
@@ -339,11 +455,12 @@ async def main() -> None:
 
     async with async_playwright() as playwright:
         browser = await playwright.chromium.launch(headless=True)
-        page = await browser.new_page(
+        context = await browser.new_context(
             locale="de-DE",
             timezone_id="Europe/Berlin",
             viewport={"width": 1440, "height": 1100},
         )
+        page = await context.new_page()
         await page.goto(SOURCE_URL, wait_until="domcontentloaded", timeout=60000)
 
         # Cookie-Banner nur schließen, wenn er die Bedienung blockiert.
@@ -394,14 +511,19 @@ async def main() -> None:
             if not await click_next_month(page):
                 break
 
+        events = list(all_events.values())
+        if not events:
+            raise RuntimeError("Keine Veranstaltungen gefunden; bestehende ICS-Datei bleibt unverändert.")
+
+        native_ics = await fetch_native_ics(context.request, events)
+        print(
+            f"Native Beelitz-ICS geladen: {len(native_ics)}/{len(events)}; "
+            f"Fallback: {len(events) - len(native_ics)}"
+        )
         await browser.close()
 
-    events = list(all_events.values())
-    if not events:
-        raise RuntimeError("Keine Veranstaltungen gefunden; bestehende ICS-Datei bleibt unverändert.")
-
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    new_content = render_ics(events)
+    new_content = render_ics(events, native_ics)
     old_content = OUTPUT.read_text(encoding="utf-8") if OUTPUT.exists() else ""
     if new_content != old_content:
         OUTPUT.write_text(new_content, encoding="utf-8", newline="")
