@@ -102,7 +102,11 @@ def unfold_ics(content: str) -> list[str]:
     return result
 
 
-def native_vevent_lines(content: str, event: Event) -> list[str] | None:
+def native_vevent_lines(
+    content: str,
+    event: Event,
+    sync_note: str,
+) -> list[str] | None:
     """Übernimmt das VEVENT aus EventON und stabilisiert UID, DTSTAMP und URL."""
     unfolded = unfold_ics(content)
     try:
@@ -142,7 +146,7 @@ def native_vevent_lines(content: str, event: Event) -> list[str] | None:
         kept.append(line)
 
     digest = hashlib.sha256(event.uid_source.encode("utf-8")).hexdigest()[:28]
-    source_note = f"Quelle: {event.url}"
+    source_note = f"Quelle: {event.url}\n{sync_note}"
     description = (
         f"{native_description.rstrip()}\n\n{source_note}"
         if native_description.strip()
@@ -164,7 +168,11 @@ def native_vevent_lines(content: str, event: Event) -> list[str] | None:
     return folded
 
 
-def render_ics(events: list[Event], native_ics: dict[str, str] | None = None) -> str:
+def render_ics(
+    events: list[Event],
+    native_ics: dict[str, str] | None = None,
+    sync_note: str = "",
+) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -199,7 +207,11 @@ def render_ics(events: list[Event], native_ics: dict[str, str] | None = None) ->
 
     native_ics = native_ics or {}
     for event in sorted(events, key=lambda item: (item.start, item.title.casefold())):
-        native_lines = native_vevent_lines(native_ics[event.uid_source], event) if event.uid_source in native_ics else None
+        native_lines = (
+            native_vevent_lines(native_ics[event.uid_source], event, sync_note)
+            if event.uid_source in native_ics
+            else None
+        )
         if native_lines:
             lines.extend(native_lines)
             continue
@@ -230,6 +242,8 @@ def render_ics(events: list[Event], native_ics: dict[str, str] | None = None) ->
 
         description = event.description
         source_note = f"Quelle: {event.url}"
+        if sync_note:
+            source_note += f"\n{sync_note}"
         description = f"{description}\n\n{source_note}" if description else source_note
         lines.append(f"DESCRIPTION:{ics_escape(description)}")
         lines.append(f"URL:{event.url}")
@@ -533,7 +547,11 @@ async def main() -> None:
         await browser.close()
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    new_content = render_ics(events, native_ics)
+    sync_note = (
+        "Zuletzt mit beelitz.de abgeglichen: "
+        f"{datetime.now(TZ):%d.%m.%Y, %H:%M Uhr}"
+    )
+    new_content = render_ics(events, native_ics, sync_note)
     old_content = OUTPUT.read_text(encoding="utf-8") if OUTPUT.exists() else ""
     if new_content != old_content:
         OUTPUT.write_text(new_content, encoding="utf-8", newline="")
