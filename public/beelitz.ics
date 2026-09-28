@@ -41,7 +41,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/\n\nQuelle: https://be
  elitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwalde/\nZuletzt 
- mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/
 END:VEVENT
@@ -59,7 +59,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/\n\nQuelle: https://beel
  itz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/\nZuletzt mit bee
- litz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ litz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/
 END:VEVENT
 BEGIN:VEVENT
@@ -72,7 +72,7 @@ SUMMARY:Kurs „Hilfe beim Helfen“ für Angehörige von Menschen mit De
 DESCRIPTION:https://beelitz.de/events/kurs-hilfe-beim-helfen-fuer-angehoe
  rige-von-menschen-mit-demenz/var/ri-5.l-L1\n\nQuelle: https://beelitz.de
  /events/kurs-hilfe-beim-helfen-fuer-angehoerige-von-menschen-mit-demenz/
- var/ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uh
+ var/ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uh
  r
 URL:https://beelitz.de/events/kurs-hilfe-beim-helfen-fuer-angehoerige-von
  -menschen-mit-demenz/var/ri-5.l-L1
@@ -90,7 +90,7 @@ DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
  den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
  .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var/ri-2.l-
  L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/v
- ar/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ar/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-3/var/ri-2.l-L
  1
 END:VEVENT
@@ -103,7 +103,7 @@ SUMMARY:Veranstaltung auf den Jakobs-Höfen
 DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
  s-hoefen/var/ri-6.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
  g-auf-den-jakobs-hoefen/var/ri-6.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 28.09.2026\, 07:29 Uhr
+ n: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  6.l-L1
 END:VEVENT
@@ -116,9 +116,34 @@ SUMMARY:Veranstaltung auf den Jakobs-Höfen
 DESCRIPTION:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen
  -2/var/ri-2.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltung-auf-
  den-jakobs-hoefen-2/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 2
- 8.09.2026\, 07:29 Uhr
+ 8.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen-2/var/r
  i-2.l-L1
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b8e8e2dc46b87f4d130e39a6bf@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261003T080000Z
+DTEND:20261003T215900Z
+SUMMARY:Letzte öffentliche Stadtführung 2026
+DESCRIPTION:Am 3. Oktober findet die letzte öffentliche Stadtführung in
+  diesem Jahr statt. Treffpunkt ist um 10 Uhr vor der Tourist-Information
+ . Der Beitrag beträgt 5 Euro pro Person.\nhttps://beelitz.de/events/let
+ zte-oeffentliche-stadtfuehrung-2026/\n\nQuelle: https://beelitz.de/event
+ s/letzte-oeffentliche-stadtfuehrung-2026/\nZuletzt mit beelitz.de abgegl
+ ichen: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/letzte-oeffentliche-stadtfuehrung-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:f299c7dd3f64a10eaa0368ec48ff@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261003T090000Z
+DTEND:20261003T130000Z
+SUMMARY:Inklusiver Reitertag in Klaistow
+DESCRIPTION:﻿Screenshot\nhttps://beelitz.de/events/inklusiver-reitertag
+ -in-klaistow/\n\nQuelle: https://beelitz.de/events/inklusiver-reitertag-
+ in-klaistow/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/inklusiver-reitertag-in-klaistow/
 END:VEVENT
 BEGIN:VEVENT
 UID:ef26967d7c522518816dc2f22ede@beelitz-calendar
@@ -134,7 +159,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-1.l-L1\n\nQuell
  e: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
- de/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ de/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-1.l-L1
@@ -153,7 +178,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-1.l-L1\n\nQuelle:
   https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var/
- ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-1.l-L1
 END:VEVENT
@@ -167,7 +192,7 @@ SUMMARY:Kurs „Hilfe beim Helfen“ für Angehörige von Menschen mit De
 DESCRIPTION:https://beelitz.de/events/kurs-hilfe-beim-helfen-fuer-angehoe
  rige-von-menschen-mit-demenz/var/ri-6.l-L1\n\nQuelle: https://beelitz.de
  /events/kurs-hilfe-beim-helfen-fuer-angehoerige-von-menschen-mit-demenz/
- var/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uh
+ var/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uh
  r
 URL:https://beelitz.de/events/kurs-hilfe-beim-helfen-fuer-angehoerige-von
  -menschen-mit-demenz/var/ri-6.l-L1
@@ -180,7 +205,7 @@ DTEND:20261009T170000Z
 SUMMARY:Blutspende im Tiedemann-Haus
 DESCRIPTION:https://beelitz.de/events/blutspende-im-tiedemann-haus-5/\n\n
  Quelle: https://beelitz.de/events/blutspende-im-tiedemann-haus-5/\nZulet
- zt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ zt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/blutspende-im-tiedemann-haus-5/
 END:VEVENT
 BEGIN:VEVENT
@@ -194,7 +219,7 @@ DESCRIPTION:Familie Schmidt lädt zum traditionellen Beelitzer Schlachtef
  et in der Brücker Straße 89\, 14547 Beelitz statt.\nhttps://beelitz.de
  /events/beelitzer-schlachtefest/\n\nQuelle: https://beelitz.de/events/be
  elitzer-schlachtefest/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\,
-  07:29 Uhr
+  16:02 Uhr
 URL:https://beelitz.de/events/beelitzer-schlachtefest/
 END:VEVENT
 BEGIN:VEVENT
@@ -211,7 +236,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-2.l-L1\n\nQuell
  e: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
- de/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ de/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-2.l-L1
@@ -230,7 +255,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-2.l-L1\n\nQuelle:
   https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var/
- ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-2.l-L1
 END:VEVENT
@@ -248,7 +273,7 @@ DESCRIPTION:Neue Termine für 2026 der SHG „Tinnitus“ Beelitz Clubrau
  e und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/events/selbst
  hilfegruppe-tinnitus/var/ri-3.l-L1\n\nQuelle: https://beelitz.de/events/
  selbsthilfegruppe-tinnitus/var/ri-3.l-L1\nZuletzt mit beelitz.de abgegli
- chen: 28.09.2026\, 07:29 Uhr
+ chen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/selbsthilfegruppe-tinnitus/var/ri-3.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -261,7 +286,7 @@ SUMMARY:Kurs „Hilfe beim Helfen“ für Angehörige von Menschen mit De
 DESCRIPTION:https://beelitz.de/events/kurs-hilfe-beim-helfen-fuer-angehoe
  rige-von-menschen-mit-demenz/var/ri-7.l-L1\n\nQuelle: https://beelitz.de
  /events/kurs-hilfe-beim-helfen-fuer-angehoerige-von-menschen-mit-demenz/
- var/ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uh
+ var/ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uh
  r
 URL:https://beelitz.de/events/kurs-hilfe-beim-helfen-fuer-angehoerige-von
  -menschen-mit-demenz/var/ri-7.l-L1
@@ -280,7 +305,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
  18. Februar\, 18. März\, 15. April\, 13. Mai\, [..]\nhttps://beelitz.de
  /events/fichtenwalder-helfen/var/ri-10.l-L1\n\nQuelle: https://beelitz.d
  e/events/fichtenwalder-helfen/var/ri-10.l-L1\nZuletzt mit beelitz.de abg
- eglichen: 28.09.2026\, 07:29 Uhr
+ eglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen/var/ri-10.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -296,7 +321,7 @@ DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
  den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
  .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/\n\nQuell
  e: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/\nZuletzt 
- mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -313,7 +338,7 @@ DESCRIPTION:16. / 17. Oktober 2026 – 53. PRS-HAVELLANDRALLYE „Durch d
  ntrum und Start und Ziel im JAKOBS-HOF\, Kähnsdorfer Weg 1 A\, 14 547 B
  eelitz\nhttps://beelitz.de/events/havellandrallye-auf-dem-jakobs-hof-bee
  litz/\n\nQuelle: https://beelitz.de/events/havellandrallye-auf-dem-jakob
- s-hof-beelitz/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 U
+ s-hof-beelitz/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 U
  hr
 URL:https://beelitz.de/events/havellandrallye-auf-dem-jakobs-hof-beelitz/
 END:VEVENT
@@ -331,7 +356,7 @@ DESCRIPTION:Immunpower- Workshop in der Heilstätte am 16. Oktober 2026:
  le Immun-Tinktur) und[..]\nhttps://beelitz.de/events/immunboost-starkes-
  immunsystem-im-goldenen-oktober/\n\nQuelle: https://beelitz.de/events/im
  munboost-starkes-immunsystem-im-goldenen-oktober/\nZuletzt mit beelitz.d
- e abgeglichen: 28.09.2026\, 07:29 Uhr
+ e abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/immunboost-starkes-immunsystem-im-goldenen-
  oktober/
 END:VEVENT
@@ -349,8 +374,25 @@ DESCRIPTION:Am 17. Oktober ab 10 Uhr wird Elsholz vom rhythmischen Buller
  mmen. Mittlerweile sind es über hundert Ackerkönige\, die – liebevol
  l[..]\nhttps://beelitz.de/events/treckertreffen-elsholz-2/\n\nQuelle: ht
  tps://beelitz.de/events/treckertreffen-elsholz-2/\nZuletzt mit beelitz.d
- e abgeglichen: 28.09.2026\, 07:29 Uhr
+ e abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treckertreffen-elsholz-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3cdd2371fc40c09cc82c1620c7@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261017T150000Z
+DTEND:20261017T180000Z
+SUMMARY:Grusel-Maislabyrinth in Klaistow eröffnet
+DESCRIPTION:Vom 17. Oktober bis zum 1. November 2026 gibt es bei uns erst
+ mals ein Grusel-Maislabyrinth. Täglich von 17 bis 20 Uhr verwandeln Neb
+ el sowie Licht- und Soundeffekte die Wege zwischen den hohen Maispflanze
+ n in eine geheimnisvolle Grusellandschaft. Auf dem Weg durch das Labyrin
+ th sorgen verschiedene Inszenierungen\, Geräusche und überraschende Ef
+ fekte[..]\nhttps://beelitz.de/events/grusel-maislabyrinth-in-klaistow-er
+ oeffnet/\n\nQuelle: https://beelitz.de/events/grusel-maislabyrinth-in-kl
+ aistow-eroeffnet/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:0
+ 2 Uhr
+URL:https://beelitz.de/events/grusel-maislabyrinth-in-klaistow-eroeffnet/
 END:VEVENT
 BEGIN:VEVENT
 UID:fde97234dc752d72522a297440c9@beelitz-calendar
@@ -367,7 +409,7 @@ DESCRIPTION:Im Jahr 2026 finden wieder regelmäßige Führungen statt\, u
  kte). Wir haben in diesem Jahr viel vor[..]\nhttps://beelitz.de/events/f
  uehrung-des-foerdervereins-heiz-kraft-werk/var/ri-7.l-L1\n\nQuelle: http
  s://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk/var/ri
- -7.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ -7.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fuehrung-des-foerdervereins-heiz-kraft-werk
  /var/ri-7.l-L1
 END:VEVENT
@@ -382,7 +424,7 @@ DESCRIPTION:﻿﻿Andrea und Wilfried Peetz laden zum Tanz in den Goldene
   und in der Tourist-Info Beelitz ﻿\nhttps://beelitz.de/events/tanz-in-
  den-goldenen-herbst-2/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events
  /tanz-in-den-goldenen-herbst-2/var/ri-1.l-L1\nZuletzt mit beelitz.de abg
- eglichen: 28.09.2026\, 07:29 Uhr
+ eglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/tanz-in-den-goldenen-herbst-2/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -398,7 +440,7 @@ DESCRIPTION:Kult-Kabarettist\, scharfzüngiger Comedian\, musikalischer M
  itz in seinen Bann ziehen – mit dem aktuellen Programm HATTA. Der[..]\
  nhttps://beelitz.de/events/hans-werner-olm-hatta/\n\nQuelle: https://bee
  litz.de/events/hans-werner-olm-hatta/\nZuletzt mit beelitz.de abgegliche
- n: 28.09.2026\, 07:29 Uhr
+ n: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/hans-werner-olm-hatta/
 END:VEVENT
 BEGIN:VEVENT
@@ -415,7 +457,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-3.l-L1\n\nQuell
  e: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
- de/var/ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ de/var/ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-3.l-L1
@@ -430,7 +472,7 @@ SUMMARY:Veranstaltungen der Verkehrswacht 2026
 DESCRIPTION:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2
  026/var/ri-6.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen-d
  er-verkehrswacht-2026/var/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen:
-  28.09.2026\, 07:29 Uhr
+  28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2026/var/
  ri-6.l-L1
 END:VEVENT
@@ -448,9 +490,38 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-3.l-L1\n\nQuelle:
   https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var/
- ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-3.l-L1
+END:VEVENT
+BEGIN:VEVENT
+UID:0c4993f1ca67e185176eac6a0ba7@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261023T140000Z
+DTEND:20261023T215900Z
+SUMMARY:Sprechstunde des Fichtenwalder Ortsvorstehers
+DESCRIPTION:https://beelitz.de/events/sprechstunde-des-fichtenwalder-orts
+ vorstehers-2/\n\nQuelle: https://beelitz.de/events/sprechstunde-des-fich
+ tenwalder-ortsvorstehers-2/\nZuletzt mit beelitz.de abgeglichen: 28.09.2
+ 026\, 16:02 Uhr
+URL:https://beelitz.de/events/sprechstunde-des-fichtenwalder-ortsvorstehe
+ rs-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:deb35a632ea8fae0c3acb47f5b73@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261024
+DTEND:20261025
+SUMMARY:Eislaufbahn Klaistow eröffnet
+DESCRIPTION:Ab dem 24. Oktober heißt es auf dem Spargel- und Erlebnishof
+  Klaistow wieder „Klaistow on Ice“. Bis zum 7. Februar 2027 lädt di
+ e überdachte Echt-Eisbahn auf 600 m² zum wetterunabhängigen Eislaufen
+  ein. Rund um die Eisbahn sorgt Diskokugel-Lichterglanz für gemütliche
+  Stimmung\, während auf dem Eis ordentlich Bewegung angesagt ist. Zwisc
+ hendurch[..]\nhttps://beelitz.de/events/eislaufbahn-klaistow-eroeffnet/\
+ n\nQuelle: https://beelitz.de/events/eislaufbahn-klaistow-eroeffnet/\nZu
+ letzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/eislaufbahn-klaistow-eroeffnet/
 END:VEVENT
 BEGIN:VEVENT
 UID:ac9843f0aad7173ebf1fe8fff538@beelitz-calendar
@@ -462,7 +533,7 @@ SUMMARY:Musikalische Lesung von Bertram Engel: "Mit alten Männern spiel'
 DESCRIPTION:﻿\nhttps://beelitz.de/events/musikalische-lesung-von-bertra
  m-engel-mit-alten-maennern-spiel-ich-nicht/\n\nQuelle: https://beelitz.d
  e/events/musikalische-lesung-von-bertram-engel-mit-alten-maennern-spiel-
- ich-nicht/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ich-nicht/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/musikalische-lesung-von-bertram-engel-mit-a
  lten-maennern-spiel-ich-nicht/
 END:VEVENT
@@ -480,7 +551,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-4.l-L1\n\nQuell
  e: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
- de/var/ri-4.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ de/var/ri-4.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-4.l-L1
@@ -499,7 +570,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-4.l-L1\n\nQuelle:
   https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var/
- ri-4.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ri-4.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-4.l-L1
 END:VEVENT
@@ -518,8 +589,8 @@ DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet
  er Schlaganfall bedeutet eine schlagartige gravierende[..]\nhttps://beel
  itz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-9.l-L1\n
  \nQuelle: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlag
- anfall/var/ri-9.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 0
- 7:29 Uhr
+ anfall/var/ri-9.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 1
+ 6:02 Uhr
 URL:https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
  var/ri-9.l-L1
 END:VEVENT
@@ -536,10 +607,39 @@ DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
  den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
  .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-1.
  l-L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2
- -2/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ -2/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-1.l
  -L1
+END:VEVENT
+BEGIN:VEVENT
+UID:82ef4dbc46646a1102a40faa6620@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261030
+DTEND:20261031
+SUMMARY:Halloween in Klaistow
+DESCRIPTION:¬ Halloween in Klaistow ¬ Rund um Halloween gibt es bei uns
+  am 30. und 31. Oktober mehrere Aktionen für Familien: 30. Oktober 2026
+  • 16–20 Uhr: Halloween on Ice auf der Eisbahn • 17–20 Uhr: Grus
+ el-Maislabyrinth mit Licht-\, Nebel- und Soundeffekten • 17 Uhr: Later
+ nenumzug vorbei am Naturwildgehege\, anschließend[..]\nhttps://beelitz.
+ de/events/halloween-in-klaistow/\n\nQuelle: https://beelitz.de/events/ha
+ lloween-in-klaistow/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 1
+ 6:02 Uhr
+URL:https://beelitz.de/events/halloween-in-klaistow/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a9cede3d863039dae1ec64b28c4@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261030T150000Z
+DTEND:20261030T225900Z
+SUMMARY:Sprechstunde des Fichtenwalder Ortsvorstehers
+DESCRIPTION:https://beelitz.de/events/sprechstunde-des-fichtenwalder-orts
+ vorstehers-2/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/sprechst
+ unde-des-fichtenwalder-ortsvorstehers-2/var/ri-1.l-L1\nZuletzt mit beeli
+ tz.de abgeglichen: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/sprechstunde-des-fichtenwalder-ortsvorstehe
+ rs-2/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
 UID:b4322f4f985d186d86fb61b2af7a@beelitz-calendar
@@ -554,7 +654,7 @@ DESCRIPTION:Mord\, MenÃ¼ und Mikrofon: Krimi-Dinner der Kiezpoeten am 3
  tober 2026 kehrt das beliebte Krimi-Dinner nach Beelitz- HeilstÃ¤tten 
  zurÃ¼ck. Die stattlichen BÃ¤ume rund um das historische[..]\nhttps:/
  /beelitz.de/events/krimi-dinner/\n\nQuelle: https://beelitz.de/events/kr
- imi-dinner/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ imi-dinner/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/krimi-dinner/
 END:VEVENT
 BEGIN:VEVENT
@@ -571,7 +671,7 @@ DESCRIPTION:Mord\, MenÃ¼ und Mikrofon: Krimi-Dinner der Kiezpoeten am 3
  zurÃ¼ck. Die stattlichen BÃ¤ume rund um das historische[..]\nhttps:/
  /beelitz.de/events/krimi-dinner/var/ri-1.l-L1\n\nQuelle: https://beelitz
  .de/events/krimi-dinner/var/ri-1.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 28.09.2026\, 07:29 Uhr
+ n: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/krimi-dinner/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -582,9 +682,25 @@ DTEND:20261101
 SUMMARY:Fichtenwalder Ausflugsfahrten
 DESCRIPTION:https://beelitz.de/events/fichtenwalder-ausflugsfahrten/var/r
  i-2.l-L1\n\nQuelle: https://beelitz.de/events/fichtenwalder-ausflugsfahr
- ten/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:2
- 9 Uhr
+ ten/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:0
+ 2 Uhr
 URL:https://beelitz.de/events/fichtenwalder-ausflugsfahrten/var/ri-2.l-L1
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b117bef0b22aaf69607c655230@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261031
+DTEND:20261101
+SUMMARY:Halloween in Klaistow
+DESCRIPTION:¬ Halloween in Klaistow ¬ Rund um Halloween gibt es bei uns
+  am 30. und 31. Oktober mehrere Aktionen für Familien: 30. Oktober 2026
+  • 16–20 Uhr: Halloween on Ice auf der Eisbahn • 17–20 Uhr: Grus
+ el-Maislabyrinth mit Licht-\, Nebel- und Soundeffekten • 17 Uhr: Later
+ nenumzug vorbei am Naturwildgehege\, anschließend[..]\nhttps://beelitz.
+ de/events/halloween-in-klaistow/var/ri-1.l-L1\n\nQuelle: https://beelitz
+ .de/events/halloween-in-klaistow/var/ri-1.l-L1\nZuletzt mit beelitz.de a
+ bgeglichen: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/halloween-in-klaistow/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
 UID:7a5be116963ed9db059728116d0b@beelitz-calendar
@@ -600,7 +716,7 @@ DESCRIPTION:Mord\, MenÃ¼ und Mikrofon: Krimi-Dinner der Kiezpoeten am 3
  zurÃ¼ck. Die stattlichen BÃ¤ume rund um das historische[..]\nhttps:/
  /beelitz.de/events/krimi-dinner/var/ri-2.l-L1\n\nQuelle: https://beelitz
  .de/events/krimi-dinner/var/ri-2.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 28.09.2026\, 07:29 Uhr
+ n: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/krimi-dinner/var/ri-2.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -612,7 +728,7 @@ SUMMARY:Veranstaltung auf den Jakobs-Höfen
 DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
  s-hoefen/var/ri-7.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
  g-auf-den-jakobs-hoefen/var/ri-7.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 28.09.2026\, 07:29 Uhr
+ n: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  7.l-L1
 END:VEVENT
@@ -630,7 +746,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-5.l-L1\n\nQuell
  e: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
- de/var/ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ de/var/ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-5.l-L1
@@ -649,7 +765,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-5.l-L1\n\nQuelle:
   https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var/
- ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ri-5.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-5.l-L1
 END:VEVENT
@@ -667,7 +783,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-6.l-L1\n\nQuell
  e: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
- de/var/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ de/var/ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-6.l-L1
@@ -686,7 +802,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-6.l-L1\n\nQuelle:
   https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var/
- ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ri-6.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-6.l-L1
 END:VEVENT
@@ -704,7 +820,7 @@ DESCRIPTION:Neue Termine für 2026 der SHG „Tinnitus“ Beelitz Clubrau
  e und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/events/selbst
  hilfegruppe-tinnitus/var/ri-4.l-L1\n\nQuelle: https://beelitz.de/events/
  selbsthilfegruppe-tinnitus/var/ri-4.l-L1\nZuletzt mit beelitz.de abgegli
- chen: 28.09.2026\, 07:29 Uhr
+ chen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/selbsthilfegruppe-tinnitus/var/ri-4.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -721,7 +837,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
  18. Februar\, 18. März\, 15. April\, 13. Mai\, [..]\nhttps://beelitz.de
  /events/fichtenwalder-helfen/var/ri-11.l-L1\n\nQuelle: https://beelitz.d
  e/events/fichtenwalder-helfen/var/ri-11.l-L1\nZuletzt mit beelitz.de abg
- eglichen: 28.09.2026\, 07:29 Uhr
+ eglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen/var/ri-11.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -737,7 +853,7 @@ DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
  den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
  .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-2.
  l-L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2
- -2/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ -2/var/ri-2.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-2.l
  -L1
@@ -755,10 +871,23 @@ DESCRIPTION:Am Sa den 14.11. und So den 15.11. jeweils von 13 – 18 Uhr
  hnachtliche Geschenkideen – nicht nur zum Bestaunen\, auch zum Erwerbe
  n. Bei[..]\nhttps://beelitz.de/events/voradventsmarkt-in-der-kunstscheun
  e-kanin-2/\n\nQuelle: https://beelitz.de/events/voradventsmarkt-in-der-k
- unstscheune-kanin-2/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 0
- 7:29 Uhr
+ unstscheune-kanin-2/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 1
+ 6:02 Uhr
 URL:https://beelitz.de/events/voradventsmarkt-in-der-kunstscheune-kanin-2
  /
+END:VEVENT
+BEGIN:VEVENT
+UID:960a9e414c83acef00864089e10f@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261114T130000Z
+DTEND:20261114T160000Z
+SUMMARY:Meisterwerke der Stickkunst - Die Salvarael Collection
+DESCRIPTION:https://beelitz.de/events/meisterwerke-der-stickkunst-die-sal
+ varael-collection/\n\nQuelle: https://beelitz.de/events/meisterwerke-der
+ -stickkunst-die-salvarael-collection/\nZuletzt mit beelitz.de abgegliche
+ n: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/meisterwerke-der-stickkunst-die-salvarael-c
+ ollection/
 END:VEVENT
 BEGIN:VEVENT
 UID:caa273e960a63b02d90f71eb4e65@beelitz-calendar
@@ -773,7 +902,7 @@ DESCRIPTION:True Crime Slam â€“ Mord\, Mystery & Mindgames! Am 14.11
  Ã¤lle und fiktive Thriller â€“ aber wer sagt die Wahrheit? Ihr en
  tscheidet! Echte FÃ¤lle[..]\nhttps://beelitz.de/events/true-crime-slam
  -heilstaetten/\n\nQuelle: https://beelitz.de/events/true-crime-slam-heil
- staetten/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ staetten/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/true-crime-slam-heilstaetten/
 END:VEVENT
 BEGIN:VEVENT
@@ -790,9 +919,22 @@ DESCRIPTION:Am Sa den 14.11. und So den 15.11. jeweils von 13 – 18 Uhr
  n. Bei[..]\nhttps://beelitz.de/events/voradventsmarkt-in-der-kunstscheun
  e-kanin-2/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/voradventsm
  arkt-in-der-kunstscheune-kanin-2/var/ri-1.l-L1\nZuletzt mit beelitz.de a
- bgeglichen: 28.09.2026\, 07:29 Uhr
+ bgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/voradventsmarkt-in-der-kunstscheune-kanin-2
  /var/ri-1.l-L1
+END:VEVENT
+BEGIN:VEVENT
+UID:3f67a00c8431a7ce8e4febffce68@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261115T130000Z
+DTEND:20261115T160000Z
+SUMMARY:Meisterwerke der Stickkunst - Die Salvarael Collection
+DESCRIPTION:https://beelitz.de/events/meisterwerke-der-stickkunst-die-sal
+ varael-collection/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/mei
+ sterwerke-der-stickkunst-die-salvarael-collection/var/ri-1.l-L1\nZuletzt
+  mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/meisterwerke-der-stickkunst-die-salvarael-c
+ ollection/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
 UID:fa3b60e9dd2c14598e48b968b8ea@beelitz-calendar
@@ -808,7 +950,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-7.l-L1\n\nQuell
  e: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
- de/var/ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ de/var/ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-7.l-L1
@@ -823,7 +965,7 @@ SUMMARY:Veranstaltungen der Verkehrswacht 2026
 DESCRIPTION:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2
  026/var/ri-7.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen-d
  er-verkehrswacht-2026/var/ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen:
-  28.09.2026\, 07:29 Uhr
+  28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2026/var/
  ri-7.l-L1
 END:VEVENT
@@ -841,9 +983,26 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-7.l-L1\n\nQuelle:
   https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var/
- ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ri-7.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-7.l-L1
+END:VEVENT
+BEGIN:VEVENT
+UID:bde8559ecd4d360d7e67fc63b597@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261122T160000Z
+DTEND:20261122T225900Z
+SUMMARY:Sybill Volks liest aus ihrem Erfolgsroman Café Finito
+DESCRIPTION:Am 22. November um 17:00 findet bei uns in Wittbrietzen wiede
+ r eine Lesung statt. Zum Totensonntag haben wir Sybill Volks mit ihrem w
+ underbaren Erfolgs-Roman Café Finito zu Gast. Anschließend gibt es wie
+  gewohnt die Möglichkeit\, Bücher der Autorin zu kaufen und natürlich
+  signiert sie gern ihre Bücher. Dabei werden wir[..]\nhttps://beelitz.d
+ e/events/sybill-volks-liest-aus-ihrem-erfolgsroman-cafe-finito/\n\nQuell
+ e: https://beelitz.de/events/sybill-volks-liest-aus-ihrem-erfolgsroman-c
+ afe-finito/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/sybill-volks-liest-aus-ihrem-erfolgsroman-c
+ afe-finito/
 END:VEVENT
 BEGIN:VEVENT
 UID:4ef7fe8abf574997cd0756dfcb9b@beelitz-calendar
@@ -859,7 +1018,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-8.l-L1\n\nQuell
  e: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
- de/var/ri-8.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ de/var/ri-8.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-8.l-L1
@@ -878,7 +1037,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-8.l-L1\n\nQuelle:
   https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var/
- ri-8.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ri-8.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-8.l-L1
 END:VEVENT
@@ -898,7 +1057,7 @@ DESCRIPTION:﻿﻿Unsere Selbsthilfegruppe wurde im März 2000 gegründet
  itz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/var/ri-10.l-L1\
  n\nQuelle: https://beelitz.de/events/treffen-der-selbsthilfegruppe-schla
  ganfall/var/ri-10.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\,
-  07:29 Uhr
+  16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-selbsthilfegruppe-schlaganfall/
  var/ri-10.l-L1
 END:VEVENT
@@ -915,7 +1074,7 @@ DESCRIPTION:Im „Erzähl – Treff für Trauernde“ treffen sich regelm
  den hier in einer harmonischen Atmosphäre angesprochen und erörtert.[.
  .]\nhttps://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-3.
  l-L1\n\nQuelle: https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2
- -2/var/ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ -2/var/ri-3.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/erzaehl-treff-fuer-trauernde-2-2/var/ri-3.l
  -L1
@@ -933,7 +1092,7 @@ DESCRIPTION:Sinnliche Auszeit – Kreiere innere Balance und Erfüllung i
   wie du die raue Jahreszeit für dich nutzen kannst um zur[..]\nhttps://
  beelitz.de/events/make-a-wish-come-true-sinnliche-auszeit/\n\nQuelle: ht
  tps://beelitz.de/events/make-a-wish-come-true-sinnliche-auszeit/\nZuletz
- t mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ t mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/make-a-wish-come-true-sinnliche-auszeit/
 END:VEVENT
 BEGIN:VEVENT
@@ -946,7 +1105,7 @@ SUMMARY:Wittbrietzener Anleuchten
 DESCRIPTION:ab 15:00 Uhr am Dorfgemeinschaftshaus\nhttps://beelitz.de/eve
  nts/wittbrietzener-anleuchten/\n\nQuelle: https://beelitz.de/events/witt
  brietzener-anleuchten/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\,
-  07:29 Uhr
+  16:02 Uhr
 URL:https://beelitz.de/events/wittbrietzener-anleuchten/
 END:VEVENT
 BEGIN:VEVENT
@@ -963,7 +1122,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-9.l-L1\n\nQuell
  e: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
- de/var/ri-9.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ de/var/ri-9.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-9.l-L1
@@ -982,7 +1141,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-9.l-L1\n\nQuelle:
   https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var/
- ri-9.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ ri-9.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-9.l-L1
 END:VEVENT
@@ -995,7 +1154,7 @@ LOCATION:Fichtenwalde Marktplatz Eichenstraße
 SUMMARY:Fichtenwalder Zapfenmarkt
 DESCRIPTION:Fichtenwalder Zapfenmarkt\nhttps://beelitz.de/events/fichtenw
  alder-zapfenmarkt-3/\n\nQuelle: https://beelitz.de/events/fichtenwalder-
- zapfenmarkt-3/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 U
+ zapfenmarkt-3/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 U
  hr
 URL:https://beelitz.de/events/fichtenwalder-zapfenmarkt-3/
 END:VEVENT
@@ -1008,7 +1167,7 @@ SUMMARY:Country Weihnachten mit Real Treat
 DESCRIPTION:18 Uhr in der Wittbrietzener Dorfkirche\nhttps://beelitz.de/e
  vents/country-weihnachten-mit-real-treat/\n\nQuelle: https://beelitz.de/
  events/country-weihnachten-mit-real-treat/\nZuletzt mit beelitz.de abgeg
- lichen: 28.09.2026\, 07:29 Uhr
+ lichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/country-weihnachten-mit-real-treat/
 END:VEVENT
 BEGIN:VEVENT
@@ -1025,8 +1184,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-10.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-10.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-10.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-10.l-L1
 END:VEVENT
@@ -1044,7 +1203,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-10.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-10.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-10.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-10.l-L1
 END:VEVENT
@@ -1062,7 +1221,7 @@ DESCRIPTION:Neue Termine für 2026 der SHG „Tinnitus“ Beelitz Clubrau
  e und Anmeldungen bei Jürgen Wolf[..]\nhttps://beelitz.de/events/selbst
  hilfegruppe-tinnitus/var/ri-5.l-L1\n\nQuelle: https://beelitz.de/events/
  selbsthilfegruppe-tinnitus/var/ri-5.l-L1\nZuletzt mit beelitz.de abgegli
- chen: 28.09.2026\, 07:29 Uhr
+ chen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/selbsthilfegruppe-tinnitus/var/ri-5.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1079,8 +1238,21 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
  18. Februar\, 18. März\, 15. April\, 13. Mai\, [..]\nhttps://beelitz.de
  /events/fichtenwalder-helfen/var/ri-12.l-L1\n\nQuelle: https://beelitz.d
  e/events/fichtenwalder-helfen/var/ri-12.l-L1\nZuletzt mit beelitz.de abg
- eglichen: 28.09.2026\, 07:29 Uhr
+ eglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen/var/ri-12.l-L1
+END:VEVENT
+BEGIN:VEVENT
+UID:b0dc1878d72402933b60b331fada@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261212
+DTEND:20261213
+SUMMARY:Fichtenwalder Ausflugsfahrt zum Weihnachtsmarkt in Celle
+DESCRIPTION:https://beelitz.de/events/fichtenwalder-ausflugsfahrt-zum-wei
+ hnachtsmarkt-in-celle/\n\nQuelle: https://beelitz.de/events/fichtenwalde
+ r-ausflugsfahrt-zum-weihnachtsmarkt-in-celle/\nZuletzt mit beelitz.de ab
+ geglichen: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/fichtenwalder-ausflugsfahrt-zum-weihnachtsm
+ arkt-in-celle/
 END:VEVENT
 BEGIN:VEVENT
 UID:d8c1fa2107ed44e6d64863d01a32@beelitz-calendar
@@ -1095,7 +1267,7 @@ DESCRIPTION:Der Heilstätter Weihnachtsmarkt lädt am 12. und 13. Dezembe
   der Weihnachtsmann nicht fehlen\, der für viele unvergessliche Momente
   und strahlende Gesichter sorgen[..]\nhttps://beelitz.de/events/heilstae
  tter-weihnachtsmarkt/\n\nQuelle: https://beelitz.de/events/heilstaetter-
- weihnachtsmarkt/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ weihnachtsmarkt/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/heilstaetter-weihnachtsmarkt/
 END:VEVENT
@@ -1107,7 +1279,7 @@ DTEND:20261212T225900Z
 SUMMARY:Lichterglanz in Busendorf
 DESCRIPTION:https://beelitz.de/events/lichterglanz-in-busendorf-4/\n\nQue
  lle: https://beelitz.de/events/lichterglanz-in-busendorf-4/\nZuletzt mit
-  beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+  beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/lichterglanz-in-busendorf-4/
 END:VEVENT
 BEGIN:VEVENT
@@ -1124,7 +1296,7 @@ DESCRIPTION:Charles Brauer & Uschi Brüning mit Jazztrio Manfred Krugs ei
  legende und genialer Hörbuchsprecher\, liest Weihnachtliches in[..]\nht
  tps://beelitz.de/events/weihnachtliche-erinnerungen-an-manfred-krug-2026
  /\n\nQuelle: https://beelitz.de/events/weihnachtliche-erinnerungen-an-ma
- nfred-krug-2026/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29
+ nfred-krug-2026/\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02
   Uhr
 URL:https://beelitz.de/events/weihnachtliche-erinnerungen-an-manfred-krug
  -2026/
@@ -1143,8 +1315,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-11.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-11.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-11.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-11.l-L1
 END:VEVENT
@@ -1158,7 +1330,7 @@ SUMMARY:Veranstaltungen der Verkehrswacht 2026
 DESCRIPTION:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2
  026/var/ri-8.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltungen-d
  er-verkehrswacht-2026/var/ri-8.l-L1\nZuletzt mit beelitz.de abgeglichen:
-  28.09.2026\, 07:29 Uhr
+  28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/veranstaltungen-der-verkehrswacht-2026/var/
  ri-8.l-L1
 END:VEVENT
@@ -1176,9 +1348,22 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-11.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-11.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-11.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-11.l-L1
+END:VEVENT
+BEGIN:VEVENT
+UID:c01b8c4180dc46781c5ce46781bb@beelitz-calendar
+DTSTAMP:19700101T000000Z
+DTSTART:20261219
+DTEND:20261220
+SUMMARY:Fichtenwalder Ausflugsfahrt zum Weihnachtsmarkt in Celle
+DESCRIPTION:https://beelitz.de/events/fichtenwalder-ausflugsfahrt-zum-wei
+ hnachtsmarkt-in-celle/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events
+ /fichtenwalder-ausflugsfahrt-zum-weihnachtsmarkt-in-celle/var/ri-1.l-L1\
+ nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
+URL:https://beelitz.de/events/fichtenwalder-ausflugsfahrt-zum-weihnachtsm
+ arkt-in-celle/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
 UID:fd7fccd7344bd9ad119233291728@beelitz-calendar
@@ -1194,7 +1379,7 @@ DESCRIPTION:Der Heilstätter Weihnachtsmarkt lädt am 12. und 13. Dezembe
   und strahlende Gesichter sorgen[..]\nhttps://beelitz.de/events/heilstae
  tter-weihnachtsmarkt/var/ri-1.l-L1\n\nQuelle: https://beelitz.de/events/
  heilstaetter-weihnachtsmarkt/var/ri-1.l-L1\nZuletzt mit beelitz.de abgeg
- lichen: 28.09.2026\, 07:29 Uhr
+ lichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/heilstaetter-weihnachtsmarkt/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1207,7 +1392,7 @@ DESCRIPTION:Die Weihnachtsgala mit Andrea und Wilfried Peetz auf dem Jako
  bs-Hof in Beelitz. Karten für 15 Euro gibt es vor Ort und in der Touris
  t-Info Beelitz.\nhttps://beelitz.de/events/weihnachten-faengt-im-herzen-
  an/\n\nQuelle: https://beelitz.de/events/weihnachten-faengt-im-herzen-an
- /\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/weihnachten-faengt-im-herzen-an/
 END:VEVENT
 BEGIN:VEVENT
@@ -1223,7 +1408,7 @@ DESCRIPTION:16:00 Uhr in der Wittbrietzener Dorfkirche\nhttps://beelitz.d
  e/events/konzert-des-evangl-posaunenchors-wittbrietzen-mit-dem-wittbriet
  zener-frauenchor/\n\nQuelle: https://beelitz.de/events/konzert-des-evang
  l-posaunenchors-wittbrietzen-mit-dem-wittbrietzener-frauenchor/\nZuletzt
-  mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+  mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/konzert-des-evangl-posaunenchors-wittbrietz
  en-mit-dem-wittbrietzener-frauenchor/
 END:VEVENT
@@ -1241,8 +1426,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-12.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-12.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-12.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-12.l-L1
 END:VEVENT
@@ -1260,7 +1445,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-12.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-12.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-12.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-12.l-L1
 END:VEVENT
@@ -1273,7 +1458,7 @@ SUMMARY:Veranstaltung auf den Jakobs-Höfen
 DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
  s-hoefen/var/ri-8.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
  g-auf-den-jakobs-hoefen/var/ri-8.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 28.09.2026\, 07:29 Uhr
+ n: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  8.l-L1
 END:VEVENT
@@ -1286,7 +1471,7 @@ SUMMARY:Veranstaltung auf den Jakobs-Höfen
 DESCRIPTION:﻿﻿\nhttps://beelitz.de/events/veranstaltung-auf-den-jakob
  s-hoefen/var/ri-9.l-L1\n\nQuelle: https://beelitz.de/events/veranstaltun
  g-auf-den-jakobs-hoefen/var/ri-9.l-L1\nZuletzt mit beelitz.de abgegliche
- n: 28.09.2026\, 07:29 Uhr
+ n: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/veranstaltung-auf-den-jakobs-hoefen/var/ri-
  9.l-L1
 END:VEVENT
@@ -1304,8 +1489,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-13.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-13.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-13.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-13.l-L1
 END:VEVENT
@@ -1323,7 +1508,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-13.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-13.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-13.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-13.l-L1
 END:VEVENT
@@ -1341,8 +1526,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-14.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-14.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-14.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-14.l-L1
 END:VEVENT
@@ -1360,7 +1545,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-14.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-14.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-14.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-14.l-L1
 END:VEVENT
@@ -1378,7 +1563,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/\n\nQuelle: https://beelitz.d
  e/events/fichtenwalder-helfen-2/\nZuletzt mit beelitz.de abgeglichen: 28
- .09.2026\, 07:29 Uhr
+ .09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -1395,8 +1580,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-15.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-15.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-15.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-15.l-L1
 END:VEVENT
@@ -1414,7 +1599,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-15.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-15.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-15.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-15.l-L1
 END:VEVENT
@@ -1432,8 +1617,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-16.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-16.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-16.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-16.l-L1
 END:VEVENT
@@ -1451,7 +1636,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-16.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-16.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-16.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-16.l-L1
 END:VEVENT
@@ -1469,8 +1654,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-17.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-17.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-17.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-17.l-L1
 END:VEVENT
@@ -1488,7 +1673,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-17.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-17.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-17.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-17.l-L1
 END:VEVENT
@@ -1506,8 +1691,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-18.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-18.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-18.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-18.l-L1
 END:VEVENT
@@ -1525,7 +1710,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-18.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-18.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-18.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-18.l-L1
 END:VEVENT
@@ -1543,8 +1728,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-19.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-19.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-19.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-19.l-L1
 END:VEVENT
@@ -1562,7 +1747,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-19.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-19.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-19.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-19.l-L1
 END:VEVENT
@@ -1580,8 +1765,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-20.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-20.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-20.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-20.l-L1
 END:VEVENT
@@ -1599,7 +1784,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-20.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-20.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-20.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-20.l-L1
 END:VEVENT
@@ -1617,7 +1802,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-1.l-L1\n\nQuelle: http
  s://beelitz.de/events/fichtenwalder-helfen-2/var/ri-1.l-L1\nZuletzt mit 
- beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-1.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1634,8 +1819,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-21.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-21.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-21.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-21.l-L1
 END:VEVENT
@@ -1653,7 +1838,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-21.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-21.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-21.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-21.l-L1
 END:VEVENT
@@ -1671,8 +1856,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-22.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-22.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-22.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-22.l-L1
 END:VEVENT
@@ -1690,7 +1875,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-22.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-22.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-22.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-22.l-L1
 END:VEVENT
@@ -1708,8 +1893,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-23.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-23.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-23.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-23.l-L1
 END:VEVENT
@@ -1727,7 +1912,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-23.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-23.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-23.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-23.l-L1
 END:VEVENT
@@ -1745,8 +1930,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-24.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-24.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-24.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-24.l-L1
 END:VEVENT
@@ -1764,7 +1949,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-24.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-24.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-24.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-24.l-L1
 END:VEVENT
@@ -1782,7 +1967,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-2.l-L1\n\nQuelle: http
  s://beelitz.de/events/fichtenwalder-helfen-2/var/ri-2.l-L1\nZuletzt mit 
- beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-2.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1799,8 +1984,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-25.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-25.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-25.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-25.l-L1
 END:VEVENT
@@ -1818,7 +2003,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-25.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-25.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-25.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-25.l-L1
 END:VEVENT
@@ -1836,8 +2021,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-26.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-26.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-26.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-26.l-L1
 END:VEVENT
@@ -1855,7 +2040,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-26.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-26.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-26.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-26.l-L1
 END:VEVENT
@@ -1873,8 +2058,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-27.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-27.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-27.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-27.l-L1
 END:VEVENT
@@ -1892,7 +2077,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-27.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-27.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-27.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-27.l-L1
 END:VEVENT
@@ -1910,8 +2095,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-28.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-28.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-28.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-28.l-L1
 END:VEVENT
@@ -1929,7 +2114,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-28.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-28.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-28.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-28.l-L1
 END:VEVENT
@@ -1947,7 +2132,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-3.l-L1\n\nQuelle: http
  s://beelitz.de/events/fichtenwalder-helfen-2/var/ri-3.l-L1\nZuletzt mit 
- beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-3.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -1964,8 +2149,8 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  ie Gesundheitsbuddys suchen auch Personen\, [..]\nhttps://beelitz.de/eve
  nts/treffen-der-gesundheitsbuddys-in-fichtenwalde/var/ri-29.l-L1\n\nQuel
  le: https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwa
- lde/var/ri-29.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:
- 29 Uhr
+ lde/var/ri-29.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:
+ 02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-fichtenwal
  de/var/ri-29.l-L1
 END:VEVENT
@@ -1983,7 +2168,7 @@ DESCRIPTION:Beweglichkeit im Alter erhalten und Menschen beim eigenständ
  s suchen auch Personen\, die Freude an Bewegung[..]\nhttps://beelitz.de/
  events/treffen-der-gesundheitsbuddys-in-beelitz/var/ri-29.l-L1\n\nQuelle
  : https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/var
- /ri-29.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ /ri-29.l-L1\nZuletzt mit beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/treffen-der-gesundheitsbuddys-in-beelitz/va
  r/ri-29.l-L1
 END:VEVENT
@@ -2001,7 +2186,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-4.l-L1\n\nQuelle: http
  s://beelitz.de/events/fichtenwalder-helfen-2/var/ri-4.l-L1\nZuletzt mit 
- beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-4.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -2018,7 +2203,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-5.l-L1\n\nQuelle: http
  s://beelitz.de/events/fichtenwalder-helfen-2/var/ri-5.l-L1\nZuletzt mit 
- beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-5.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -2035,7 +2220,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-6.l-L1\n\nQuelle: http
  s://beelitz.de/events/fichtenwalder-helfen-2/var/ri-6.l-L1\nZuletzt mit 
- beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-6.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -2052,7 +2237,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-7.l-L1\n\nQuelle: http
  s://beelitz.de/events/fichtenwalder-helfen-2/var/ri-7.l-L1\nZuletzt mit 
- beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-7.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -2069,7 +2254,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-8.l-L1\n\nQuelle: http
  s://beelitz.de/events/fichtenwalder-helfen-2/var/ri-8.l-L1\nZuletzt mit 
- beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-8.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -2086,7 +2271,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-9.l-L1\n\nQuelle: http
  s://beelitz.de/events/fichtenwalder-helfen-2/var/ri-9.l-L1\nZuletzt mit 
- beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-9.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -2103,7 +2288,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-10.l-L1\n\nQuelle: htt
  ps://beelitz.de/events/fichtenwalder-helfen-2/var/ri-10.l-L1\nZuletzt mi
- t beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ t beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-10.l-L1
 END:VEVENT
 BEGIN:VEVENT
@@ -2120,7 +2305,7 @@ DESCRIPTION:Haben auch Sie einige Fragen\, die Ihnen bisher keiner beantw
   Herr Elze zu Vorschriften und Regelungen Herr Grumptmann zu[..]\nhttps:
  //beelitz.de/events/fichtenwalder-helfen-2/var/ri-11.l-L1\n\nQuelle: htt
  ps://beelitz.de/events/fichtenwalder-helfen-2/var/ri-11.l-L1\nZuletzt mi
- t beelitz.de abgeglichen: 28.09.2026\, 07:29 Uhr
+ t beelitz.de abgeglichen: 28.09.2026\, 16:02 Uhr
 URL:https://beelitz.de/events/fichtenwalder-helfen-2/var/ri-11.l-L1
 END:VEVENT
 END:VCALENDAR
